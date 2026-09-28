@@ -65,8 +65,12 @@ Fill in `00-scope.md` (a working document; rewrite it freely):
    field is a separate search territory with its own vocabulary and venues.
 3. **Lenses:** for each of the ten lenses (scholarly, practitioner,
    historical, cultural, critical, official, industry, community, popular,
-   data), note where they would be found *for this topic*. The table is
-   pre-filled by `init`, and `references/source-hunting.md` §1 has ideas.
+   data), fill in the "Where to look for this topic" column of the table
+   `init` creates. `references/source-hunting.md` §1 has ideas.
+
+Write fields as bullets under `## Fields` (e.g. `- microbiology: starter
+ecology, lactic acid bacteria`). `check` matches each source's `--field`
+tags against these lines and warns about fields with fewer than 3 sources.
 
 These three axes are how you'll check coverage. A compilation with 100 sources
 that all come from blogs and popular books has breadth in count only.
@@ -84,13 +88,26 @@ what it shows is missing.
   field's jargon, key names and classic works as you go, and feed them into
   later queries.
 - **Round 2, catalogues.** `C discover <project> "<query>" --catalogues
-  books,papers,crossref,archive,hn,stackexchange --out candidates.jsonl`
-  searches Open Library, Europe PMC, Crossref, the Internet Archive, Hacker
-  News and Stack Exchange directly. That surfaces academic work, old and
-  out-of-print texts, recordings and community discussion that web search
-  buries. Run it with the field's own terms, and with `--lang` for important
-  non-English literatures. Candidates are raw and noisy: delete the
-  irrelevant ones, add reliability/lens/field/facets, then batch-add them.
+  <list> --out candidates.jsonl` searches open catalogues directly. They
+  surface academic work, old and out-of-print texts, recordings and community
+  discussion that web search buries. Pick catalogues by topic:
+  - `openalex` and `crossref` cover every discipline (humanities and
+    engineering too);
+  - `papers` (Europe PMC) covers life sciences, medicine and psychology;
+  - `books` (Open Library) covers books in all languages;
+  - `archive` (Internet Archive) has old texts, audio and film;
+  - `hn` and `stackexchange --se-site <site>` are communities.
+
+  Tips:
+  - Use the field's own terms.
+  - Add `--sort cited` to find the classics.
+  - Add `--lang` for non-English literatures. Open Library covers some
+    languages thinly, so also search the web in that language.
+
+  Candidates are raw and noisy and get numbered `c1, c2, …`. Pick the
+  relevant ones and add them with shared tags:
+  `C add <project> --from-jsonl candidates.jsonl --pick c2,c5,c9 --lens
+  scholarly --field microbiology --facets science --reliability 4`.
 - **Round 3, fields and lenses sweep.** For every field in the scope that
   has fewer than ~3 sources, and every lens `stats` reports as missing or
   thin, run targeted searches (patterns in `source-hunting.md` §1–2). This
@@ -101,7 +118,8 @@ what it shows is missing.
   books, "further reading" lists, syllabi, Wikipedia references and awesome-
   lists. Search the names of the 5–10 key people.
 
-**Parallelize** broad topics: when subagents are available, give each one a
+**Parallelize** broad topics when you have a subagent tool (you may not, for
+example when you are yourself a subagent): give each one a
 field or a lens (not only a facet, since facet-split agents all find the
 same popular sources). Each should return candidate sources as JSONL lines
 in the registry format, plus key findings with their citations.
@@ -111,7 +129,7 @@ in the registry format, plus key findings with their citations.
 C add <project> --type paper --title "..." --author "Surname, A. & Surname, B." --year 2020 \
   --url "https://..." --reliability 4 --status seen --facets evidence \
   --lens scholarly --field microbiology --lang en --notes "RCT, n=120; via Smith 2021 review"
-C add <project> --from-jsonl candidates.jsonl     # one JSON object per line, same keys
+C add <project> --from-jsonl batch.jsonl          # one JSON object per line, same keys
 ```
 - Set `--lens`, `--field` and `--lang` on every source. `stats` and
   `check` use them to show which areas are covered.
@@ -119,9 +137,14 @@ C add <project> --from-jsonl candidates.jsonl     # one JSON object per line, sa
   episode page). Where you found it goes in `--notes` ("via ..."). Two books
   found on one list page therefore get two different URLs.
 - `--license` marks reusable material (CC BY, public domain). Authors care.
-- `C update` fixes fields, `C rename` changes an ID and rewrites its
-  citations, and `C log` appends a row to the search log. Use these instead of
-  editing `sources.jsonl` by hand.
+  `--accessed` dates volatile facts such as prices and availability.
+- Never register or link pirated copies (Z-Library, LibGen and similar
+  uploads). `discover` filters the known ones out.
+- Use the helper instead of editing `sources.jsonl` by hand:
+  - `C update <id>` fixes fields (`--facets +x` appends, `-x` removes).
+  - `C rename` changes an ID and rewrites its citations.
+  - `C delete` removes sources.
+  - `C log` appends to the search log; `--from-tsv` takes many rows at once.
 
 **Status** is what makes the compilation trustworthy, so set it honestly:
 - `seen`: you read the source's own content in this session: the page
@@ -129,23 +152,33 @@ C add <project> --from-jsonl candidates.jsonl     # one JSON object per line, sa
   a summary), the full text, or the abstract via `C abstract <id>
   --mark-read` (which notes "abstract only").
 - `confirmed`: existence and details checked (catalogue or DOI record, the
-  item's own page title in results, `C verify`) but the content wasn't read.
+  item's own page title in results, a publisher or product page for a book,
+  `C verify`) but the content wasn't read.
 - `unverified`: from memory, or only mentioned second-hand (a list, a
   citation in another work).
 
-**Verify before you write.** Run `C verify <project>`. It checks unverified
-sources against Crossref, Open Library, YouTube and the URL itself, and fills
-in missing years, DOIs and publishers. Then read every source that carries a
-load-bearing claim or appears in "best sources": fetch the page, or use `C
-abstract` for papers whose publisher blocks you. Targets: at least 30% of
-sources `seen`, at most 30% `unverified`, and no key claim resting only on an
-unverified source.
+**Verify before you write.**
+1. Run `C verify <project>`. It checks unverified sources against Crossref,
+   Open Library, YouTube and the URL itself, and fills in missing authors,
+   years, DOIs and publishers.
+2. Read every source that carries a load-bearing claim or appears in "best
+   sources":
+   - fetch the page;
+   - for papers whose publisher blocks you, use `C abstract <id>
+     --mark-read` (Europe PMC, Crossref, OpenAlex);
+   - for PDFs the fetch tool can't parse, use `C pdf <url> --grep <term>`.
+
+The aim is that no key claim rests on a source you haven't read. Ratios
+(`check` warns under 20% read or over 30% unverified) are a symptom check.
+Don't open low-value pages just to raise a number.
 
 **Scale and stopping.** A focused topic typically needs 60–120 sources, and
 roughly 40–80 searches plus catalogue runs. A broad one needs more, with
 subagents. Stop when:
-- `C check` shows no diversity warnings (or the scope explains why a lens or
-  field is absent);
+- `C check` shows no diversity warnings. When one doesn't fit the topic
+  (a young technology has no pre-2000 literature; a craft has no regulators),
+  explain it under `## Diversity exceptions` in the scope as `- decades:
+  <reason>`, and it becomes a note;
 - every facet has solid sources from at least 3 lenses (`stats` → "lenses
   per facet");
 - new queries mostly return known sources.
@@ -221,7 +254,8 @@ The final reply should include:
 
 For requests like "add more on X", "I added some PDFs" or "update this":
 1. Read `00-scope.md`, `README.md` and `C stats`. Update the scope first if
-   the request widens it.
+   the request widens it, including its facet table and Fields list, so that
+   they match the tags you'll use.
 2. Gather as above, registering only new sources, with lens, field and lang
    set. Log the new searches with `C log`.
 3. Update the affected chapters, add new ones in the 01–89 range, and

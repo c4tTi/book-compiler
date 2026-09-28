@@ -74,18 +74,28 @@ missing.
 | `books` (Open Library) | Books in all languages, old and new; use `--lang` | practitioner, popular, cultural, historical |
 | `papers` (Europe PMC) | Life sciences, medicine, psychology; includes PubMed; abstracts | scholarly, critical |
 | `crossref` | All DOI-registered work: journals, book chapters, theses, reports, standards | scholarly, official |
+| `openalex` | Scholarly works in every discipline, incl. humanities and engineering; language filter; abstracts | scholarly, historical, cultural |
 | `archive` (Internet Archive) | Digitized old books, audio, film, radio, podcasts | historical, cultural, popular |
 | `hn` (Hacker News) | Tech-adjacent discussion, often with expert commenters | community, critical |
 | `stackexchange` | Q&A communities; pick a site with `--se-site` (cooking, history, fitness, philosophy, diy, music, workplace, ...) | community, practitioner |
 
-Output is raw candidates. Review before adding: drop off-topic items, then
-set reliability, lens, field and facets.
+Options:
+- `--sort cited` searches titles and abstracts and ranks by citations or
+  downloads. Use it to find the classics.
+- `--lang` filters by language.
+
+Output is raw candidates (`c1, c2, …`). Pick the relevant ones with `add
+--from-jsonl … --pick`, setting reliability, lens, field and facets as you
+add them. Internet Archive results skip known pirate uploads and flag
+user uploads to check. Never register pirated copies of books.
 
 ## 5. When sites block you
 
 | Blocked | Fallback |
 |---|---|
-| PubMed captcha, journal paywalls or 403s | `compiler.py abstract <id> --mark-read` (Europe PMC abstracts); open-access copies via Europe PMC/PMC links; `discover papers` |
+| PubMed captcha, journal paywalls or 403s | `compiler.py abstract <id> --mark-read` (Europe PMC → Crossref → OpenAlex abstracts); open-access copies via Europe PMC/PMC links; `discover papers,openalex` |
+| PDF the fetch tool can't parse | `compiler.py pdf <url> --grep <term>` or `--pages 1-5` |
+| Rate limits (429) | The helper retries with backoff; for web search, space out queries and log what's pending |
 | Publisher or bookstore 403 | Open Library record (`verify`), Wikipedia article on the book, author's own site, reviews |
 | YouTube not readable | `verify` confirms title and channel via oEmbed; search for transcripts or show notes; confirm via the channel's own site |
 | Reddit, Discord, Facebook not readable | Search snippets (status stays `confirmed` or `unverified`); Stack Exchange/HN equivalents; blog posts summarizing the community |

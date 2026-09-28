@@ -27,6 +27,9 @@ the compendium sections it draws on, e.g. `[03 §3.2]`.
 **`workbench/syllabus.md`**: learning outcomes; sessions (title, goals,
 readings from the registry by `[@id]`, activities, time); assessments.
 **`workbench/reading-list.md`**: core / recommended / advanced, per session.
+**`workbench/supply-list.md`** (hands-on subjects): materials and tools per
+participant, suppliers with prices (`--accessed` date on those sources), and
+a small budget script if group size varies.
 
 ## Making a decision (buying, choosing a method, tool or strategy)
 
@@ -34,6 +37,14 @@ readings from the registry by `[@id]`, activities, time); assessments.
 per cell, weights, and a recommendation with its confidence.
 **`workbench/open-questions.md`**: what would change the decision and how
 to find out.
+
+When money is involved (payback, total cost of ownership, budget), add a
+small runnable model: `workbench/model.py`. Put the inputs at the top, each
+with its source `[@id]` and date. Print the result for a base case plus a
+sensitivity table (e.g. price ±20%, usage low/high, subsidy yes/no). Put the
+printed output into the options matrix. Readers can then rerun it with their
+own numbers. Compute weighted-matrix totals with the same script, never by
+hand.
 
 ## Learning a field (self-study)
 
