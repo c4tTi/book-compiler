@@ -1,6 +1,6 @@
 # 2. Source Books: Annotated Bibliography
 
-This is the reference list for every source tag used in the compendium. Each
+This is the annotated list of the books and key scholarship cited in the compendium. Each
 entry notes **what the book is for**, **what it adds that no other book
 does**, and **how useful it is for your own book**.
 
@@ -41,6 +41,13 @@ Sounds True, 2005 (with audio). ★★★
   resolution.
 - **For your book:** the best source for the *philosophical* depth of the
   practice beyond relaxation.
+
+### [@miller2010] Richard Miller, *Yoga Nidra: A Meditative Practice for Deep Relaxation and Healing*
+Sounds True, 2010 (book + CD). ★★ 🔎
+- Appears to be the retitled reissue of the 2005 book above. It is the
+  required reading for iRest Level 1 [@irestlevel1].
+- **For your book:** check which edition you own and cite that one. Don't
+  count the two as separate books.
 
 ### [@miller2015a] Richard Miller, *The iRest Program for Healing PTSD*
 New Harbinger, 2015. ★★
@@ -105,6 +112,50 @@ New Harbinger, 2015. ★
 - Practical, secular, stress-management framing, with many short scripts.
 - **For your book:** examples of short, modular scripts.
 
+### [@stanley2023] Tracee Stanley, *The Luminous Self: Sacred Yogic Practices and Rituals to Remember Who You Are*
+Shambhala, 2023. ★ 🔎
+- The follow-up to *Radiant Rest*. Yoga nidra sits alongside dreaming
+  rituals, breath, journaling and community care.
+- **For your book:** shows how a yoga nidra author widens into a whole
+  practice life. Read it if you plan a similar arc.
+
+### [@dinsmoretuli2014] Uma Dinsmore-Tuli, *Yoni Shakti: A Woman's Guide to Power and Freedom through Yoga and Tantra*
+Yogawords, 2014. ★ 🔎
+- Not a yoga nidra book as such, but it is where the menstrual, menopausal
+  and life-cycle themes of the Yoga Nidrā Network's practices come from.
+- **For your book:** needed only if you write about cyclical or women's
+  health practices.
+
+### [@bonnasse2017] Pierre Bonnasse, *Yoga Nidra Meditation: The Sleep of the Sages*
+Inner Traditions, 2017 (translated from French). ★★ 🔎
+- A spiritually oriented introduction drawing on Hindu, Buddhist and
+  tantric philosophy. It has four complete sessions and guidance on building
+  your own, with emphasis on staying aware at the edge of sleep.
+- **Unique contributions:** a French/European non-Bihar voice; treats the
+  practice as training for **lucid passage** through the three states.
+- **For your book:** a useful comparison for the "state vs. technique"
+  question (`08`).
+
+### [@moore2019] Scott Moore, *Practical Yoga Nidra: A 10-Step Method to Reduce Stress, Improve Sleep, and Restore Your Spirit*
+Rockridge Press, 2019. ★ 🔎
+- A secular, workbook-style 10-step method (not the iRest 10 steps).
+- **For your book:** a model of plain, practical beginner prose. It is
+  also a reminder that "10 steps" is already taken twice.
+
+### [@verma2021] Tamara Verma, *Yoga Nidra Scripts: 22 Meditations for Effortless Relaxation, Rejuvenation and Reconnection*
+Self-published, c. 2021 (plus a sequel, *Yoga Nidra Scripts 2*). ★ 🔎
+- A popular script collection among new teachers.
+- **For your book:** shows the market for ready-to-read scripts. Compare
+  its script length and wording with your own.
+
+### [@hersey2022] Tricia Hersey, *Rest Is Resistance: A Manifesto*
+Little, Brown Spark, 2022. ★ 🔎
+- Not a yoga nidra book. It is the manifesto of The Nap Ministry and the
+  "rest as resistance" movement, which frames how several contemporary
+  yoga nidra teachers talk about rest (see `10` §10.8).
+- **For your book:** cite it if you make the social or political case for
+  rest.
+
 ---
 
 ## C. Himalayan tradition
@@ -136,6 +187,37 @@ Online essay, *The Luminescent* (2015). ★★★ for the history chapter. 🔎
   it, and reviews the physiological research from the Himalayan-tradition
   perspective.
 
+### [@singleton2005] Mark Singleton, "Salvation through Relaxation: Proprioceptive Therapy and its Relationship to Yoga"
+*Journal of Contemporary Religion* 20(3), 2005, 289–304. ★★ 🔎
+- Shows that the relaxation now central to Western yoga, including yoga
+  nidra-type practice, owes much to 19th- and 20th-century Western
+  relaxation therapies. It also argues that relaxation changed what yoga
+  was understood to be for.
+- **For your book:** the scholarly backbone for the "Western relaxation
+  influences" section in `01` §1.2.
+
+### [@shearer2020] Alistair Shearer, *The Story of Yoga: From Ancient India to the Modern West*
+Hurst, 2020. ★ 🔎
+- A general history of yoga. It is cited for treating "yoga nidra" as an
+  umbrella term for modern relaxation methods [@wikiyoganidra].
+
+### [@boyes1973] Dennis Boyes, *Le yoga du sommeil éveillé: méthode de relaxation, yoga nidra*
+Épi, Paris, 1973 (revised 1983). ★★ for history 🔎
+- A French book that predates Satyananda's *Yoga Nidra* (1976). It is
+  described as the first modern presentation of yoga nidra as systematic
+  relaxation, including attention moved part by part through the body
+  [@wikiyoganidra]. A digitized copy is on Gallica (BnF).
+- **For your book:** a strong detail if you write "who invented modern
+  yoga nidra?". It complicates the "Satyananda created it" story.
+
+### [@mishra1959] Rammurti Mishra, *Fundamentals of Yoga*
+Lancer Books, New York, 1959. ★ 🔎
+- It has a short section, "Anesthesia produced by yoganidra" (pp. 106–108),
+  listed in the IAYT bibliography [@lamb2006]. This is an early
+  English-language use of the term, before Satyananda's book.
+- **For your book:** a possible footnote on the term's 20th-century
+  history. Check the text first.
+
 ### [@mavromatis1987] Andreas Mavromatis, *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*
 Routledge, 1987. ★
 - Not a yoga nidra book, but the standard scholarly work on the
@@ -155,7 +237,10 @@ Cite by text and verse. Translations vary, so use one consistently.
 - ***Haṭhapradīpikā***, ch. 4, and other medieval texts (see Birch &
   Hargreaves) 🔎 for verse numbers.
 
-For research citations, see `06-research.md`.
+For research citations, see `06-research.md`. For recordings, apps,
+trainings and communities, see `10-audio-video-courses-community.md`. The
+IAYT bibliography [@lamb2006] lists further early books, booklets and
+tapes up to 2006.
 
 ---
 
@@ -165,3 +250,7 @@ If you only have time for five books: **Satyananda 1976** (the template),
 **Miller 2005** (the depth), **Dinsmore-Tuli 2022** (the encyclopedia and
 the critique), **Stanley 2021** (a contemporary spiritual voice), and **Birch
 & Hargreaves 2015** (the honest history).
+
+New in the 2026-09-28 extension: **Boyes 1973** and **Singleton 2005** are
+the two additions most likely to change your history chapter. The other
+new books are optional.

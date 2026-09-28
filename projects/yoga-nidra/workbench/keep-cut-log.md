@@ -44,6 +44,12 @@ starting point from the compendium's author's notes. Override freely.
 | 36 | Common experiences | 07 §7.6 | KEEP | | |
 | 37 | Spiritual vs. secular | 08 §4 | decide | | |
 | 38 | NSDR / appropriation | 08 §9 | BRIEF | | |
+| 39 | Boyes 1973 / Mishra 1959: pre-Satyananda uses | 02 §D, 10 | BRIEF | | |
+| 40 | Copenhagen PET study and the Janakananda recording | 10 §10.2, 10.6, 06 | BRIEF | | |
+| 41 | How to choose a recording (voice, length, style) | 10 §10.3 | KEEP | | |
+| 42 | "Where to practice next" appendix (apps, free libraries) | 10 §10.3, 10.8 | BRIEF (dated) | | |
+| 43 | Landscape of teacher trainings | 10 §10.5 | CUT (or describe types only) | | |
+| 44 | iRest at Walter Reed: secularization story | 10 §10.5, 01 | BRIEF | | |
 
 ## Your own material (not in the literature)
 

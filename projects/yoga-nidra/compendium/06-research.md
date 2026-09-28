@@ -5,8 +5,8 @@ active controls, and many appeared in lower-impact journals. Several
 test yoga nidra as part of a larger yoga program. Write about it with
 matching modesty. That is also a mark of credibility for your book.
 
-🔎 **All citations below must be checked against the original paper before
-publication.** Authors, years and journals are given as best known.
+✅ All papers below were checked against PubMed/DOI records (September 2026). Details of
+effects come from abstracts; read the full papers before quoting numbers.
 
 ---
 
@@ -16,8 +16,9 @@ publication.** Authors, years and journals are given as best known.
 - **Kjaer TW, Bertelsen C, Piccini P, Brooks D, Alving J, Lou HC (2002).**
   "Increased dopamine tone during meditation-induced change of
   consciousness." *Cognitive Brain Research* 13(2):255–259. [@kjaer2002]
-- Eight experienced (Satyananda-style) yoga nidra teachers. The radioligand
-  measure suggested a **~65% increase in endogenous dopamine release** in
+- Eight experienced yoga nidra practitioners (men aged 31–50, reportedly
+  meditation teachers). Raclopride binding in the ventral striatum fell by
+  7.9%, which the authors equate to a **~65% increase in endogenous dopamine release** in
   the ventral striatum during the practice, together with reduced desire
   for action.
 - **Most-cited finding in the literature.** Limitations: n=8, experienced
@@ -47,14 +48,14 @@ publication.** Authors, years and journals are given as best known.
 
 | Area | Example studies 🔎 | What they suggest | Confidence |
 |---|---|---|---|
-| **Stress, anxiety, well-being** | Moszeik, von Oertzen & Renner (2020), *Current Psychology*: 11-min online practice, large sample [@moszeik2020] | Reduced stress, better well-being and sleep quality vs. waitlist | ⚠️ moderate, short-term |
+| **Stress, anxiety, well-being** | Moszeik, von Oertzen & Renner (2020), *Current Psychology*: 11-min online practice, n=341 vs. waitlist n=430 [@moszeik2020] | Reduced stress, better well-being and sleep quality vs. waitlist; effects very small to small | ⚠️ moderate, short-term |
 | **PTSD (veterans)** | Stankovic (2011), *Int J Yoga Therapy* 21:23–37: iRest with combat veterans (qualitative feasibility) [@stankovic2011] | Lower rage, anxiety, reactivity; feasible | ⚠️ small, uncontrolled |
 | **Military sexual trauma** | Pence et al. (2014), *Int J Yoga Therapy* 24:53–62: iRest with women veterans [@pence2014] | Reduced PTSD and depressive symptoms | ⚠️ pilot |
-| **Sleep / insomnia** | Datta et al. (2017, 2021) (case report, then trial with CBT-I comparison) [@datta2021] | Improved sleep measures in chronic insomnia | ⚠️ small |
+| **Sleep / insomnia** | Datta et al. (2021), *Natl Med J India*: RCT, n=41, yoga nidra vs. CBT-I [@datta2021] | Both improved; yoga nidra showed more deep-sleep (N2/N3) gains and lower cortisol | ⚠️ small |
 | **Menstrual disorders** | Rani et al. (2011), *Int J Yoga* 4(1):20–25 [@rani2011] | Better psychological well-being in women with menstrual irregularities | ⚠️ small RCT |
 | **Diabetes** | Amita et al. (2009), *Indian J Physiol Pharmacol* 53(1):97–101 [@amita2009] | Lower blood glucose alongside medication | ⚠️ small |
 | **Teachers / professionals** | Ferreira-Vorkapic et al. (2018), *Int J Yoga* [@ferreiravorkapic2018] | Reduced anxiety and stress vs. control | ⚠️ small |
-| **Chronic pain, mTBI** | Nassif et al. (2019) iRest studies [@nassif2019] | Pain interference down in some measures | ⚠️ pilot |
+| **Chronic pain with TBI** | Nassif et al. (2015/16), *Military Behavioral Health*: iRest n=4 vs. usual care n=5 [@nassif2015] | Pain intensity and interference down | ⚠️ tiny pilot |
 
 **Reviews:** 🔎 e.g., Pandi-Perumal SR et al. (2022), "The Origin and
 Clinical Relevance of Yoga Nidra", *Sleep and Vigilance* [@pandiperumal2022]: a narrative
