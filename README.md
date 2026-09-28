@@ -20,15 +20,28 @@ Just ask, in your own words:
 > Extend the yoga nidra compilation with audio recordings, trainings and communities.
 
 Claude will:
-1. **Scope** the topic and your purpose, and split it into facets
-   (history, concepts, methods, evidence, debates, tools...).
-2. **Gather** sources of every type, snowballing through bibliographies,
-   reviews, syllabi and expert lists, and log each one with a reliability rating.
-3. **Compile** a compendium in its own words: chapters per facet, citations,
-   confidence flags (✅ ⚠️ 🔎), a one-page overview, best sources by type,
-   glossary and a generated bibliography.
-4. Set up a **workbench** for your purpose: book outline and keep/cut log,
-   course syllabus, decision matrix, learning path...
+1. **Scope** the topic and your purpose, and map it on three axes:
+   - **facets**: history, concepts, methods, evidence, debates, tools…
+   - **fields**: every discipline that studies it (e.g. microbiology, food
+     history and law for sourdough)
+   - **lenses**: ten kinds of voice (scholarly, practitioner, historical,
+     cultural and non-English, critical, official, industry, community,
+     popular, data)
+2. **Gather** in rounds:
+   - web search;
+   - direct catalogue searches (Open Library, Europe PMC, Crossref,
+     OpenAlex, Internet Archive, Hacker News, Stack Exchange);
+   - a sweep of any thin fields and lenses;
+   - snowballing from bibliographies.
+3. **Log and verify** every source: type, rating, lens, field, language.
+   Sources are automatically checked against catalogues, and each is marked as
+   read, confirmed or unverified.
+4. **Compile** a compendium in its own words: chapters per facet, citations,
+   confidence flags (✅ ⚠️ 🔎), an overview with the best sources by type and a
+   coverage table, a glossary and a generated bibliography.
+5. Set up a **workbench** for your purpose: a book outline and keep/cut log, a
+   course syllabus and supply list, a decision matrix with a runnable cost
+   model, or a learning path.
 
 ## Layout
 

@@ -43,6 +43,30 @@
         "decision",
         "matrix"
       ]
+    },
+    {
+      "id": 5,
+      "name": "silk-road-novel",
+      "prompt": "I'm writing a historical novel set on the Silk Road around 750 AD (Tang China to Samarkand). Gather every resource you can: history, daily life, trade goods, religions, languages, maps, primary sources, the lot.",
+      "expected_output": "Humanities-heavy: primary sources in translation, archaeology, multiple languages/regions, museum collections, maps/data; book workbench",
+      "purpose_files": [
+        "outline",
+        "keep-cut",
+        "novel",
+        "research"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "urban-beekeeping",
+      "prompt": "i want to start beekeeping on my balcony/roof in zurich. compile everything i need to know - rules, equipment, bee health, courses, local clubs.",
+      "expected_output": "Official Swiss/cantonal rules, practitioner and scholarly bee science, local community and courses, German-language sources; learning path / checklist",
+      "purpose_files": [
+        "learning",
+        "path",
+        "checklist",
+        "plan"
+      ]
     }
   ]
 }
