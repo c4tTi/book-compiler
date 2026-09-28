@@ -1,13 +1,48 @@
 {
   "skill_name": "topic-compiler",
   "evals": [
-    {"id": 1, "name": "sourdough-book",
-     "prompt": "compile everything you can find about sourdough bread baking, i want to write a beginners guide book from it",
-     "expected_output": "Project folder with scope/facets, 30+ rated sources of many types, cited compendium chapters, overview with best sources by type, bibliography, book workbench (outline, keep/cut)",
-     "purpose_files": ["outline", "keep-cut"]},
-    {"id": 2, "name": "fasting-decision",
-     "prompt": "Gather all the resources on intermittent fasting research. I'm a nutrition coach and need to decide whether to recommend it to my clients (mostly women 35-55).",
-     "expected_output": "Project folder with evidence-heavy compendium focused on women 35-55, safety, options matrix / recommendation workbench, 30+ sources incl. reviews and RCTs",
-     "purpose_files": ["options", "decision", "recommend"]}
+    {
+      "id": 1,
+      "name": "sourdough-book",
+      "prompt": "compile everything you can find about sourdough bread baking, i want to write a beginners guide book from it",
+      "expected_output": "Project folder with scope/facets, 30+ rated sources of many types, cited compendium chapters, overview with best sources by type, bibliography, book workbench (outline, keep/cut)",
+      "purpose_files": [
+        "outline",
+        "keep-cut"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "fasting-decision",
+      "prompt": "Gather all the resources on intermittent fasting research. I'm a nutrition coach and need to decide whether to recommend it to my clients (mostly women 35-55).",
+      "expected_output": "Project folder with evidence-heavy compendium focused on women 35-55, safety, options matrix / recommendation workbench, 30+ sources incl. reviews and RCTs",
+      "purpose_files": [
+        "options",
+        "decision",
+        "recommend"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "woodblock-workshop",
+      "prompt": "I want to teach a weekend workshop on Japanese woodblock printing (mokuhanga). Pull together everything you can find on it, history, techniques, materials, where to buy tools, the lot.",
+      "expected_output": "Cultural/historical breadth incl. Japanese-language sources, practitioner and museum sources, supplier info, syllabus workbench",
+      "purpose_files": [
+        "syllabus",
+        "reading",
+        "workshop"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "home-battery-decision",
+      "prompt": "we're thinking about adding a home battery to our solar panels (Switzerland, 4 person house). compile the resources so we can decide if its worth it and which one",
+      "expected_output": "Official/regulatory (Swiss), industry, data, community and critical sources; options matrix with computed numbers",
+      "purpose_files": [
+        "options",
+        "decision",
+        "matrix"
+      ]
+    }
   ]
 }
