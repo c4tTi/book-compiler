@@ -1,6 +1,6 @@
 ---
 name: topic-compiler
-description: Research any topic in depth and compile everything findable (books, papers, reviews, primary texts, websites, videos, podcasts, courses, tools, datasets, communities, experts and the user's own files) into one structured, cited compendium the user can build on, e.g. to write a book, prepare a course, make a decision or learn a field. Use this whenever the user asks to "compile", "gather everything on", "collect all resources/books/sources about", "build a knowledge base / reference / resource on", "research X thoroughly", "do a literature review", or wants material on a subject to write from, even if they don't say "compile". Not for compiling source code or build errors.
+description: Research any topic in depth and compile everything findable (books, papers, reviews, primary texts, archives, websites, videos, audio, podcasts, courses, apps, tools, datasets, communities, experts and the user's own files), drawn from many disciplines, perspectives and languages, into one structured, cited compendium the user can build on, e.g. to write a book, prepare a course, make a decision or learn a field. Use this whenever the user asks to "compile", "gather everything on", "collect all resources/books/sources about", "build a knowledge base / reference / resource on", "research X thoroughly", "do a literature review", or wants material on a subject to write from, even if they don't say "compile". Not for compiling source code or build errors.
 ---
 
 # Topic Compiler
@@ -10,16 +10,20 @@ organized compendium, a registry of every source found, and a workbench
 geared to what the user will do with it.
 
 The value is in three things the user can't easily do alone. Do them all:
-1. **Breadth:** find sources across *all* types and angles, not the first ten
-   search hits.
-2. **Structure:** organize the field into a map (history, concepts, methods,
-   evidence, debates...) instead of a pile of links.
-3. **Trust:** every claim traceable to a source, every source rated, and a
-   clear line between what was checked and what was not.
+1. **Breadth across areas:** sources from every discipline that studies the
+   topic, every kind of voice (scholars, practitioners, critics, officials,
+   industry, communities, historical and non-English traditions) and every
+   medium. Not the first ten search hits, which mostly repeat one popular
+   viewpoint.
+2. **Structure:** a map of the field (history, concepts, methods, evidence,
+   debates...) instead of a pile of links.
+3. **Trust:** every claim traceable to a source, every source rated, and an
+   honest record of what was actually read versus only confirmed to exist.
 
-The bundled helper `scripts/compiler.py` (Python 3, standard library) does
-the bookkeeping. Run it with `python3 <skill-dir>/scripts/compiler.py
-<command> ...`. Run `--help` for all commands.
+The helper `scripts/compiler.py` (Python 3, standard library) does the
+bookkeeping, catalogue searches and verification. Run it as `python3
+<skill-dir>/scripts/compiler.py <command> ...`; `--help` lists all commands.
+Below, `C` stands for that invocation.
 
 ---
 
@@ -27,148 +31,202 @@ the bookkeeping. Run it with `python3 <skill-dir>/scripts/compiler.py
 
 Work out from the request:
 - **Topic** and its likely boundaries.
-- **Purpose:** writing a book, teaching, a decision, learning, a product,
-  general reference. This shapes the workbench (see
-  `references/workbenches.md`) and what counts as relevant.
+- **Purpose:** book, course, decision, learning, product, general
+  reference. This shapes the workbench (`references/workbenches.md`) and
+  what counts as relevant.
 - **Audience, depth, languages, exclusions.**
 
 Ask **at most one** short question, and only when the purpose is truly
 unclear *and* would change the output. Otherwise pick sensible defaults, write
 them down, and go. The user can redirect.
 
-Create the project:
 ```bash
-python3 scripts/compiler.py init projects/<topic-slug> --title "<Topic>" \
-  --purpose "<purpose>" --request "<the user's words>"
+C init projects/<topic-slug> --title "<Topic>" --purpose "<purpose>" --request "<the user's words>"
 ```
 Use `projects/` under the current repo or working directory unless the user
-names another place. If a project for this topic already exists, **extend it**
-rather than starting over: read its `00-scope.md` and `sources.jsonl` first.
+names another place. If the project already exists, go to **Extending an
+existing project** below.
 
-## Step 2: Map the field (facets)
+## Step 2: Map the field on three axes
 
-Before searching widely, write 6–12 **facets** into `00-scope.md`. These are the
-angles a complete treatment needs. Start from the generic list and adapt it to
-the topic:
+Fill in `00-scope.md` (a working document; rewrite it freely):
 
-origins & history · key people & schools · core concepts & vocabulary ·
-methods / practices / how-to · evidence & research · applications & use
-cases · debates & criticism · risks, safety & ethics · tools & resources ·
-current state & trends · adjacent fields.
+1. **Facets:** 6–12 angles a complete treatment needs. These become
+   chapters. Generic starting list: origins & history · key people &
+   schools · core concepts · methods / practice · evidence & research ·
+   applications · debates & criticism · risks, safety & ethics · tools &
+   resources · current state & trends · adjacent fields.
+2. **Fields:** list the disciplines and domains that have something to say
+   about the topic. Think wider than the obvious. For sourdough, that means
+   microbiology, food chemistry, nutrition, gastroenterology, food history,
+   anthropology, economics of bakeries, and craft/culinary practice. For a
+   meditation practice, it means neuroscience, clinical psychology, religious
+   studies and philology, history, sleep medicine, and trauma therapy. Each
+   field is a separate search territory with its own vocabulary and venues.
+3. **Lenses:** for each of the ten lenses (scholarly, practitioner,
+   historical, cultural, critical, official, industry, community, popular,
+   data), note where they would be found *for this topic*. The table is
+   pre-filled by `init`, and `references/source-hunting.md` §1 has ideas.
 
-For each facet, note the questions it must answer. The facets become the
-compendium chapters and the axes for checking coverage.
+These three axes are how you'll check coverage. A compilation with 100 sources
+that all come from blogs and popular books has breadth in count only.
 
-## Step 3: Gather (the main work)
+## Step 3: Gather in rounds
 
-Search broadly with every tool you have: web search, web fetch, scholarly
-search, connectors (Google Drive, Notion, etc.) when the user points to them,
-and files the user supplies. `references/source-hunting.md` has search
-patterns and a checklist of **where to look for each source type**. Read it
-at the start of this step.
+Read `references/source-hunting.md` at the start of this step. It has search
+patterns, the catalogue list, fallbacks for blocked sites and the reliability
+rubric.
 
-How to do this well:
-- **Run many queries.** Vary the wording, use the field's own jargon (which
-  you learn as you go), search in the field's key languages, and search by
-  source type ("<topic> systematic review", "<topic> podcast", "best books on
-  <topic>", "<topic> site:reddit.com", "<topic> syllabus").
-- **Snowball.** The best sources come from bibliographies, "further reading"
-  lists, citations in reviews, awesome-lists, course syllabi and Wikipedia
-  references. Follow them.
-- **Parallelize** for big topics: when subagents are available, give each
-  one a facet or source type. Have each return structured source entries
-  (title, author, year, type, url, one-line value, reliability) plus key
-  findings with the citations they came from.
-- **Register every source as you find it:**
-  ```bash
-  python3 scripts/compiler.py add projects/<slug> --type paper \
-    --title "..." --author "Surname, A. & Surname, B." --year 2020 \
-    --url "https://..." --reliability 4 --status seen \
-    --facets evidence,history --notes "RCT, n=120; strongest trial on X"
-  ```
-  The ID it prints (e.g. `kjaer2002`) is what you cite as `[@kjaer2002]`.
-  It refuses duplicates, which keeps the registry clean over long sessions.
-- **Rate reliability** from 1 to 5 using the rubric in
-  `references/source-hunting.md`. Use `--status seen` only if you actually
-  opened the source in this session. Sources recalled from memory are
-  `unverified`. That distinction is what lets the user trust the result.
-- **Log searches** in the search-log table of `00-scope.md`, so a later
-  session can extend the work without repeating it.
-- **Know when to stop.** Run `compiler.py stats` periodically. Keep going
-  until every facet has solid sources, the major source types are covered
-  (or are known not to exist), and new queries mostly return sources you
-  already have. Say explicitly where coverage is thin.
+Work in rounds. Run `C stats` after each round and aim the next round at
+what it shows is missing.
 
-**User's own files:** put them in `projects/<slug>/library/raw/`, then run
-`compiler.py ingest` and `compiler.py search <term>`. Supported formats:
-PDF (needs `pip install pypdf`), EPUB, HTML, TXT, MD, and SRT/VTT
-transcripts. Results carry file and page/chapter, so they can be cited
-precisely.
+- **Round 1, web search by facet.** Several queries per facet. Pick up the
+  field's jargon, key names and classic works as you go, and feed them into
+  later queries.
+- **Round 2, catalogues.** `C discover <project> "<query>" --catalogues
+  books,papers,crossref,archive,hn,stackexchange --out candidates.jsonl`
+  searches Open Library, Europe PMC, Crossref, the Internet Archive, Hacker
+  News and Stack Exchange directly. That surfaces academic work, old and
+  out-of-print texts, recordings and community discussion that web search
+  buries. Run it with the field's own terms, and with `--lang` for important
+  non-English literatures. Candidates are raw and noisy: delete the
+  irrelevant ones, add reliability/lens/field/facets, then batch-add them.
+- **Round 3, fields and lenses sweep.** For every field in the scope that
+  has fewer than ~3 sources, and every lens `stats` reports as missing or
+  thin, run targeted searches (patterns in `source-hunting.md` §1–2). This
+  round is what makes the compilation draw from all areas instead of the most
+  visible one. If a lens truly doesn't exist for the topic (e.g. no official
+  bodies regulate it), say so in the scope rather than forcing it.
+- **Round 4, snowball.** Follow the bibliographies of the best reviews and
+  books, "further reading" lists, syllabi, Wikipedia references and awesome-
+  lists. Search the names of the 5–10 key people.
+
+**Parallelize** broad topics: when subagents are available, give each one a
+field or a lens (not only a facet, since facet-split agents all find the
+same popular sources). Each should return candidate sources as JSONL lines
+in the registry format, plus key findings with their citations.
+
+**Register sources** as you go, or batch them:
+```bash
+C add <project> --type paper --title "..." --author "Surname, A. & Surname, B." --year 2020 \
+  --url "https://..." --reliability 4 --status seen --facets evidence \
+  --lens scholarly --field microbiology --lang en --notes "RCT, n=120; via Smith 2021 review"
+C add <project> --from-jsonl candidates.jsonl     # one JSON object per line, same keys
+```
+- Set `--lens`, `--field` and `--lang` on every source. `stats` and
+  `check` use them to show which areas are covered.
+- The URL is the source's **own** page (DOI, catalogue record, product page,
+  episode page). Where you found it goes in `--notes` ("via ..."). Two books
+  found on one list page therefore get two different URLs.
+- `--license` marks reusable material (CC BY, public domain). Authors care.
+- `C update` fixes fields, `C rename` changes an ID and rewrites its
+  citations, and `C log` appends a row to the search log. Use these instead of
+  editing `sources.jsonl` by hand.
+
+**Status** is what makes the compilation trustworthy, so set it honestly:
+- `seen`: you read the source's own content in this session: the page
+  itself via fetch (a fetch tool's summary counts, so note it if you only had
+  a summary), the full text, or the abstract via `C abstract <id>
+  --mark-read` (which notes "abstract only").
+- `confirmed`: existence and details checked (catalogue or DOI record, the
+  item's own page title in results, `C verify`) but the content wasn't read.
+- `unverified`: from memory, or only mentioned second-hand (a list, a
+  citation in another work).
+
+**Verify before you write.** Run `C verify <project>`. It checks unverified
+sources against Crossref, Open Library, YouTube and the URL itself, and fills
+in missing years, DOIs and publishers. Then read every source that carries a
+load-bearing claim or appears in "best sources": fetch the page, or use `C
+abstract` for papers whose publisher blocks you. Targets: at least 30% of
+sources `seen`, at most 30% `unverified`, and no key claim resting only on an
+unverified source.
+
+**Scale and stopping.** A focused topic typically needs 60–120 sources, and
+roughly 40–80 searches plus catalogue runs. A broad one needs more, with
+subagents. Stop when:
+- `C check` shows no diversity warnings (or the scope explains why a lens or
+  field is absent);
+- every facet has solid sources from at least 3 lenses (`stats` → "lenses
+  per facet");
+- new queries mostly return known sources.
+Say plainly where coverage is still thin.
+
+**User's own files:** put them in `<project>/library/raw/`, then run `C
+ingest` and `C search <term>`. Supported: PDF (needs `pip install pypdf`, and
+if that fails, `pip install cffi pypdf`), EPUB, HTML, TXT, MD, SRT/VTT. Hits
+carry the file name and page or chapter, so they can be cited precisely.
 
 ## Step 4: Compile
 
-Write `compendium/` as numbered chapters, one per facet (merge or split
-as needed): `01-<facet>.md`, `02-...`. Then add the glossary and the
-bibliography.
+File numbering in `compendium/`:
+- `00-overview.md`
+- chapters `01-…` to `89-…`, one per facet (merge or split as needed)
+- `90-glossary.md`
+- `99-bibliography.md` (generated)
 
 Each chapter:
-- **Synthesizes in your own words.** Compare sources, show where they agree
-  or disagree, and cite with `[@id]` or `[@id1; @id2]`. Aim for synthesis,
-  not source-by-source summaries.
+- **Synthesizes in your own words.** Compare sources and show where fields
+  and lenses agree or clash (e.g. scientists vs. practitioners, official
+  guidance vs. community experience). Cite as `[@id]` or `[@id1; @id2]`.
 - **Flags confidence:** ✅ well established · ⚠️ contested or weakly
   supported · 🔎 verify before relying on it (unverified source, uncertain
-  detail, or recalled from memory).
+  detail).
 - **Ends with a purpose note:** what is essential for the user's purpose,
   what is optional, what can be cut.
 
-Also write:
-- `compendium/00-overview.md`: the field on one page. Its shape, the
-  5–10 must-know sources, and the main open questions.
-- A **"Best sources by type"** section in the overview: top picks per type
-  (books, papers, videos, podcasts, courses, tools, communities) with one
-  line on why.
-- `compendium/9x-glossary.md` when the field has its own vocabulary.
+`00-overview.md` covers the field on one page (its shape, the fields and
+schools involved, the main open questions), plus:
+- **Best sources by type:** top picks for books, papers/reviews, primary or
+  historical texts, video, audio/podcasts, courses, tools/apps/data, and
+  communities, one line each on why.
+- **Coverage:** a short table of lenses and fields with how well each is
+  represented, and the known gaps.
 
-**Copyright:** summarize and link, don't reproduce. Short quotes are fine
-when attributed; don't copy whole chapters, articles, transcripts or
-paywalled text into the project. The user's own files stay in the
-git-ignored `library/`.
+**Copyright:** summarize and link; short attributed quotes are fine. Don't
+copy whole chapters, articles, transcripts or paywalled text into the project.
+The user's own files stay in the git-ignored `library/`.
 
-Then generate the bibliography and check integrity:
+When a workbench needs numbers (weighted matrices, totals), compute them
+with a short script rather than by hand.
+
+Then:
 ```bash
-python3 scripts/compiler.py bib projects/<slug>     # writes compendium/99-bibliography.md
-python3 scripts/compiler.py check projects/<slug>   # duplicates, missing fields, dangling citations
+C bib <project>      # writes compendium/99-bibliography.md
+C check <project>    # PROBLEMs must be fixed; WARNings must be fixed or explained in 00-scope.md
 ```
-Fix every problem `check` reports. Citing an ID that isn't registered is the
-most common one.
 
 ## Step 5: Workbench and handoff
 
-Create `workbench/` files for the user's purpose (templates in
-`references/workbenches.md`). For example: a keep/cut log and outline for a
-book, a syllabus for a course, an options matrix for a decision, a learning
-path for self-study.
+Create `workbench/` files for the user's purpose (see
+`references/workbenches.md`).
 
-Write `projects/<slug>/README.md`: what's there, how it was compiled
-(date, scope, main search strategies), coverage and known gaps, and how to
-extend it.
+Write `<project>/README.md`: what's there, how it was compiled (date,
+scope, strategies, catalogues used), coverage and gaps, and how to extend it.
 
 If you're in a git repository, commit the project, following the repo's
 branch and commit rules.
 
-In the final reply, tell the user:
-- How many sources were found, by type, and how many were actually opened
-  vs. unverified.
-- The 3–5 most important findings or sources.
-- Where coverage is thin, and anything they should verify before publishing.
-- What they can ask next ("go deeper on facet X", "add my PDFs", "draft
+The final reply should include:
+- **Sources:** total; by status (read / confirmed / unverified); number of
+  types, lenses and fields covered, and languages.
+- **The 3–5 most important findings or sources**, stated plainly.
+- **Gaps:** thin lenses or fields, and what must be verified before
+  publishing or acting on it.
+- **Next steps** they can ask for ("go deeper on X", "add my PDFs", "draft
   chapter 1").
 
 ---
 
 ## Extending an existing project
 
-For requests like "add more on X", "I added some PDFs", or "update this":
-read the scope, run `stats`, register only new sources, update the chapters
-they affect, then run `bib` and `check` again. Record new searches in the
-search log. The goal is one growing, consistent resource per topic.
+For requests like "add more on X", "I added some PDFs" or "update this":
+1. Read `00-scope.md`, `README.md` and `C stats`. Update the scope first if
+   the request widens it.
+2. Gather as above, registering only new sources, with lens, field and lang
+   set. Log the new searches with `C log`.
+3. Update the affected chapters, add new ones in the 01–89 range, and
+   update `00-overview.md` (best sources, coverage) and the glossary. Create
+   the overview if it is missing.
+4. If older sources lack lens or field tags, add them with `C update`.
+   Run `C verify` on any unverified sources.
+5. Run `C bib` and `C check`, and update the README's status and gaps.
