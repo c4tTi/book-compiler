@@ -1,0 +1,8 @@
+# Your own copies of books and their extracted text stay local (copyright).
+library/raw/*
+library/extracted/*
+!library/raw/.gitkeep
+!library/extracted/.gitkeep
+__pycache__/
+*.pyc
+.venv/
