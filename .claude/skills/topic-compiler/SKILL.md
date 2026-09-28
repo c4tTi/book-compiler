@@ -168,6 +168,18 @@ C add <project> --from-jsonl batch.jsonl          # one JSON object per line, sa
      --mark-read` (Europe PMC, Crossref, OpenAlex);
    - for PDFs the fetch tool can't parse, use `C pdf <url> --grep <term>`.
 
+**Rules, numbers and legal points need the primary text.** Search snippets
+and fetch-tool summaries are compressions and can invert or invent details.
+In test runs, a summary of a PDF reported distance rules that the document
+explicitly declines to give, and a snippet got a permit rule backwards. So
+for any regulation, legal requirement, dosage, price, statistic or date that
+the user will act on:
+- read it in the source itself (`C pdf <url> --grep <term>` for PDFs, or the
+  official page);
+- cite that source;
+- note where a widely repeated figure differs from the original (corrected
+  numbers are common).
+
 The aim is that no key claim rests on a source you haven't read. Ratios
 (`check` warns under 20% read or over 30% unverified) are a symptom check.
 Don't open low-value pages just to raise a number.
