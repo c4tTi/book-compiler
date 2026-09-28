@@ -10,10 +10,10 @@ note.
 - **Literal:** *yoga* (union, discipline) + *nidrā* (sleep): "yogic sleep".
 - **Three uses of the term.** Say which one you mean.
   1. **A state:** awareness present while body and mind are in (or near)
-     sleep [Parker et al. 2013; Birch & Hargreaves 2015].
+     sleep [@parker2013; @birch2015].
   2. **A practice:** a guided method, usually lying down, aimed at that
-     state [Satyananda 1976].
-  3. **A goddess or power:** *Yoganidrā* as *śakti* [Dinsmore-Tuli 2022].
+     state [@satyananda1976].
+  3. **A goddess or power:** *Yoganidrā* as *śakti* [@dinsmoretuli2022].
 - Most confusion in the literature comes from sliding between (1) and (2).
 
 ## 3.2 States of consciousness ✅
@@ -21,14 +21,13 @@ note.
   awareness that underlies all three.
 - **Aim of the practice** (varies by author):
   - *Relaxation view:* reach deep rest while staying just aware enough to
-    follow the voice [Lusk 2015].
+    follow the voice [@lusk2015].
   - *Hypnagogic view:* stay on the threshold between waking and sleep,
-    where the mind is suggestible and imagery arises [Satyananda 1976;
-    Desai 2017].
+    where the mind is suggestible and imagery arises [@satyananda1976; @desai2017].
   - *Turīya view:* recognize the awareness that stays constant as states
-    change [Miller 2005; Stanley 2021].
+    change [@miller2005; @stanley2021].
 - **Brainwave shorthand** (beta → alpha → theta → delta) is common in
-  popular books [Desai 2017]. ⚠️ It is a simplification (see `06`).
+  popular books [@desai2017]. ⚠️ It is a simplification (see `06`).
 
 ## 3.3 Pratyāhāra (withdrawal of the senses) ✅
 - The fifth limb of Patañjali's eight-limbed yoga: the senses turn from
@@ -46,11 +45,11 @@ note.
   1976].
 - **Miller/iRest:** separates the **heartfelt desire** (deep longing: "I
   want to feel whole") from the **intention** (for this session: "I will
-  stay present") [Miller 2015a].
+  stay present") [@miller2015a].
 - **Stanley:** *sankalpa* is not a wish list but the heart's truth, which
-  you **discover** in the practice [Stanley 2021].
+  you **discover** in the practice [@stanley2021].
 - **Dinsmore-Tuli:** it may arise on its own, may be optional, and should
-  never be imposed [Dinsmore-Tuli 2022].
+  never be imposed [@dinsmoretuli2022].
 - ⚠️ The claim that a resolve made in this state "cannot fail" is a claim,
   not a finding.
 
@@ -66,7 +65,7 @@ From the Taittirīya Upaniṣad, the organizing map for many scripts:
 | Ānandamaya | Bliss | Joy, well-being |
 | (Beyond) | Awareness / Self | Resting as awareness |
 
-iRest is built directly on this sequence [Miller 2005].
+iRest is built directly on this sequence [@miller2005].
 
 ## 3.6 The witness (*sākṣī*) ✅
 - The practitioner becomes the **observer** of sensations, breath,
@@ -84,7 +83,7 @@ iRest is built directly on this sequence [Miller 2005].
 ## 3.8 Saṃskāras (impressions) ⚠️
 - Latent impressions from past experience that shape behaviour.
 - Yoga nidra's visualization and opposites stages are said to bring them up
-  and "exhaust" them [Satyananda 1976]. This is a traditional yogic
+  and "exhaust" them [@satyananda1976]. This is a traditional yogic
   explanation, not a finding.
 
 ## 3.9 Hypnagogia ✅
@@ -96,7 +95,7 @@ iRest is built directly on this sequence [Miller 2005].
 
 ## 3.10 The Inner Resource (iRest) ✅
 - A felt sense of safety, well-being or ease that you establish **before**
-  going deep, and can return to any time [Miller 2015a].
+  going deep, and can return to any time [@miller2015a].
 - One of the most important modern innovations for trauma-sensitive
   teaching.
 

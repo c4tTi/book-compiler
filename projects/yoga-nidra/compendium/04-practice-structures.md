@@ -5,7 +5,7 @@ skeleton. This skeleton is what your own structure will probably build on.
 
 ---
 
-## 4.1 Satyananda (Bihar School) [Satyananda 1976]
+## 4.1 Satyananda (Bihar School) [@satyananda1976]
 The classic eight stages:
 
 1. **Preparation.** Lying in *śavāsana*; settling; awareness of sounds and
@@ -25,7 +25,7 @@ The classic eight stages:
 7. **Sankalpa** repeated.
 8. **Ending.** Slow externalization: breath, body, room, sounds, movement.
 
-## 4.2 iRest (Richard Miller) [Miller 2015a]
+## 4.2 iRest (Richard Miller) [@miller2015a]
 The ten-step protocol:
 
 1. **Heartfelt desire** (deep longing).
@@ -40,7 +40,7 @@ The ten-step protocol:
 10. **Integration** (returning, reflecting, keeping the practice alive in
     daily life).
 
-## 4.3 Amrit Yoga Nidra [Desai 2017]
+## 4.3 Amrit Yoga Nidra [@desai2017]
 - Arrival and body relaxation, framed as moving down through brainwave
   states.
 - Sankalpa.
@@ -50,7 +50,7 @@ The ten-step protocol:
 - Longer silences.
 - Gradual return.
 
-## 4.4 Total Yoga Nidra (Dinsmore-Tuli & Tuli) [Dinsmore-Tuli & Tuli 2020; Dinsmore-Tuli 2022]
+## 4.4 Total Yoga Nidra (Dinsmore-Tuli & Tuli) [@dinsmoretuli2020; @dinsmoretuli2022]
 Uses the same elements as a **menu, not a sequence**:
 - Settling with **choice** of posture (lying, seated, side, curled) and
   permission to move.
@@ -60,7 +60,7 @@ Uses the same elements as a **menu, not a sequence**:
 - Resting in the state of yoga nidra itself.
 - Return, with permission to stay if needed.
 
-## 4.5 Himalayan tradition [Swami Rama; Parker et al. 2013] 🔎
+## 4.5 Himalayan tradition [@swamirama; @parker2013] 🔎
 - Systematic relaxation (*śavayātrā*: a journey up and down the body).
 - Diaphragmatic breathing; 2:1 breath; breathing through specific
   channels.
@@ -69,7 +69,7 @@ Uses the same elements as a **menu, not a sequence**:
   state of conscious sleep itself.
 - Least scripted, most advanced of the approaches.
 
-## 4.6 Radiant Rest (Tracee Stanley) [Stanley 2021]
+## 4.6 Radiant Rest (Tracee Stanley) [@stanley2021]
 - Rest as **ritual**: preparing the space, prop set-up, a *sankalpa* found
   in the heart.
 - Sequence through the kośas and the **four states** (waking, dreaming,
@@ -100,8 +100,8 @@ variation.
 ---
 
 ## 4.8 Timing
-- **Classic:** 30–45 min [Satyananda 1976].
-- **Clinical protocols:** 20–35 min [Miller 2015a].
+- **Classic:** 30–45 min [@satyananda1976].
+- **Clinical protocols:** 20–35 min [@miller2015a].
 - **Modern short forms / NSDR:** 10–20 min.
 - **Short forms keep:** arrive, body, breath, rest, return.
   **They drop:** opposites, visualization, often sankalpa.

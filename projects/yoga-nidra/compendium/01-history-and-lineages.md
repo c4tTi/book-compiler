@@ -19,7 +19,7 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
   praises her so that she releases Vishnu, who wakes to kill the demons Madhu
   and Kaiṭabha. Modern feminist and tantric-leaning authors revive this image
   of yoga nidra as a goddess and as *śakti*, not just as a technique
-  [Dinsmore-Tuli 2022].
+  [@dinsmoretuli2022].
 
 ### Upanishadic: the map of states ✅
 - **Māṇḍūkya Upaniṣad**: four states of consciousness: waking (*jāgrat*),
@@ -29,7 +29,7 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
   as you pass towards sleep, or into it.
 - **Taittirīya Upaniṣad**: the five *kośas* (sheaths): body, energy/breath,
   mind, wisdom/discernment, bliss. This is the organizing structure of iRest
-  and of many modern scripts [Miller 2005].
+  and of many modern scripts [@miller2005].
 - **Bṛhadāraṇyaka** and **Chāndogya** discuss dreamless sleep as closeness to
   the Self. These passages are background, rarely central.
 
@@ -38,8 +38,10 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
   **deep, thought-free absorption close to samādhi**. It is *not* a guided
   body-scan relaxation. Texts discussed in this connection include the
   *Yogatārāvalī*, the *Amanaska Yoga* and the *Haṭhapradīpikā* (ch. 4)
-  [Birch & Hargreaves 2015]. 🔎 Check exact verse numbers against a critical
+  [@birch2015]. 🔎 Check exact verse numbers against a critical
   edition before quoting. Numbering differs between editions.
+- The term also appears in **Śaiva and Buddhist tantras**, and by the 17th century
+  *yoganidrāsana* had become the name of a **posture** [@birch2015].
 - **Key point for authors:** the classical *word* names a meditative
   *state*. The modern *method* (sankalpa, body rotation, opposites,
   visualization) is not found as a package in these texts.
@@ -47,7 +49,7 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
 ### Tantric roots claimed for the method ⚠️
 - **Nyāsa**, the tantric practice of "placing" mantras on parts of the body,
   is cited by Satyananda as the source of the rotation of consciousness
-  [Satyananda 1976]. The resemblance is real: attention moves part by part
+  [@satyananda1976]. The resemblance is real: attention moves part by part
   through the body. Historians treat this as a *claimed inspiration*, not an
   unbroken line of practice.
 - **Pratyāhāra** (withdrawal of the senses, *Yoga Sūtra* 2.54–55) is the
@@ -67,7 +69,7 @@ The modern method has close parallels in:
   positive resolution, similar to sankalpa.
 
 Several modern authors, and scholars writing on this, note the overlap
-[Dinsmore-Tuli 2022; Birch & Hargreaves 2015]. Satyananda describes his
+[@dinsmoretuli2022; @birch2015]. Satyananda describes his
 method as a synthesis of tantric sources with his own experimentation.
 
 ### Swami Satyananda Saraswati & the Bihar School of Yoga (1960s–70s) ✅
@@ -85,7 +87,7 @@ method as a synthesis of tantric sources with his own experimentation.
   Institutional Responses to Child Sexual Abuse examined abuse at the
   Satyananda ashram at Mangrove Mountain in the 1970s–80s (Case Study 21).
   Some later authors mention this when discussing the lineage and its
-  authority [Dinsmore-Tuli 2022]. Whether and how to mention it is up to you
+  authority [@dinsmoretuli2022]. Whether and how to mention it is up to you
   (see `08-debates.md`).
 
 ### Swami Rama & the Menninger experiments (1970–71) ⚠️

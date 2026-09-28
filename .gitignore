@@ -1,8 +1,9 @@
-# Your own copies of books and their extracted text stay local (copyright).
-library/raw/*
-library/extracted/*
-!library/raw/.gitkeep
-!library/extracted/.gitkeep
+# Each project's own files and extracted text stay local (copyright).
+projects/*/library/raw/*
+projects/*/library/extracted/*
+!projects/*/library/raw/.gitkeep
+!projects/*/library/extracted/.gitkeep
 __pycache__/
 *.pyc
 .venv/
+*-workspace/

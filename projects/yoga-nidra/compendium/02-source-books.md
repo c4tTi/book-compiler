@@ -14,7 +14,7 @@ cite only.
 
 ## A. Foundational modern texts
 
-### [Satyananda 1976] Swami Satyananda Saraswati, *Yoga Nidra*
+### [@satyananda1976] Swami Satyananda Saraswati, *Yoga Nidra*
 Bihar School of Yoga / Yoga Publications Trust, Munger. 1st ed. 1976; many
 reprints and revised editions. ★★★
 - **What it is:** the book that defined the modern practice. It gives the
@@ -31,7 +31,7 @@ reprints and revised editions. ★★★
 - **For your book:** the baseline everyone reacts to. Know it well, even if
   you depart from it.
 
-### [Miller 2005] Richard Miller, *Yoga Nidra: The Meditative Heart of Yoga*
+### [@miller2005] Richard Miller, *Yoga Nidra: The Meditative Heart of Yoga*
 Sounds True, 2005 (with audio). ★★★
 - **What it is:** yoga nidra reframed through non-dual Advaita/Kashmir
   Shaivism and the *kośa* model.
@@ -42,14 +42,14 @@ Sounds True, 2005 (with audio). ★★★
 - **For your book:** the best source for the *philosophical* depth of the
   practice beyond relaxation.
 
-### [Miller 2015a] Richard Miller, *The iRest Program for Healing PTSD*
+### [@miller2015a] Richard Miller, *The iRest Program for Healing PTSD*
 New Harbinger, 2015. ★★
 - A clinical, workbook-style iRest protocol for trauma. It includes the
   **Inner Resource** and the 10-step structure.
 - **For your book:** use it for trauma-sensitive adaptations and for
   secular, clinical language.
 
-### [Miller 2015b] Richard Miller, *iRest Meditation: Restorative Practices for Health, Resiliency, and Well-Being*
+### [@miller2015b] Richard Miller, *iRest Meditation: Restorative Practices for Health, Resiliency, and Well-Being*
 Sounds True, 2015. ★★
 - A general-audience version of iRest with practices.
 
@@ -57,7 +57,7 @@ Sounds True, 2015. ★★
 
 ## B. Major contemporary books
 
-### [Dinsmore-Tuli 2022] Uma Dinsmore-Tuli, *Nidra Shakti: An Encyclopedia of Yoga Nidra*
+### [@dinsmoretuli2022] Uma Dinsmore-Tuli, *Nidra Shakti: An Encyclopedia of Yoga Nidra*
 Yoga Nidra Network / Yogawords, 2022. ★★★
 - **What it is:** a large (1000+ pages) reference covering history,
   lineages, scripts, themes, the goddess *Yoganidrā*, and critiques. It is
@@ -70,13 +70,13 @@ Yoga Nidra Network / Yogawords, 2022. ★★★
   structure and variations, but be careful not to follow its framing
   unconsciously.
 
-### [Dinsmore-Tuli & Tuli 2020] Uma Dinsmore-Tuli & Nirlipta Tuli, *Yoga Nidra Made Easy*
+### [@dinsmoretuli2020] Uma Dinsmore-Tuli & Nirlipta Tuli, *Yoga Nidra Made Easy*
 Hay House, 2020. ★★
 - A short, friendly introduction to the Total Yoga Nidra approach, with a
   focus on permission, comfort and self-practice.
 - **For your book:** a model of warm, non-dogmatic beginner language.
 
-### [Desai 2017] Kamini Desai, *Yoga Nidra: The Art of Transformational Sleep*
+### [@desai2017] Kamini Desai, *Yoga Nidra: The Art of Transformational Sleep*
 Lotus Press, 2017. ★★
 - **Amrit Yoga Nidra.** Explains the method through **brainwave states**
   (beta → alpha → theta → delta) and "releasing the doer". The witness is
@@ -85,7 +85,7 @@ Lotus Press, 2017. ★★
   exists; practices for specific life issues.
 - ⚠️ Its brainwave explanations simplify the neuroscience (see `06`).
 
-### [Stanley 2021] Tracee Stanley, *Radiant Rest: Yoga Nidra for Deep Relaxation and Awakened Clarity*
+### [@stanley2021] Tracee Stanley, *Radiant Rest: Yoga Nidra for Deep Relaxation and Awakened Clarity*
 Shambhala, 2021. ★★
 - Tantric, Sri Vidya-influenced approach. Discusses the **four states and
   their gateways**, the "Radiant Rest" series of practices, *sankalpa* as a
@@ -93,14 +93,14 @@ Shambhala, 2021. ★★
 - **For your book:** a strong source for the spiritual depth of the practice
   and for inclusive perspectives.
 
-### [Brody 2017] Karen Brody, *Daring to Rest: Reclaim Your Power with Yoga Nidra Rest Meditation*
+### [@brody2017] Karen Brody, *Daring to Rest: Reclaim Your Power with Yoga Nidra Rest Meditation*
 Sounds True, 2017. ★
 - For exhausted women; a **40-day** structured practice; the "Bold Rest"
   approach. Personal, empowerment-oriented.
 - **For your book:** a model for a program-style structure (a day-by-day
   practice arc).
 
-### [Lusk 2015] Julie Lusk, *Yoga Nidra for Complete Relaxation and Stress Relief*
+### [@lusk2015] Julie Lusk, *Yoga Nidra for Complete Relaxation and Stress Relief*
 New Harbinger, 2015. ★
 - Practical, secular, stress-management framing, with many short scripts.
 - **For your book:** examples of short, modular scripts.
@@ -109,7 +109,7 @@ New Harbinger, 2015. ★
 
 ## C. Himalayan tradition
 
-### [Swami Rama] Swami Rama, various (e.g., lectures and writings through the Himalayan Institute)
+### [@swamirama] Swami Rama, various (e.g., lectures and writings through the Himalayan Institute)
 ★ 🔎
 - The Himalayan approach: *śavayātrā*, "61 points", breath awareness
   (diaphragmatic breathing, 2:1 breathing), and yoga nidra as **conscious
@@ -122,7 +122,7 @@ New Harbinger, 2015. ★
 
 ## D. Scholarship and history
 
-### [Birch & Hargreaves 2015] Jason Birch & Jacqueline Hargreaves, "Yoganidrā: An Understanding of the History and Context"
+### [@birch2015] Jason Birch & Jacqueline Hargreaves, "Yoganidrā: An Understanding of the History and Context"
 Online essay, *The Luminescent* (2015). ★★★ for the history chapter. 🔎
 - Traces the word *yoganidrā* in medieval yoga texts, where it means a deep
   **samādhi-like absorption**, and shows how different this is from the
@@ -130,13 +130,13 @@ Online essay, *The Luminescent* (2015). ★★★ for the history chapter. 🔎
 - **For your book:** the key citation if you address "is yoga nidra
   ancient?" honestly.
 
-### [Parker et al. 2013] Stephen Parker, Swami Veda Bharati & Manuel Fernandez, "Defining Yoga-Nidra: Traditional Accounts, Physiological Research, and Future Directions"
+### [@parker2013] Stephen Parker, Swami Veda Bharati & Manuel Fernandez, "Defining Yoga-Nidra: Traditional Accounts, Physiological Research, and Future Directions"
 *International Journal of Yoga Therapy* 23(1), 2013. ★★ 🔎
 - Distinguishes the *state* of yoga nidra from the *practices* aimed at
   it, and reviews the physiological research from the Himalayan-tradition
   perspective.
 
-### [Mavromatis 1987] Andreas Mavromatis, *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*
+### [@mavromatis1987] Andreas Mavromatis, *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*
 Routledge, 1987. ★
 - Not a yoga nidra book, but the standard scholarly work on the
   **hypnagogic state** that yoga nidra practices cultivate. Useful for

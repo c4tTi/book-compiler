@@ -7,7 +7,7 @@ Yoga nidra is gentle, but going inward is not neutral for everyone.
 
 | Situation | Consideration | Adaptation |
 |---|---|---|
-| **Trauma / PTSD** | Closed eyes, lying down, stillness, emotional content and body focus can trigger flashbacks or dissociation | Inner Resource first; eyes open allowed; seated option; external anchors; choice language; skip opposites involving pain/grief [Miller 2015a] |
+| **Trauma / PTSD** | Closed eyes, lying down, stillness, emotional content and body focus can trigger flashbacks or dissociation | Inner Resource first; eyes open allowed; seated option; external anchors; choice language; skip opposites involving pain/grief [@miller2015a] |
 | **Psychosis, severe dissociation** | Deep inward practice may destabilize | Only with clinical support; short practices; strong grounding |
 | **Severe depression** | Long inward focus may deepen low mood for some | Shorter practices; emphasize joy/well-being; keep contact with care providers |
 | **Epilepsy** | Some sensitivity reported to deep relaxation/altered states | Consult medical advice |

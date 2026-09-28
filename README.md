@@ -1,69 +1,69 @@
-# Yoga Nidra Book Compiler
+# Topic Compiler
 
-One working resource that brings together the major yoga nidra literature
-(traditional sources, modern lineages, the research, and the debates), plus a
-workbench for writing your own yoga nidra book from it.
+Ask for any topic, and Claude gathers as many resources as it can find
+(books, papers, reviews, primary texts, websites, videos, podcasts, courses,
+tools, datasets, communities, experts and your own files) and compiles
+them into one structured, cited resource you can build on.
 
-## What's here
+It's a **Claude skill** (`topic-compiler`), so it can be reused for any
+topic, in this repo or anywhere you install it.
+
+## Using it
+
+Just ask, in your own words:
+
+> Compile everything about permaculture food forests. I want to teach a
+> weekend workshop.
+
+> Gather all the resources you can find on the history of tarot, for an article.
+
+> Extend the yoga nidra compilation with audio recordings, trainings and communities.
+
+Claude will:
+1. **Scope** the topic and your purpose, and split it into facets
+   (history, concepts, methods, evidence, debates, tools...).
+2. **Gather** sources of every type, snowballing through bibliographies,
+   reviews, syllabi and expert lists, and log each one with a reliability rating.
+3. **Compile** a compendium in its own words: chapters per facet, citations,
+   confidence flags (✅ ⚠️ 🔎), a one-page overview, best sources by type,
+   glossary and a generated bibliography.
+4. Set up a **workbench** for your purpose: book outline and keep/cut log,
+   course syllabus, decision matrix, learning path...
+
+## Layout
 
 ```
-compendium/          The compiled resource, synthesized and cross-referenced
-  01-history-and-lineages.md   From Vishnu's cosmic sleep to iRest
-  02-source-books.md           Annotated bibliography: every major book, what it adds
-  03-core-concepts.md          States of consciousness, koshas, sankalpa, witness...
-  04-practice-structures.md    The stage sequences of each lineage, side by side
-  05-techniques-library.md     Every technique, with where it comes from and how it's used
-  06-research.md               The science: what's shown, what's claimed, what's weak
-  07-teaching-and-safety.md    Trauma-sensitivity, contraindications, voice, language
-  08-debates.md                The contested questions an author has to take a position on
-  09-glossary.md               Sanskrit and technical terms
+.claude/skills/topic-compiler/    The skill
+  SKILL.md                          Workflow Claude follows
+  references/source-hunting.md      Where to look per source type, reliability rubric
+  references/workbenches.md         Templates per purpose (book, course, decision...)
+  scripts/compiler.py               Project setup, source registry, bibliography, checks, file ingest
 
-workbench/           Your book
-  keep-cut-log.md              Decide what goes in and what you leave out, and why
-  book-outline.md              Skeleton outline to fill in
-  voice-and-positions.md       Your stances on the debates, so the book stays consistent
-
-tools/ingest.py      Turn your own PDFs/EPUBs/TXT into searchable, page-cited notes
-library/raw/         Put your book files here (git-ignored)
-library/extracted/   Extracted text lands here (git-ignored)
+projects/<topic>/                 One folder per compiled topic
+  00-scope.md                       Scope, facets, search log
+  sources.jsonl                     Every source found, rated
+  compendium/                       The compiled resource (+ 99-bibliography.md)
+  workbench/                        Your working files for your purpose
+  library/raw/                      Your own PDFs/EPUBs/notes (git-ignored)
 ```
 
-## How the compendium is written
+Projects so far:
+- [`projects/yoga-nidra`](projects/yoga-nidra/README.md): source base for a yoga nidra book
 
-- **Synthesized, not copied.** Everything is paraphrased and attributed, with
-  a source tag like `[Satyananda 1976]` or `[Miller 2005]`, so you always know
-  where an idea came from. The full reference list is in
-  `compendium/02-source-books.md`. Copyrighted books are not reproduced.
-- **Confidence flags.** Where a claim is historically or scientifically
-  shaky, it is marked:
-  - ✅ well established
-  - ⚠️ contested or weakly supported
-  - 🔎 verify against the original before you quote or publish
-- **Built for cutting.** Every section ends with an *Author's note* on what is
-  essential and what is optional, to help you decide what to leave out.
-
-## Adding the books you own
+## Adding your own files to a project
 
 ```bash
-pip install pypdf          # only needed for PDFs; EPUB/TXT/MD use the standard library
-cp ~/Books/*.pdf ~/Books/*.epub library/raw/
-python3 tools/ingest.py                  # extract everything in library/raw/
-python3 tools/ingest.py search sankalpa  # find every passage mentioning "sankalpa"
-python3 tools/ingest.py search "rotation of consciousness" --context 300
+cp ~/Books/*.pdf ~/Books/*.epub projects/<topic>/library/raw/
+pip install pypdf     # only for PDFs
+python3 .claude/skills/topic-compiler/scripts/compiler.py ingest projects/<topic>
+python3 .claude/skills/topic-compiler/scripts/compiler.py search projects/<topic> "some term"
 ```
+Then ask Claude to fold them into the compilation.
 
-Each result shows the book and the page (or chapter), so you can check the
-original and cite it properly. Extracted text never leaves your machine
-because `library/` is git-ignored.
+## Installing the skill elsewhere
 
-## Suggested workflow
-
-1. Read `compendium/` end to end once. It is the map of the field.
-2. In `workbench/voice-and-positions.md`, decide where you stand on the
-   debates in `08-debates.md`.
-3. Go through `workbench/keep-cut-log.md` and mark each topic
-   **keep / brief / cut**.
-4. Build `workbench/book-outline.md` from what you kept, adding your own
-   experience and teaching.
-5. Use `tools/ingest.py search` to check any fact against your own copies of
-   the books before you publish.
+- **Claude Code in this repo:** it works automatically (`.claude/skills/`).
+- **Claude Code everywhere:** copy the skill folder to `~/.claude/skills/topic-compiler/`.
+- **Claude.ai / the Claude app:** upload `dist/topic-compiler.skill` in the
+  Skills section of your Claude settings. After changing the skill, ask
+  Claude to repackage it.
