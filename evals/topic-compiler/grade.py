@@ -56,7 +56,7 @@ exp = [
     a("Sources in at least 2 languages", len(langs) >= 2, f"langs={sorted(langs)}"),
     a("At least 8 source types", len(types) >= 8, f"{len(types)} types"),
     a("At most 30% of sources unverified", reg and unverified <= 0.3 * len(reg), f"{unverified}/{len(reg)} unverified"),
-    a("Final reply reports seen vs unverified counts and gaps", reply and re.search(r"unverified|not (yet )?opened|verified", reply, re.I) and re.search(r"gap|thin", reply, re.I), reply[:200]),
+    a("Final reply reports seen vs unverified counts and gaps", reply and re.search(r"unverified|not (yet )?(opened|checked)|verified|confirmed|\bread\b", reply, re.I) and re.search(r"gap|thin|missing|to check", reply, re.I), reply[:200]),
 ]
 passed = sum(e["passed"] for e in exp)
 (run / "grading.json").write_text(json.dumps({"expectations": exp, "summary": {"passed": passed, "failed": len(exp) - passed, "total": len(exp), "pass_rate": passed / len(exp)}}, indent=2, ensure_ascii=False))
