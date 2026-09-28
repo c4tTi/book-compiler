@@ -33,6 +33,6 @@ delete freely. The compendium file/section for each part is in brackets.
 
 ## Appendices
 - Scripts
-- Glossary [09]
+- Glossary [90]
 - Further reading [02]
 - Research references (verified) [06]

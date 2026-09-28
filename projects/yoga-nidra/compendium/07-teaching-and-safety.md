@@ -16,6 +16,34 @@ Yoga nidra is gentle, but going inward is not neutral for everyone.
 
 Always: *"You can open your eyes, move or stop at any time."*
 
+### What medicine and psychology add ✅
+- **Official guidance:** NIH's NCCIH says relaxation techniques are
+  generally safe, but notes "rare reports that certain relaxation
+  techniques might cause or worsen symptoms in people with epilepsy or
+  certain psychiatric conditions, or with a history of abuse or trauma",
+  and advises people with serious health problems to talk to their
+  clinicians [@nccih2021]. This is the most citable basis for the table
+  above.
+- **How common are bad experiences?** A systematic review of 83 meditation
+  studies (6,703 people) found adverse events in 65% of studies and in
+  about **8%** of participants overall (3.7% in experiments, 33% in
+  observational studies); anxiety and depression were most common, and
+  they also occurred in people without a psychiatric history
+  [@farias2020; @nccih2022]. Yoga nidra was not studied separately. ⚠️
+- **What they look like:** the Varieties of Contemplative Experience study
+  catalogued 59 kinds of challenging meditation experiences (perceptual,
+  somatic, emotional, sense of self), from brief to long-lasting
+  [@lindahl2017]. Popular critical accounts make the same point for a
+  general audience [@farias2015].
+- **Yoga-nidra-specific reports:** a trauma-informed framework cites
+  reported flashbacks, emotional distress and extended dissociation after
+  yoga nidra [@luu2024]; an EEG study found that long sessions *increase*
+  dissociative experiences even in healthy practitioners [@zaccaro2021].
+  Trials rarely record adverse events at all [@dutta2026].
+- **Dissociative conditions:** in the only sham-controlled trial in
+  functional dissociative seizures, yoga nidra was safe to add but gave no
+  benefit over sham [@gomathy2026].
+
 ## 7.2 Trauma-sensitive language ✅
 Drawn from iRest, Total Yoga Nidra and trauma-sensitive yoga practice:
 - **Invitational, not commanding.** "You might notice..." rather than
@@ -28,6 +56,15 @@ Drawn from iRest, Total Yoga Nidra and trauma-sensitive yoga practice:
   Resource, open their eyes, or move.
 - **Avoid a few classic images.** Death, corpses, fire, drowning, being
   trapped.
+- **A checklist from the trauma literature** (Luu 2024): safer environment;
+  autonomy, boundaries and consent; skilful awareness; appropriate length;
+  enough settling and externalization; **permission to sleep**;
+  **self-chosen** intention; flexible body rotation and breath awareness;
+  *embodied* pairs of opposites; careful visualizations [@luu2024]. ✅ It
+  maps neatly onto the stages in `04` and could structure a safety box.
+- **Neurodivergent practitioners:** children in a co-designed autism study
+  said "thinking about the body is hard" and wanted concrete images
+  [@loftus2026].
 
 ## 7.3 The teacher's voice ✅
 - Speak slowly, with pauses longer than feels natural.
@@ -66,8 +103,23 @@ Your book will need a clear position (see `workbench/voice-and-positions.md`).
 
 ---
 
+## 7.7 Teacher power and safeguarding ⚠️
+- The Royal Commission found that Satyananda Yoga's guru–disciple culture
+  and lack of any child-protection policy made abuse possible and hard to
+  disclose [@rc2016; @pankhania2017] (see `01`, `08` §6).
+- Professional bodies have responded mainly with statements. Yoga
+  Australia links to its 2019 and 2022 statements and commits to "ethical
+  conduct and the protection of participants", without concrete teacher
+  guidance on the page [@yogaaustralia]. There is no licensing body for
+  yoga nidra teachers (`10` §10.1).
+- **For your book:** the practice puts people lying down, eyes closed,
+  following a voice. A sentence on consent, touch (none without asking)
+  and the teacher's role is cheap insurance.
+
+---
+
 ## Author's note
 
 **Essential for any book that includes scripts:** 7.1 (at least a short
-safety note), 7.2, 7.6.
+safety note, citing NCCIH rather than lineage lore), 7.2, 7.6.
 **For teacher-oriented books:** all of it, expanded.

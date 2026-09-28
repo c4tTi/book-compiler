@@ -103,7 +103,10 @@ The IAYT bibliography (2006) also lists Shiva Rea's *Drops of Nectar*
 *Yoga Nidra: The Sleep of the Yogis* (toe-to-crown withdrawal plus a
 "cosmic candle" visualization) [@lamb2006]. 🔎 These are useful as
 evidence that by the 1990s–2000s yoga nidra was already a varied recorded
-genre, not only a Bihar product.
+genre, not only a Bihar product. Other traditions borrowed the name: the
+Sufi teacher Pir Vilayat Inayat Khan recorded a guided "Nidra Yoga"
+[@pirvilayat] 🔎. Non-English recordings are covered in `11` (e.g. the
+German Bihar-lineage CD [@marutdeva]).
 
 ---
 
@@ -116,6 +119,7 @@ genre, not only a Bihar product.
 | **I AM Being** [@iambeingapp] | Kamini Desai's subscription app: 20–45 min nidras, kids' nidras, short "moments" | 🔎 Seen only in search results; self-promoted as the "go-to" in the author's own app list [@desaiapps] ⚠️ |
 | **Sanctuary** (Rod Stryker) [@parayoganidra] | ParaYoga meditations and "enlightened sleep" practices | 🔎 Not opened |
 | **Calm, Headspace, BetterSleep, etc.** [@desaiapps] | Some nidras within general sleep/meditation apps | Yoga nidra is a minor category; usually unnamed lineage |
+| **NSDR apps** (e.g. "NSDR Yoga-Nidra") [@nsdrapp] | Single-developer subscription apps ($14.99/month) with binaural beats | Marketed as "scientifically-backed"; no ratings; typical of a fast-growing genre ✅ |
 
 Takeaway: apps are the main way people practice today, but no app is a
 **curated, lineage-aware** yoga nidra library. For your readers, a short
@@ -171,6 +175,10 @@ What the trainings reveal about the field:
   version [@yoganidranetwork; @wikiyoganidra]. ⚠️ This split between
   "protocol" schools and "state/permission" schools is the same one that
   runs through `07` §7.4 and `08` §5.
+- **Clinical programs:** the VA's War Related Illness and Injury Study
+  Center runs 10-stage iRest by telephone twice a week for any VA-enrolled
+  veteran, by clinician referral [@vawriisc]; the VA's Whole Health
+  materials cover meditation for clinicians [@vawholehealth] 🔎.
 - **Clinical legitimacy runs through iRest.** Miller describes renaming
   the practice "iRest" for use at Walter Reed Army Medical Center in 2004
   [@naropamiller]. This is the root of yoga nidra's presence in military
@@ -196,6 +204,13 @@ What the trainings reveal about the field:
   @janakananda2012]. ⚠️ It is a single, small, unreplicated study in
   experienced practitioners. It does not show that a 10-minute NSDR track
   "restores dopamine" in anyone. See `06` before repeating the number.
+- **NSDR is a business:** Huberman's NSDR topic page gathers 17 episodes
+  alongside sponsor and affiliate links [@hubermantopics]; market reports
+  put sleep and relaxation audio as the fastest-growing app content
+  [@mordor2026]. Mainstream sleep sites now explain NSDR with a sleep
+  physician's review, while noting the evidence is on yoga nidra
+  [@sleepfoundation]. Tech-community discussion of NSDR is sparse (a
+  couple of link posts about a CEO using it) (Hacker News, not registered).
 - **Relation to the debates:** NSDR is the sharpest case of the
   "appropriation vs. democratization" question in `08` §9. It is also a
   useful contrast: remove the sankalpa and the Sanskrit and what is left is

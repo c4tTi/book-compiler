@@ -27,7 +27,17 @@ note.
   - *Turīya view:* recognize the awareness that stays constant as states
     change [@miller2005; @stanley2021].
 - **Brainwave shorthand** (beta → alpha → theta → delta) is common in
-  popular books [@desai2017]. ⚠️ It is a simplification (see `06`).
+  popular books [@desai2017], and German-market books build whole methods
+  on the "alpha state" [@roecker]. ⚠️ It is a simplification (see `06`).
+  A 2025 systematic review of EEG studies found the most consistent change
+  was **more theta in experienced practitioners**; alpha, delta and other
+  bands changed inconsistently, and experienced practitioners mostly stayed
+  awake [@kachera2025]. An Italian EEG study of two-hour sessions found no
+  sleep hallmarks (K-complexes, spindles) at all [@zaccaro2021].
+- **The Himalayan claim** is stronger: yoga nidra as *conscious non-REM
+  (delta) sleep*, a trainable skill leading towards samādhi and turīya
+  [@parker2019]. ⚠️ Stated as a research agenda built on the Swami Rama
+  experiments, not as a finding.
 
 ## 3.3 Pratyāhāra (withdrawal of the senses) ✅
 - The fifth limb of Patañjali's eight-limbed yoga: the senses turn from
@@ -92,6 +102,33 @@ iRest is built directly on this sequence [@miller2005].
   1987].
 - It is the "terrain" of the practice. Name what practitioners may meet
   there so they aren't alarmed.
+- **Sleep medicine's version:** falling asleep is not a switch but a
+  gradual sequence, from relaxed drowsiness (alpha) through stage 1
+  (theta, vertex waves, imagery) into early stage 2 (spindles) [@ogilvie2001].
+  ✅ This gives you a scientific vocabulary for "the threshold" that does
+  not depend on brainwave pop-science: yoga nidra practice seems to hold
+  people in the early part of this sequence.
+
+## 3.12 Yoga nidra and hypnosis ⚠️
+- **Shared ground:** lying still, a guiding voice, suggestion-like
+  instructions, imagery, a positive formula repeated in a receptive state.
+  Historically, the Western relaxation methods behind the modern practice
+  come partly *from* hypnosis research (autogenic training grew out of
+  Schultz's work on hypnosis) [@schultz1932; @coue1922].
+- **Claimed differences:** in yoga nidra the practitioner is told to stay
+  aware and to witness; the "suggestion" (sankalpa) is self-chosen. A
+  German dissertation puts it plainly: in hypnosis someone else suggests
+  change, in yoga nidra the practitioner takes that role [@moszeik2023].
+  A health-promotion paper compares the two directly [@hoye2016] 🔎 (only
+  the record read), and continuing-education courses for psychologists now
+  teach the comparison [@tcsptrance] 🔎.
+- **Phenomenology:** in the Italian study, two-hour sessions *increased*
+  dissociative experiences, altered body image and reduced volitional
+  control of thought: signs of an altered state, closer to trance than to
+  simple rest [@zaccaro2021].
+- **For your book:** decide whether "not hypnosis" is a claim you can
+  defend. "A cousin of hypnosis, with the emphasis on staying aware" is
+  closer to what the sources support.
 
 ## 3.10 The Inner Resource (iRest) ✅
 - A felt sense of safety, well-being or ease that you establish **before**
@@ -116,3 +153,6 @@ iRest is built directly on this sequence [@miller2005].
 hypnagogia.
 **Cuttable:** saṃskāras and Freudian levels, unless your book is
 philosophical or psychological.
+**New and worth a paragraph:** the sleep-onset model (3.9) and the
+hypnosis question (3.12). Readers ask "is this hypnosis?" more often than
+they ask about kośas.

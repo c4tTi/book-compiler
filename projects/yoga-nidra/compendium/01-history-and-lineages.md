@@ -20,13 +20,33 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
   and Kaiṭabha. Modern feminist and tantric-leaning authors revive this image
   of yoga nidra as a goddess and as *śakti*, not just as a technique
   [@dinsmoretuli2022].
+  - **Read it yourself:** the public-domain translation by Pargiter (1904)
+    has the passage in canto 81 (= *Devī Māhātmya* ch. 1). He renders
+    *yoganidrā* as "the sleep of contemplation", and Brahmā praises
+    "Vishnu's Sleep, which is Queen of the universe, the supporter of the
+    world, the cause of permanence and dissolution" [@pargiter1904]. ✅ A
+    usable, quotable (and free) primary source for your opening pages.
+  - **What Indologists add:** the goddess did not start as a yoga concept.
+    Sarkar traces a cult of **Nidrā-Kālarātri**, goddess of sleep, swoon,
+    death and the night (c. 3rd–5th c.), which fed into the Durgā/Devī
+    literature [@sarkar2017]. Ritual studies show goddesses being "put to
+    sleep" and woken in temple practice [@simmons2025] 🔎 (chapter title
+    and venue only confirmed). ⚠️ So "Yoganidrā the goddess" is older and
+    darker than the gentle *śakti* of modern books: sleep, swoon and death
+    belong together in her earliest forms.
+  - The mythological sense lived on in Hindi devotional writing, e.g. a
+    1967 Hindi poetry collection titled *Yoga-nidrā* on Krishna
+    [@dikshit1967] 🔎 (catalogue record only).
 
 ### Upanishadic: the map of states ✅
 - **Māṇḍūkya Upaniṣad**: four states of consciousness: waking (*jāgrat*),
   dreaming (*svapna*), deep sleep (*suṣupti*), and *turīya*, "the fourth",
   the pure awareness underlying all three. Almost every modern yoga nidra
   book uses this as its theory: the practice is meant to let you stay aware
-  as you pass towards sleep, or into it.
+  as you pass towards sleep, or into it. A standard translation with
+  Gauḍapāda's *Kārikā* is Nikhilananda's [@nikhilananda1936]; a French
+  translation from 1952 [@sauton1952] shows the text circulating in the
+  same francophone milieu that produced Boyes 1973.
 - **Taittirīya Upaniṣad**: the five *kośas* (sheaths): body, energy/breath,
   mind, wisdom/discernment, bliss. This is the organizing structure of iRest
   and of many modern scripts [@miller2005].
@@ -39,7 +59,13 @@ Your book is clearer if it keeps them apart. (See `08-debates.md` §1.)
   body-scan relaxation. Texts discussed in this connection include the
   *Yogatārāvalī*, the *Amanaska Yoga* and the *Haṭhapradīpikā* (ch. 4)
   [@birch2015]. 🔎 Check exact verse numbers against a critical
-  edition before quoting. Numbering differs between editions.
+  edition before quoting. Numbering differs between editions. Practical
+  routes: Mallinson & Singleton's *Roots of Yoga* (translated passages from
+  over 100 texts) [@mallinson2017]; the free but dated Pancham Sinh
+  translation of the *Haṭhapradīpikā* [@sinh1914]; and a Hindi-commentary
+  edition of the *Yogatārāvalī* by Ram Shankar Bhattacharya [@bhattacharyayt],
+  who also wrote a Hindi monograph on sleep in yoga, *Nidrā yā suṣupti*
+  (1969) [@bhattacharya1969] 🔎 (not read).
 - The term also appears in **Śaiva and Buddhist tantras**, and by the 17th century
   *yoganidrāsana* had become the name of a **posture** [@birch2015].
 - **Key point for authors:** the classical *word* names a meditative
@@ -72,23 +98,67 @@ Several modern authors, and scholars writing on this, note the overlap
 [@dinsmoretuli2022; @birch2015]. Satyananda describes his
 method as a synthesis of tantric sources with his own experimentation.
 
+**What the other fields add** ✅
+- The Western methods can be read at source: Jacobson's *Progressive
+  Relaxation* [@jacobson1929], Schultz's *Das autogene Training* (1932),
+  which grew out of his hypnosis research [@schultz1932], and Coué's
+  autosuggestion formula [@coue1922], a close cousin of the sankalpa.
+- **Historians of modern yoga** place yoga nidra inside a larger story:
+  relaxation became central to Western yoga through "proprioceptive"
+  relaxation therapies, not pre-modern yoga [@singleton2005]; modern
+  yoga as a whole was shaped by Western esotericism and by a "healing
+  ritual of secular religion" [@demichelis2004]; and posture-based yoga
+  itself is largely a 20th-century synthesis [@singleton2010].
+- **Anthropologists** show the milieu Satyananda came from: Sivananda's
+  Divine Life Society in Rishikesh, with its global, English-speaking,
+  "scientific" presentation of yoga [@strauss2005], and the Indian
+  laboratory tradition of "scientific yoga" at Kaivalyadhama and elsewhere
+  that made physiological claims a normal part of yoga writing [@alter2004].
+- **A French parallel:** in 1960 the psychiatrist Alfonso Caycedo founded
+  *sophrology*, drawing on hypnosis, autogenic training and Jacobson, and
+  later on yoga and Zen after travels in India (1965–68) [@caycedo1998].
+  French yoga authors say yoga nidra "inspired" sophrology
+  [@bonnasse2015fr]. ⚠️ The influence ran through the same relaxation
+  sources in both directions; no documented Satyananda–Caycedo link was
+  found. For a French readership, sophrology is the obvious comparison.
+
 ### Swami Satyananda Saraswati & the Bihar School of Yoga (1960s–70s) ✅
 - Satyananda (1923–2009), a disciple of Swami Sivananda of Rishikesh, founded
   the **Bihar School of Yoga** in Munger (1960s).
 - He **systematized and named** the modern practice and published ***Yoga
   Nidra*** (1976). His book is the ancestor of almost every other text on the
   subject.
+- His earliest dated statement is a talk at the First International Yoga
+  Convention in Munger on 5 November 1964: "The practice of yoga nidra is
+  very old ... I discovered yoga nidra for myself", printed in the Bihar
+  School's *YOGA* magazine in 1965 [@satyananda1965]. 🔎 Known only as
+  quoted by the Yoga Nidrā Network; find the magazine before quoting. Note
+  the two claims in one sentence: *ancient* and *self-discovered*. Every
+  later debate (`08` §1) is already there.
+- By 1983 a Hindi monthly of the Gayatri Pariwar was telling readers that
+  yoga nidra gives "substantial vitality in little time", while adding that
+  ordinary sleep is still needed [@akhandjyoti1983]. The sleep-substitute
+  claim is not a Western app invention; it circulated in Indian popular
+  yoga writing early on.
 - He gives an origin story: as a young man at Sivananda's ashram, he slept
   while boys recited Sanskrit nearby, and later found he knew the texts
   without having studied them. He took this as evidence that the mind learns
   in sleep-like states. ⚠️ This is an anecdote, not evidence.
 - His structure (see `04-practice-structures.md`) became the global template.
-- ⚠️ **Institutional abuse:** in 2014 the Australian Royal Commission into
-  Institutional Responses to Child Sexual Abuse examined abuse at the
-  Satyananda ashram at Mangrove Mountain in the 1970s–80s (Case Study 21).
-  Some later authors mention this when discussing the lineage and its
-  authority [@dinsmoretuli2022]. Whether and how to mention it is up to you
-  (see `08-debates.md`).
+- ⚠️ **Institutional abuse:** the Australian Royal Commission into
+  Institutional Responses to Child Sexual Abuse held a public hearing in
+  December 2014 on abuse at the Satyananda ashram at Mangrove Mountain in
+  the 1970s–80s (Case Study 21) and published its findings in 2016
+  [@rc2016]. As quoted by secondary sources, it found that Satyananda had
+  "overarching authority" over the ashram, that there was no child
+  protection policy in the period, and that the Bihar School's response
+  "did not properly prioritise the welfare of survivors over the interests
+  of the 'brand' of Satyananda yoga" [@rfp2016; @pankhania2017]. 🔎 The
+  Commission's site was down during compilation; read the findings report
+  itself before quoting, and check the release date (sources give April and
+  September 2016). Some later authors mention this when discussing the
+  lineage and its authority [@dinsmoretuli2022]. Whether and how to
+  mention it is up to you (see `08-debates.md`).
 
 ### Swami Rama & the Menninger experiments (1970–71) ⚠️
 - Swami Rama (Himalayan Institute) was studied by Elmer and Alyce Green at the
@@ -144,6 +214,12 @@ method as a synthesis of tantric sources with his own experimentation.
   It spread yoga nidra hugely and also stripped it of its context.
 - Apps (Insight Timer, Calm, etc.) made yoga nidra one of the most widely
   used guided meditation formats.
+- **Institutional adoption:** the US Veterans Affairs system offers iRest
+  by telephone to veterans nationwide [@vawriisc], and the Indian
+  government's *Common Yoga Protocol* names yoga nidrā among optional
+  "institutional practices" [@cyp]. Britain's route was adult education,
+  where yoga (and its closing relaxation) was taught as a leisure class
+  from the 1960s [@newcombe2019]. See `11` for the non-English story.
 
 ---
 
@@ -159,3 +235,9 @@ compress 1.2 into a single page unless your book is about lineage.
 
 **Decide consciously:** whether to mention the abuse histories (see
 `08-debates.md` §6).
+
+**New in the 2026-09-28 extension (sources beyond yoga books):** the free
+Pargiter translation for the goddess passage, the Nidrā-Kālarātri
+scholarship, the 1964 "I discovered it" talk, and the history-of-modern-yoga
+and anthropology books. These let you write the history with scholars'
+backing instead of lineage lore.

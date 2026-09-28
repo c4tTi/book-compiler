@@ -234,8 +234,36 @@ Cite by text and verse. Translations vary, so use one consistently.
 - **Patañjali, *Yoga Sūtra*** 1.10 (sleep as a *vṛtti*), 1.38 (dream and
   sleep as objects of meditation), 2.54–55 (*pratyāhāra*).
 - ***Devī Māhātmya*** (Mārkaṇḍeya Purāṇa), ch. 1: the goddess Yoganidrā.
+  Free translation: Pargiter 1904, canto 81 [@pargiter1904].
 - ***Haṭhapradīpikā***, ch. 4, and other medieval texts (see Birch &
-  Hargreaves) 🔎 for verse numbers.
+  Hargreaves) 🔎 for verse numbers. Free but dated: Pancham Sinh 1914
+  [@sinh1914]. Better: Mallinson & Singleton, *Roots of Yoga* [@mallinson2017].
+- **Māṇḍūkya** with Gauḍapāda: Nikhilananda [@nikhilananda1936]; French:
+  Sauton [@sauton1952].
+
+---
+
+## F. Beyond the yoga shelf (added 2026-09-28)
+
+Books from other fields that change how you can write about yoga nidra.
+Usefulness key as above.
+
+| Book | Field | What it gives you | ★ |
+|---|---|---|---|
+| De Michelis, *A History of Modern Yoga* (2004) [@demichelis2004] | History of modern yoga | The framework for "modern yoga"; relaxation as secular ritual | ★★ |
+| Singleton, *Yoga Body* (2010) [@singleton2010] | History of modern yoga | How much "ancient" yoga is 20th-century synthesis | ★★ |
+| Newcombe, *Yoga in Britain* (2019) [@newcombe2019] | History, education | Yoga as adult-education class; how teachers were trained | ★ |
+| Strauss, *Positioning Yoga* (2005) [@strauss2005] | Anthropology | Ethnography of Sivananda's Rishikesh milieu, Satyananda's background | ★ |
+| Alter, *Yoga in Modern India* (2004) [@alter2004] | Anthropology | Why yoga books make physiological claims | ★ |
+| Jain, *Selling Yoga* (2014) [@jain2014] | Religious studies | Yoga as consumer product; context for NSDR and apps | ★★ |
+| Mallinson & Singleton, *Roots of Yoga* (2017) [@mallinson2017] | Indology | Translated primary passages; check yoganidrā verses here | ★★★ |
+| Jacobson, *Progressive Relaxation* (1929) [@jacobson1929]; Schultz, *Das autogene Training* (1932) [@schultz1932]; Coué (1922) [@coue1922] | Clinical psychology, hypnosis | The Western relaxation ancestors, at source | ★ |
+| Benson, *The Relaxation Response* (1975) [@benson1975] | Integrative medicine | The mechanism all relaxation methods share | ★ |
+| Farias & Wikholm, *The Buddha Pill* (2015) [@farias2015] | Psychology (critical) | Readable account of meditation's limits and harms | ★★ |
+| Moszeik, dissertation (2023; Springer 2026, German) [@moszeik2023] | Psychology | The most careful single trial program; small effects | ★★ |
+
+Non-English yoga nidra books (German, French, Spanish, Hindi) are listed
+in `11`.
 
 For research citations, see `06-research.md`. For recordings, apps,
 trainings and communities, see `10-audio-video-courses-community.md`. The

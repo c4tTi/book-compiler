@@ -14,6 +14,11 @@ your book.
 - **Partly:** the word and the state are ancient; the method is modern and
   blends yogic, tantric and Western relaxation/hypnotic techniques (Birch &
   Hargreaves 2015) [@dinsmoretuli2022; @parker2013].
+- **What scholars outside yoga say:** historians trace the relaxation core
+  to Western therapies [@singleton2005; @demichelis2004]; Indologists show
+  the *word* belongs first to a goddess of sleep, swoon and death
+  [@sarkar2017]; Satyananda himself said in 1964 both that it is "very
+  old" and that he "discovered" it [@satyananda1965] 🔎.
 - **At stake:** credibility. Readers increasingly know the history. "Ancient
   roots, modern form" is honest and still compelling.
 
@@ -48,8 +53,10 @@ your book.
 - **At stake:** your script voice.
 
 ## 6. What about the teachers' misconduct?
-- Satyananda's lineage (Royal Commission 2014, Case Study 21) and Amrit
-  Desai (1994) both have documented misconduct histories.
+- Satyananda's lineage (Royal Commission hearing 2014, report 2016, Case
+  Study 21) and Amrit Desai (1994) both have documented misconduct
+  histories [@rc2016]. Scholars close to the field argue the Satyananda
+  institution has not reformed [@pankhania2017].
 - **Positions:**
   - Don't mention; the practice stands on its own.
   - Acknowledge briefly and honestly [@dinsmoretuli2022].
@@ -79,8 +86,34 @@ your book.
   its Indian and spiritual context.
 - **Positions:** that's appropriation / that's democratization / name the
   roots and still make it accessible.
+- **The market behind it:** meditation apps are a multi-billion-dollar
+  market in which sleep and relaxation audio is the fastest-growing format
+  (market-report estimates, which vary widely) [@mordor2026]. NSDR is
+  sold in subscription apps as "scientifically-backed", with binaural
+  beats [@nsdrapp], and promoted by sponsor-funded podcasts
+  [@hubermantopics]. Religious-studies scholars describe this as yoga
+  becoming a consumer brand [@jain2014]; the rest movement argues the
+  opposite use, rest as resistance to exhaustion culture [@hersey2022].
 - **At stake:** how you name the practice, credit its sources, and describe
   its purpose.
+
+## 10. Is it hypnosis?
+- **No:** the practitioner stays aware and chooses the resolve; the
+  lineages insist on this [@satyananda1976; @moszeik2023].
+- **Close cousin:** the method shares its Western ancestry with
+  autosuggestion and autogenic training [@coue1922; @schultz1932];
+  researchers compare the two [@hoye2016]; long sessions produce
+  trance-like changes [@zaccaro2021].
+- **At stake:** trust with readers who fear "being hypnotized", and
+  honesty about suggestion (see `03` §3.12).
+
+## 11. What should you promise?
+- **Big claims:** sleep replacement, dopamine, healing (common in popular
+  and German-market books [@kuendig; @roecker]).
+- **Modest claims:** "better than nothing, about as good as other
+  relaxation" [@ghai2026; @moszeik2025; @singh2026].
+- **At stake:** the book's credibility with clinicians, and whether health
+  insurers, hospitals or yoga-therapy bodies could recommend it.
 
 ---
 
