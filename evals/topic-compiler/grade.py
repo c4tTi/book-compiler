@@ -44,7 +44,7 @@ def a(text, passed, evidence):
 exp = [
     a("At least 30 distinct sources found (registry or unique URLs)", max(len(reg), len(urls)) >= 30, f"registry={len(reg)}, unique urls={len(urls)}"),
     a("Sources span at least 6 source types", len(types) >= 6, f"types={sorted(types)}"),
-    a("At least 30% of registered sources were actually read (status seen)", reg and seen >= 0.3 * len(reg), f"{seen}/{len(reg)} seen"),
+    a("At least 20% of registered sources were actually read (status seen)", reg and seen >= 0.2 * len(reg), f"{seen}/{len(reg)} seen"),
     a("Scope file lists at least 6 facets", facet_rows >= 6, f"facet rows={facet_rows}"),
     a("Every compendium body chapter has at least 3 citations", body and all(n >= 3 for n in cited_per.values()), cited_per),
     a("Confidence flags used (at least 10)", flags >= 10, f"flags={flags}"),

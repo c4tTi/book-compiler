@@ -7,3 +7,7 @@ __pycache__/
 *.pyc
 .venv/
 *-workspace/
+projects/*/.work/
+examples/*/.work/
+examples/*/library/raw/*
+examples/*/library/extracted/*

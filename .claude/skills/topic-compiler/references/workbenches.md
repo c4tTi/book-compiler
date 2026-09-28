@@ -22,6 +22,20 @@ book different"; "What I'm deliberately leaving out".
 **`workbench/book-outline.md`**: parts → chapters, each chapter pointing to
 the compendium sections it draws on, e.g. `[03 §3.2]`.
 
+## Writing fiction (novel, screenplay, game setting)
+
+The compendium is the research; the workbench is the **story bible**:
+- **`workbench/story-bible.md`:**
+  - timeline of real events around the story's dates;
+  - places, with what a character would see, hear, smell and eat there;
+  - kinds of people: occupations, names and naming customs, dress, speech;
+  - money, prices and distances (a small script if travel times matter);
+  - beliefs and rituals.
+- **`workbench/myths-to-avoid.md`:** popular errors and anachronisms, each
+  with the source that corrects it.
+- **`workbench/keep-cut-log.md`:** the same as for non-fiction. Mark what
+  the story needs, what is atmosphere only, and what to cut.
+
 ## Teaching a course / workshop
 
 **`workbench/syllabus.md`**: learning outcomes; sessions (title, goals,

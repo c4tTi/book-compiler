@@ -124,6 +124,10 @@ field or a lens (not only a facet, since facet-split agents all find the
 same popular sources). Each should return candidate sources as JSONL lines
 in the registry format, plus key findings with their citations.
 
+Keep scratch files (candidate batches, helper scripts) in `<project>/.work/`,
+which is git-ignored. A shared temp directory can be overwritten by other
+agents running at the same time.
+
 **Register sources** as you go, or batch them:
 ```bash
 C add <project> --type paper --title "..." --author "Surname, A. & Surname, B." --year 2020 \

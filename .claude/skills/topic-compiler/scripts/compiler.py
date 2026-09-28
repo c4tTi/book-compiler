@@ -6,7 +6,7 @@ Commands (PROJECT is a directory, e.g. projects/yoga-nidra):
   add PROJECT --title T --type TYPE [--author A] [--year Y] [--url U] [--publisher P]
               [--reliability 1-5] [--status seen|confirmed|unverified] [--facets f1,f2]
               [--lens L1,L2] [--field F1,F2] [--lang en] [--license L] [--no-url-reason R]
-              [--notes N] [--id ID]
+              [--accessed YYYY-MM-DD] [--notes N] [--id ID]
   add PROJECT --from-jsonl FILE [--pick c1,c4] [--lens ... --field ... (defaults)]
                                     batch add (one JSON object per line, same keys as above;
                                     facets/lens/field may be lists or comma strings)
@@ -94,6 +94,8 @@ library/raw/*
 library/extracted/*
 !library/raw/.gitkeep
 !library/extracted/.gitkeep
+# Scratch files for this project (candidate batches, helper scripts)
+.work/
 """
 USER_AGENT = "topic-compiler/2.0 (research bibliography tool)"
 
@@ -123,9 +125,19 @@ def save_sources(project, sources):
     tmp.replace(path)
 
 
+TRANSLIT = str.maketrans({
+    "а": "a", "б": "b", "в": "v", "г": "g", "д": "d", "е": "e", "ё": "e", "ж": "zh", "з": "z", "и": "i",
+    "й": "i", "к": "k", "л": "l", "м": "m", "н": "n", "о": "o", "п": "p", "р": "r", "с": "s", "т": "t",
+    "у": "u", "ф": "f", "х": "kh", "ц": "ts", "ч": "ch", "ш": "sh", "щ": "shch", "ъ": "", "ы": "y", "ь": "",
+    "э": "e", "ю": "iu", "я": "ia", "і": "i", "ї": "i", "є": "e", "ґ": "g",
+    "α": "a", "β": "b", "γ": "g", "δ": "d", "ε": "e", "ζ": "z", "η": "e", "θ": "th", "ι": "i", "κ": "k",
+    "λ": "l", "μ": "m", "ν": "n", "ξ": "x", "ο": "o", "π": "p", "ρ": "r", "σ": "s", "ς": "s", "τ": "t",
+    "υ": "y", "φ": "ph", "χ": "ch", "ψ": "ps", "ω": "o"})
+
+
 def slug(text):
-    """ASCII slug for IDs and file names; empty for fully non-Latin text."""
-    text = unicodedata.normalize("NFKD", str(text)).encode("ascii", "ignore").decode()
+    """ASCII slug for IDs and file names (Cyrillic/Greek transliterated); empty for e.g. CJK-only text."""
+    text = unicodedata.normalize("NFKD", str(text).lower().translate(TRANSLIT)).encode("ascii", "ignore").decode()
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-")
 
 
@@ -146,8 +158,16 @@ ISO_639 = {  # catalogue codes (ISO 639-2/B and /T) -> the 2-letter codes used i
 ISO_639_B = {"de": "ger", "fr": "fre", "nl": "dut", "zh": "chi", "el": "gre", "cs": "cze", "ro": "rum", "fa": "per", "bo": "tib"}
 
 
+LANG_NAMES = {"english": "en", "german": "de", "deutsch": "de", "french": "fr", "français": "fr", "italian": "it",
+              "spanish": "es", "portuguese": "pt", "dutch": "nl", "japanese": "ja", "chinese": "zh", "korean": "ko",
+              "hindi": "hi", "sanskrit": "sa", "russian": "ru", "turkish": "tr", "arabic": "ar", "persian": "fa",
+              "latin": "la", "greek": "el", "polish": "pl", "swedish": "sv", "tibetan": "bo", "ge": "de", "jp": "ja"}
+
+
 def lang2(code):
     code = str(code or "").strip().lower()
+    if code in LANG_NAMES:
+        return LANG_NAMES[code]
     return ISO_639.get(code, code[:2] if len(code) == 3 and code not in ISO_639 else code)
 
 
@@ -305,6 +325,8 @@ def cmd_init(args):
 
 def cmd_add(args):
     sources = load_sources(args.project)
+    if args.from_jsonl and args.id:
+        sys.exit("--id can't be combined with --from-jsonl; put \"id\" in the JSONL line, or rename afterwards")
     if args.from_jsonl:
         text = sys.stdin.read() if args.from_jsonl == "-" else Path(args.from_jsonl).read_text(encoding="utf-8")
         picks = set(as_list(args.pick) or [])
@@ -603,6 +625,8 @@ def cmd_verify(args):
 
 # ---------------------------------------------------- discover / abstract
 
+PIRATE_HOSTS = re.compile(r"dokumen\.pub|vdoc\.pub|ebin\.pub|epdf\.pub|pdfdrive|z-?lib|zlibrary|libgen|"
+                          r"library\.lol|annas-archive|b-ok\.|1lib\.|pdfcoffee|dokumen\.tips|sci-hub", re.I)
 PIRACY = re.compile(r"z-?lib|libgen|anna'?s[-_ ]?archive|pdfdrive|b-ok\.|1lib", re.I)
 
 
@@ -651,10 +675,13 @@ def discover_europepmc(query, rows, lang, sort):
 
 
 def discover_crossref(query, rows, lang, sort):
-    params = {"query.bibliographic": query, "rows": rows}
+    # Crossref's own citation sort ignores relevance (returns famous unrelated papers), so for
+    # --sort cited take a wider relevance-ranked set and order that by citations.
+    params = {"query.bibliographic": query, "rows": rows * 4 if sort == "cited" else rows}
+    items = fetch_json("https://api.crossref.org/works?" + urllib.parse.urlencode(params))["message"]["items"]
     if sort == "cited":
-        params.update({"sort": "is-referenced-by-count", "order": "desc"})
-    for item in fetch_json("https://api.crossref.org/works?" + urllib.parse.urlencode(params))["message"]["items"]:
+        items = sorted(items, key=lambda i: -(i.get("is-referenced-by-count") or 0))[:rows]
+    for item in items:
         if item.get("type") in ("component", "peer-review", "grant"):
             continue
         kind = {"book": "book", "monograph": "book", "edited-book": "book", "book-chapter": "book-chapter",
@@ -822,6 +849,15 @@ def abstract_openalex(s):
     return doi, " ".join(word for _, word in positions), ""
 
 
+BOILERPLATE = re.compile(r"cookie|log ?in|sign ?in|subscribe|access options|purchase|javascript|"
+                         r"all rights reserved|this (article|chapter|book) (is|was) published|no abstract", re.I)
+
+
+def plausible_abstract(text):
+    text = re.sub(r"<[^>]+>", " ", text or "").strip()
+    return len(text) >= 200 and len(BOILERPLATE.findall(text[:600])) == 0
+
+
 def cmd_abstract(args):
     sources = load_sources(args.project)
     s = next((x for x in sources if x["id"] == args.source_id), None)
@@ -834,9 +870,12 @@ def cmd_abstract(args):
         except Exception as exc:
             print(f"# {name}: failed ({str(exc)[:60]})")
             continue
-        if found:
+        if found and plausible_abstract(found[1]):
             via = name
             break
+        if found:
+            print(f"# {name}: returned text that doesn't look like an abstract (too short or boilerplate); skipped")
+            found = None
     if not found:
         sys.exit("No abstract found (Europe PMC, Crossref, OpenAlex). Try the publisher page or an open-access copy.")
     doi, text, extra = found
@@ -863,16 +902,28 @@ def cmd_pdf(args):
     except ImportError:
         sys.exit("needs pypdf: pip install pypdf  (if that fails: pip install cffi pypdf)")
     import io
+    import logging
+    logging.getLogger("pypdf").setLevel(logging.ERROR)  # silence font/encoding warnings
     if re.match(r"https?://", args.source):
         request = urllib.request.Request(args.source, headers={"User-Agent": USER_AGENT})
-        with urllib.request.urlopen(request, timeout=60) as response:
-            data = response.read()
-        reader = PdfReader(io.BytesIO(data))
+        try:
+            with urllib.request.urlopen(request, timeout=60) as response:
+                data = response.read()
+        except Exception as exc:
+            sys.exit(f"Could not download: {str(exc)[:120]}")
     else:
-        reader = PdfReader(args.source)
+        data = Path(args.source).read_bytes()
+    if not data.lstrip()[:5].startswith(b"%PDF"):
+        head = data[:300].decode("utf-8", errors="replace")
+        kind = "an HTML page (paywall, cookie wall or landing page?)" if "<html" in head.lower() else "not a PDF"
+        sys.exit(f"The response is {kind}; fetch it as a web page instead, or find a direct PDF link.")
+    try:
+        reader = PdfReader(io.BytesIO(data))
+    except Exception as exc:
+        sys.exit(f"Unreadable PDF: {str(exc)[:120]}")
     first, _, last = (args.pages or f"1-{len(reader.pages)}").partition("-")
     first, last = int(first), int(last or first)
-    pattern = re.compile(re.escape(args.grep), re.I) if args.grep else None
+    pattern = re.compile(args.grep, re.I) if args.grep else None  # a regular expression, e.g. "distance|abstand"
     print(f"# {len(reader.pages)} pages; showing {first}-{min(last, len(reader.pages))}")
     for number in range(first, min(last, len(reader.pages)) + 1):
         text = clean(reader.pages[number - 1].extract_text() or "")
@@ -1068,6 +1119,8 @@ def cmd_check(args):
             problems.append(f"[{s['id']}] no url (add one, or --no-url-reason if none exists)")
         if "reliability" not in s:
             problems.append(f"[{s['id']}] no reliability rating")
+        if s.get("url") and PIRATE_HOSTS.search(s["url"]):
+            problems.append(f"[{s['id']}] links to a pirate host ({s['url'][:50]}); use a publisher, catalogue or library record")
     cited = cited_ids(args.project)
     problems += [f"cited but not registered: @{c}" for c in cited if c not in ids]
     unused = [i for i in ids if i not in cited]
@@ -1349,7 +1402,7 @@ def main():
     p = sub.add_parser("pdf")
     p.add_argument("source", help="PDF URL or local path")
     p.add_argument("--pages", help="e.g. 1-5")
-    p.add_argument("--grep", help="only print passages around this term")
+    p.add_argument("--grep", help="only print passages matching this case-insensitive regular expression")
     p.set_defaults(func=cmd_pdf)
 
     p = sub.add_parser("check")

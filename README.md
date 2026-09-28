@@ -63,6 +63,15 @@ projects/<topic>/                 One folder per compiled topic
 Projects so far:
 - [`projects/yoga-nidra`](projects/yoga-nidra/README.md): source base for a yoga nidra book
 
+Examples from the test runs (each compiled by the skill from one sentence):
+- [`examples/sourdough-baking`](examples/sourdough-baking/README.md): beginner's book, 156 sources, 4 languages
+- [`examples/home-battery-switzerland`](examples/home-battery-switzerland/README.md): buying decision with a payback model
+- [`examples/mokuhanga`](examples/mokuhanga/README.md): weekend workshop on Japanese woodblock printing, syllabus and budget
+- [`examples/silk-road-750`](examples/silk-road-750/README.md): research bible for a historical novel, 6 languages
+- [`examples/urban-beekeeping-zurich`](examples/urban-beekeeping-zurich/README.md): Zurich rules, courses, costs, learning path
+
+Test scores per skill version are in [`evals/topic-compiler/RESULTS.md`](evals/topic-compiler/RESULTS.md).
+
 ## Adding your own files to a project
 
 ```bash

@@ -1,0 +1,28 @@
+# Glossary
+
+- **Aliquot jar**: small straight-sided jar holding a sample of dough, used to read % rise during bulk [@cucuzza_bulk].
+- **Autolyse**: resting flour and water before adding levain/salt [@forkish2012].
+- **Back-slopping**: using part of a ripe ferment to inoculate the next batch; how every starter is maintained [@devuyst2023; @pliny77].
+- **Baker's percentage**: each ingredient as % of total flour weight [@ka_hydration].
+- **Banneton / brotform**: proofing basket [@ka_beginners].
+- **Bulk fermentation**: the first rise of the whole dough before dividing and shaping [@cucuzza_bulk].
+- **Crumb**: the interior of the loaf [@cucuzza_crumbpdf].
+- **DDT (desired dough temperature)**: target dough temperature used to calculate water temperature [@ka_ddt].
+- **Discard**: starter removed before feeding [@foodprint_discard].
+- **Ersho**: Ethiopian injera starter liquid [@ersho2022].
+- **FODMAPs**: fermentable carbohydrates that trigger IBS symptoms; fructans are the main wheat FODMAP [@loponen2018].
+- **Hooch**: alcoholic liquid on a hungry starter [@pantrymama_mold].
+- **Hydration**: water ÷ flour × 100 [@leo_hydration].
+- **Kahm yeast**: harmless surface film yeast [@pantrymama_mold].
+- **LAB (lactic acid bacteria)**: bacteria producing lactic (and acetic) acid [@asm_microbiome].
+- **Lame**: razor for scoring [@ka_beginners].
+- **Laomian**: Chinese "old dough" starter [@laomian2024].
+- **Levain**: the leaven built from a starter for a specific dough; French legal term [@decret1993; @hamelman2004].
+- **Lievito madre / pasta madre**: Italian stiff starter [@lievito_italian].
+- **Oven spring**: rapid expansion in the first minutes of baking [@leo_steam].
+- **Retard**: cold (fridge) fermentation [@leo_weekend].
+- **Sakadane**: Japanese rice-koji starter [@shockey_sakadane].
+- **Sauerteig**: German for sourdough [@leitsaetze2021].
+- **Sourfaux**: product sold as sourdough but made with yeast/additives [@rbc_sourdough].
+- **Starter / mother / chef**: the maintained culture [@ka_guide].
+- **Type I/II/III sourdough**: traditional back-slopped / starter-culture liquid / dried [@devuyst2023].

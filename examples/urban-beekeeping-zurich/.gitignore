@@ -1,0 +1,5 @@
+# The user's own files and their extracted text stay local (copyright).
+library/raw/*
+library/extracted/*
+!library/raw/.gitkeep
+!library/extracted/.gitkeep

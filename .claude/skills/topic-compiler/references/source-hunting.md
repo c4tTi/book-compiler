@@ -100,7 +100,7 @@ user uploads to check. Never register pirated copies of books.
 | YouTube not readable | `verify` confirms title and channel via oEmbed; search for transcripts or show notes; confirm via the channel's own site |
 | Reddit, Discord, Facebook not readable | Search snippets (status stays `confirmed` or `unverified`); Stack Exchange/HN equivalents; blog posts summarizing the community |
 | App stores | Developer's site, press coverage |
-| Any page | Try the site's other URL forms (print view, AMP, RSS), or the Internet Archive's copy (`https://web.archive.org/web/2024/<url>`) |
+| Any page | Try the site's other URL forms (print view, AMP, RSS); the Internet Archive's copy (`https://web.archive.org/web/2024/<url>`) if reachable from your environment; or another site quoting the same primary text (then cite the primary, status `confirmed`) |
 
 Record what was blocked in the search log, so the next session doesn't retry
 blindly.
