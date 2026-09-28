@@ -1,0 +1,13 @@
+{
+  "skill_name": "topic-compiler",
+  "evals": [
+    {"id": 1, "name": "sourdough-book",
+     "prompt": "compile everything you can find about sourdough bread baking, i want to write a beginners guide book from it",
+     "expected_output": "Project folder with scope/facets, 30+ rated sources of many types, cited compendium chapters, overview with best sources by type, bibliography, book workbench (outline, keep/cut)",
+     "purpose_files": ["outline", "keep-cut"]},
+    {"id": 2, "name": "fasting-decision",
+     "prompt": "Gather all the resources on intermittent fasting research. I'm a nutrition coach and need to decide whether to recommend it to my clients (mostly women 35-55).",
+     "expected_output": "Project folder with evidence-heavy compendium focused on women 35-55, safety, options matrix / recommendation workbench, 30+ sources incl. reviews and RCTs",
+     "purpose_files": ["options", "decision", "recommend"]}
+  ]
+}
