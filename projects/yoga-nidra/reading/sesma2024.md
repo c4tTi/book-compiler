@@ -4,9 +4,18 @@
 - **Year.** The copyright page (Google Books preview) gives "Primera edición en papel: Noviembre 2023" and the same for the digital edition. Kairós's press sheet says "noviembre 2023, 1ª quincena", and Google Books, Todostuslibros and Goodreads give 8 Nov 2023. The public launch was on 28 February 2024: Kairós's own catalogue page for the book carries a button "Presentación 28/02/2024" linking to the launch video (it labels this as the presentation, not as a publication date). Google Books also has a print record dated 27 Feb 2024. The launch date, and that record, likely explain sesma2024.
 - **Subtitle.** Every record I saw gives the title as *Doce viajes* with the subtitle *Yoga-Nidra*. None shows "sesiones de".
 
-**Bottom line for your book:** *Take* the five-elements ladder (earth → ether) as a ready module, her facilitator cautions and set-up guidance, and the idea of changing the theme while keeping the stage structure stable (her stated principle; the scripts themselves were not seen). *Skip* the family-constellation, *Kybalion*, Sheldrake and Dispenza framing as presented, and her website's health claims. *Verify in the book* where and how she places the sankalpa and runs the rotation: the preview stops before the first script.
+**Bottom line for your book:** *Take* the five-elements ladder (earth → ether) as a ready module, her facilitator cautions and set-up guidance, and the idea of changing the theme while keeping the stage structure stable (her stated principle; the scripts themselves were not seen). *Skip* the family-constellation, *Kybalion*, Sheldrake and Dispenza framing as presented, and her website's health claims. *Verify in the book* where and how she places the sankalpa and runs the rotation: the preview stops before the first script. **All of these recommendations rest on the introductory chapters, the preface to the journeys, the titles and her website, not on any script.**
 
-> **Basis of this summary:** Sample chapters / preview read, but only the front matter. In the Google Books ebook preview I read the copyright page, the full contents ("Sumario"), the whole Introducción, and alternate pages of the four introductory chapters (odd-numbered preview pages from PT11 on are not shown). The preview ends at about PT29, inside the preface to the journeys and **before journey one**, so **I did not see any of the thirteen session scripts.** I also read the introductory chapter as the author publishes it on her site, her website pages, the publisher's pages and bibliographic records. Interviews and recordings: titles and descriptions only. Full list under "Sources consulted" at the end.
+> **Basis of this summary:** Sample chapters / preview read, but only the front matter. **None of the thirteen session scripts was seen.** In the Google Books ebook preview I read the copyright page, the full contents ("Sumario"), the whole Introducción, and alternate pages of the four introductory chapters (odd-numbered preview pages from PT11 on are not shown). The preview ends at about PT29, inside the preface to the journeys and before journey one. I also read the introductory chapter as the author publishes it on her site, her website pages, the publisher's pages and bibliographic records, and used Google Books search-inside results (short snippets with page ids, e.g. PT21, PT23, PT27; fragments only, not previewed pages). Interviews and recordings: titles and descriptions only. In the October 2026 revision I tried again to reach script text (Google Books search-inside, the Kairós catalogue page and press sheet, BookBeat, the author's site, YouTube) and found none (details under "Reviewer notes").
+> Read for this summary:
+> - Google Books ebook preview (front matter to about PT29): https://books.google.com/books?id=6ePeEAAAQBAJ&printsec=frontcover
+> - Google Books search-inside snippets for the same ebook (e.g. &q=cakra, &q=psiconautas): https://books.google.com/books?id=6ePeEAAAQBAJ&q=cakra
+> - Kairós catalogue page and press sheet: https://www.editorialkairos.com/catalogo/p/doce-viajes · https://www.editorialkairos.com/s/DoceViajes-info.pdf
+> - Author's site, book page and introductory chapter: https://anasesmanuez.com/libro-doce-viajes-yoga-nidra/ · https://anasesmanuez.com/entre-dos-mundos/
+> - Author's site, practice pages used for posture, sankalpa and contraindications: https://anasesmanuez.com/sankalpa-el-poder-de-la-intencion/ · https://anasesmanuez.com/que-es-yoga-nidra/ · https://anasesmanuez.com/contraindicaciones-practica-yoga-nidra/
+> - Sesma & Isern (2016) article on a standard session: https://www.yogaenred.com/2016/01/13/yoga-nidra-un-viaje-de-la-piel-al-alma/
+> - BookBeat listing (checked for a sample; none): https://bookbeat.com/at/book/doce-viajes-1193864
+> - Full list under "Sources consulted" at the end.
 
 **Where to get it:**
 - **Print:** Editorial Kairós, Barcelona, collection *Sabiduría perenne* (ref. 1131). ISBN 978-84-1121-199-4; 144 pp.; 13 × 20 cm; €16 (€15.38 before VAT).
@@ -70,12 +79,17 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
   - **Close:** a set of paradoxes (sleep and waking, travelling while still, words and silence). The site version ends with "¡Bienvenid@ a tu hogar!" (*welcome home*); the printed page I saw ends with "you are ready to unfold your best" and does not show that line. Footnotes give the etymology of "frenético" and define "delirio".
 - **El poder de la palabra** (one page): words can have an intense, sometimes harrowing effect in yoga nidra and should be treated "with reverence"; each word is a "spell"; her sessions are "living" and their wording changes every time she guides them, with the place, the people, the moment and the season.
 - **El viaje** (one page): the journey "back Home", with its "monsters", resistances and the fear of dissolving; the weights carried from childhood, the womb and the lineage; a nod to Ithaca.
-- **Doce y uno más, preface** (alternate pages): an essay describing each journey before the scripts. The pages I saw cover the elements (Earth in detail), journeys 6, 7, the end of what is probably 10, and 11, then a note on sankalpa and set-up, and the start of the poem "Ítaca" (its opening lines are those of Cavafy's "Ithaka"; the attribution is on a page not shown).
+- **Doce y uno más, preface** (alternate pages): an essay describing each journey before the scripts. The pages I saw cover the elements (Earth in detail), journeys 6, 7, the end of what is probably 10, and 11, then a note on sankalpa and set-up, and the start of the poem "Ítaca" (its opening lines are those of Cavafy's "Ithaka"; the attribution is on a page not shown). Search-inside snippets add fragments of the odd pages: PT21 (the elements-to-cakra mapping), PT23 (Water, Fire, Air, Ether) and PT27 (journey 12).
 
 ## Core ideas
 - **Yoga nidra as a liminal state.** It is pictured as walking "between two worlds", awake and asleep at once. The sessions are journeys toward that state, not just a relaxation routine.
 - **Gross to subtle, then dissolution.** The sequence starts with the five elements from densest to subtlest, moves through speech and silence and through relational and psychological themes, reaches "Hermetic laws", and ends in "Dissolution". The Introducción describes the same arc and compares it to not trying to climb the Himalayas on the first walk.
-- **Elements mapped to life themes (and, for Fire, a chakra).** The preface links Earth (*Prithivi*) to trust, security, nourishment, the mother and the tribe, and to feet, legs and adrenal glands, with "the right to have"; Fire to adolescence and the third *cakra*. Only Fire is explicitly tied to a chakra on the pages I saw ("el tercer cakra", PT22). Earth's body correspondences (feet, legs, adrenal glands) and "the right to have" match root-chakra schemes (my inference), but no chakra is named for Earth on the pages seen.
+- **Elements mapped to life themes and to the first five chakras.** The preface assigns Earth to the first *cakra*, Water to the second, Fire to the third, Air to the fourth and Ether to the fifth, with "the immaterial: mental, spiritual" above the fifth (PT21, search snippet; that page is not shown in the preview). It treats the cakras as stages in the evolution of consciousness as well as subtle energy centres. Life themes:
+  - Earth (*Prithivi*): trust, security, nourishment, the mother and the tribe; feet, legs and adrenal glands; "the right to have" (PT22, read).
+  - Water (*Apas*): "second cakra and second journey"; the non-conscious, flowing and accepting change, sexuality, creativity, pleasure (PT23, snippet).
+  - Fire (*Tejas*): adolescence and the third *cakra* (PT22, read); deciding and acting, self-assertion, energy "taken from the father" (PT23, snippet).
+  - Air (*Vayu*): "the region of the heart", the adult, compassion, love, freedom (PT23, snippet).
+  - Ether (*Akasha*): the subtlest material element, the space through which sound travels; beyond it lie mind and spirit (PT23, snippet).
 - **One structure, used "absolutely versatilely".** Her words (Introducción, and her site). The theme changes with the goal; the structure is kept. She says rotation "admits a relative versatility" in these twelve journeys.
 - **Words as a practice tool.** A chapter on "the power of the word" treats each word as a spell and asks facilitators to choose words with care. On her site she quotes Alan Watts on hypnotising with words (compare `08` §10).
 - **Reading as practice.** The book is meant to be breathed and felt while reading, not only performed for others.
@@ -83,7 +97,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
   - "Loyalties" is described in Hellinger's terms: the child's unconscious loyalty to the family ("I, like you");
   - Earth is linked to Hellinger's "archaic consciousness" of the clan;
   - journey 11 deliberately evokes emotions in order to learn their sensations and how breath changes, and to learn to "evoke, hold and modify" them;
-  - "Hermetic laws" points to Western esotericism (description not seen).
+  - "Hermetic laws": a search snippet (PT27, not a previewed page) shows the preface describes journey 12 as "the experience of seven universal principles", including "The All is mind" and "as above, so below", i.e. the *Kybalion* principles. She links the first to "the dream of Vishnu", and says the theme came from a challenge set by the "women psychonauts" who have accompanied her.
   - The end point is Vedāntic: *Sat Cit Ānanda* (her site), "discovering that you are consciousness" (publisher).
 - **Sacred and mythic framing.** On the book page of her site, a closing blessing asks the supreme Goddess, "Devi Mahatmya", to watch over "our sleeping" so that it becomes awakening (not seen in the preview). On her site, Vishnu's yogic sleep is the founding image and *nyāsa* is "the ancestral origin" of yoga nidra.
 
@@ -114,14 +128,14 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 
 | # | Journey | What it covers | Basis |
 |---|---|---|---|
-| 1–5 | Earth, Water, Fire, Air, Ether | The five elements (*pañca mahābhūta*) from dense to subtle, each linked to life themes and body areas. Only Fire is explicitly tied to a chakra (the third *cakra*, PT22). Earth gets body correspondences (feet, legs, adrenal glands) and "the right to have", which match root-chakra schemes such as the chakra "rights" popularised by Anodea Judith (my inference); no chakra is named for Earth on the pages seen | **Book** preface (PT22) for Earth and Fire; others inferred |
+| 1–5 | Earth, Water, Fire, Air, Ether | The five elements (*pañca mahābhūta*) from dense to subtle. The preface maps them to the first five cakras (Earth → 1st, Water → 2nd, Fire → 3rd, Air → 4th, Ether → 5th; PT21, seen only as a search snippet), with life themes and body correspondences. Earth: trust, security, the mother and tribe, feet, legs, adrenal glands, "the right to have" (PT22). Water: second cakra (PT23 snippet). Fire: adolescence, third cakra (PT22). Air: the heart region (PT23 snippet). Ether: space and sound (PT23 snippet) | **Book** preface (PT22 read; PT21/PT23 via search snippets) |
 | 6 | Word and silence | "The word that emerges from silence"; introduced with a poem on words by José Pazó Espinosa | **Book** (PT24) |
 | 7 | Loyalties | Hellinger's systemic "loyalty": the child stays bound to the family by unconsciously repeating its fate | **Book** (PT24) |
 | 8 | Self-mothering | Giving oneself the mothering one needs; a recording of about 27 minutes is free online | Title seen; recording exists (not heard); description on a page not shown |
 | 9 | Interweaving | Free recording from the Slow Summit 2023 | Title seen |
 | 10 | Become… | Probably the dis-identification passage followed by Sheldrake's "collective memory" quote | **Book** (PT26), but the journey number is on a page not shown |
 | 11 | E-motions | Evoking, holding and modifying emotions as "energy in motion" | **Book** (PT26) |
-| 12 | Hermetic laws | Probably the seven "Hermetic principles" popularised by *The Kybalion* (1908); "fractal" in the term list fits "as above, so below" | Inferred; description not seen |
+| 12 | Hermetic laws | Living "seven universal principles" ("The All is mind", "as above, so below"), i.e. the Hermetic principles popularised by *The Kybalion* (1908); prompted by a challenge from her group of "women psychonauts" | **Book** preface (PT27, search snippet only) |
 | last | Dissolution | Resting in emptiness or pure awareness | Title seen |
 
 - **Length.** Not stated in the pages I saw. The one recording she says is a book journey ("Automaternaje") runs about 27 minutes (channel listing); her other recordings run about 22–56 minutes. With 144 small pages, each written session must be short (my estimate: about 8–10 pages at most).
@@ -156,7 +170,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 - **No independent critical review found.** Only publisher copy, a gift-list notice in *Yoga en Red* that repeats the blurb, a radio segment I could only see described, and one Goodreads review. Treat the "progressive" claim as the author's and publisher's until you check the scripts.
 - **Psychotherapeutic material with only general safeguards.** "Loyalties", "Self-mothering" and the deliberate evoking of emotions (journey 11, justified by yoga nidra being a "safe space") reach into family-system and early-attachment material in a deep, suggestible state. The Introducción gives general cautions to facilitators (above). I saw no session-specific trauma guidance, such as opt-outs or a safe anchor; it may be on pages not shown. Her contraindications page lists severe psychiatric disorders, epilepsy and drug use, and advises a prior interview and close watching of participants. But a blanket exclusion of "deep depression" goes beyond the evidence, since trials have included people with depression (`06` §6.0, `07`).
 - **Esoteric and pseudo-scientific frames.**
-  - "Hermetic laws" most likely draws on *The Kybalion*, a 1908 New Thought text, not on ancient Hermetic writings (description not seen).
+  - "Hermetic laws" draws on the seven principles of *The Kybalion*, a 1908 New Thought text, not on ancient Hermetic writings (the preface's description, seen as a PT27 search snippet, names "seven universal principles", "The All is mind" and "as above, so below").
   - The book itself quotes Rupert Sheldrake on "collective memory" (PT26) and uses a visualization "inspired by Joe Dispenza" (PT28). Her site draws on Dispenza (audios page) and on "quantum" ideas of intention: the sankalpa page cites Schrödinger and "Física Cuántica".
   - On her site, sankalpa "imprints the subconscious" and is "the antidote to limiting beliefs". `06` §6.3 treats "reprograms the subconscious" as metaphor, not mechanism.
   - The companion guide says the subconscious processes 20 million stimuli a second against 40 for the conscious mind (see the erratum on her site). This is a popular-science figure, not a measurement.
@@ -168,19 +182,21 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 - **Hard to translate.** The puns and lyricism are part of the method, which limits the book's use beyond Spanish.
 
 ## For your own book
+*Caveat: no session script was seen (see Basis). Each point below rests on the Introducción, the preface to the journeys, the contents page or her website, as marked. Treat them as leads to check against the scripts, not as a judgement of the scripts.*
+
 **Take**
-- **The elements series as a ready progression.** Earth → water → fire → air → ether is a traditional, easily taught ladder from dense to subtle. It suits a "module" of five sessions. Build your own imagery and credit the *mahābhūta* scheme, not Sesma.
+- **The elements series as a ready progression** (basis: contents page and preface). Earth → water → fire → air → ether is a traditional, easily taught ladder from dense to subtle. It suits a "module" of five sessions. How she guides each element I could not see; build your own imagery and credit the *mahābhūta* scheme, not Sesma.
 - **The two-volume logic.** One theory text and one practice text, cross-referenced, is a clear model if you plan a script appendix or companion.
 - **Themes over a stable structure (as a design idea).** She says she keeps the classical structure while varying the theme; I could not see how far her scripts do this. As your own design: keep the stage sequence stable and change only the theme in the visualization slot, so readers learn the route (`08` §7) and still get variety.
-- **Facilitator cautions.** "Practise it yourself before you guide it" and "not every word is for every person at every moment" are worth adapting, with credit.
-- **Detailed set-up guidance.** Warmth and supports, a bolster under the knees, the left side in late pregnancy, a chair option, discomfort as a message, a practice journal. The note on absent limbs is a small, humane detail worth adopting, with credit to her.
-- **Sankalpa options per theme.** Offering a theme-related resolve the reader may rewrite, or their own, is a useful middle way (`08` §8).
-- **Free companion recordings with an explicit personal-use licence.** A model for pairing a script book with audio.
-- **Dual-use scripts.** Writing scripts that also read well silently widens the audience to solo readers.
+- **Facilitator cautions** (basis: Introducción). "Practise it yourself before you guide it" and "not every word is for every person at every moment" are worth adapting, with credit.
+- **Detailed set-up guidance** (basis: a short note in the preface, PT28; the details are from her website). Warmth and supports, a bolster under the knees, the left side in late pregnancy, a chair option, discomfort as a message, a practice journal. The note on absent limbs is a small, humane detail worth adopting, with credit to her.
+- **Sankalpa options per theme** (basis: preface, PT28, where she describes doing this; the options themselves not seen). Offering a theme-related resolve the reader may rewrite, or their own, is a useful middle way (`08` §8).
+- **Free companion recordings with an explicit personal-use licence** (basis: her website and channel listing; recordings not heard). A model for pairing a script book with audio.
+- **Dual-use scripts** (basis: her stated intention in the preface; not checked in a script). Writing scripts that also read well silently widens the audience to solo readers.
 
 **Skip or treat critically**
-- **Family-constellation themes** ("Loyalties") and **reparenting** ("Self-mothering"), and deliberately evoking emotions. If you include anything similar, add opt-outs, grounding, a return to a safe anchor (compare iRest's Inner Resource, `04` §4.2), and a note on when to seek therapy. Family constellations have a weak evidence base. Don't present them as part of yoga.
-- **"Hermetic laws", Sheldrake and other esoteric material.** If used, say where they come from and frame them as metaphor.
+- **Family-constellation themes** (basis: the preface's descriptions of journeys 7 and 11 and the titles; how the scripts handle them not seen) ("Loyalties") and **reparenting** ("Self-mothering"), and deliberately evoking emotions. If you include anything similar, add opt-outs, grounding, a return to a safe anchor (compare iRest's Inner Resource, `04` §4.2), and a note on when to seek therapy. Family constellations have a weak evidence base. Don't present them as part of yoga.
+- **"Hermetic laws", Sheldrake and other esoteric material** (basis: preface, partly via search snippets). If used, say where they come from and frame them as metaphor.
 - **Her account of sankalpa as subconscious reprogramming** with "elevated emotion" (a Dispenza-style idea). Keep the craft (short, positive, present tense, felt) and drop the mechanism claims (`06` §6.3; `08` §8).
 - **Health and brain claims on her website** (dopamine, delta, growth hormone, pituitary). Use the `06` meta-analyses instead.
 - **Contraindications.** Don't copy her list wholesale. Use `07`'s graded guidance rather than blanket bans, and keep her good habit of screening before a group.
@@ -201,12 +217,13 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
   - the author's biography and training, and her rules for sankalpa, posture and contraindications (her website, not the book);
   - that "Automaternaje" (about 27 minutes per the channel listing; exact duration not re-confirmed) is, in her words, one of the twelve journeys;
   - the small Goodreads reception.
+- **Seen only as Google Books search-inside snippets** (fragments of pages not shown in the preview): the mapping of the five elements to the first five cakras (PT21); the themes of Water, Fire, Air and Ether (PT23); the description of journey 12 as seven universal (*Kybalion*) principles (PT27).
 - **Weak evidence (Google Books "common terms and phrases"):** a detailed digit-by-digit rotation, the imperative verbs, Ramana Maharshi, the *Tao Te Ching*.
+- **Not seen at all:** any of the thirteen session scripts. Every statement about what happens inside a session (stage order, sankalpa placement, rotation, imagery, endings) is reported from her other material or inferred, and the "For your own book" points rest on the front matter only.
 - **Inferred, not verified:**
   - the stage order inside each journey and whether each journey has the full structure;
   - what each session adds over the previous one;
-  - that Earth's correspondences amount to a root-chakra link (no chakra named for Earth on the pages seen);
-  - that journey 10 is the dis-identification passage, and that "Hermetic laws" means the *Kybalion* principles;
+  - that journey 10 is the dis-identification passage;
   - session lengths;
   - whether the book states her stay-awake stance and her contraindications.
 - **Verify in the book** (a copy; the preview stops at about PT29, inside the preface, before journey one):
@@ -214,7 +231,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
   2. the rotation order and the cut-off sentence on its "objective" (PT21);
   3. any trauma or safety notes for "Loyalties", "Self-mothering" and "E-mociones";
   4. the rest of "El poder de la palabra" (does it discuss hypnosis and suggestion? `08` §10) and "Me inspiran" (her sources);
-  5. the descriptions of journeys 8, 9 and 12 (on pages not shown);
+  5. the descriptions of journeys 8 and 9 (on pages not shown), and the full wording of PT21, PT23 and PT27 (seen only as snippets);
   6. how closely the free recordings match the printed scripts.
 - **Registry notes:**
   - The **year should be 2023**; consider the id `sesma2023`.
@@ -224,6 +241,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 
 ## Sources consulted
 - Google Books ebook record and preview, id 6ePeEAAAQBAJ: https://books.google.com/books?id=6ePeEAAAQBAJ&printsec=frontcover (pages PT2, PT5–PT10, PT12, PT14, PT16, PT18, PT20, PT22, PT24, PT26, PT28 read; odd pages from PT11 on and everything after PT29 not shown) · edition page: https://www.google.com/books/edition/_/6ePeEAAAQBAJ (16-page preview, common terms, other editions)
+- Google Books search-inside (snippets with page ids), e.g. https://books.google.com/books?id=6ePeEAAAQBAJ&q=cakra · &q=al+tercero · &q=psiconautas · &q=Aire (PT21, PT22, PT23, PT27 snippets used)
 - Google Books print record: https://books.google.com/books?vid=ISBN9788411211994 · ebook record: https://books.google.com/books?vid=ISBN9788411212205
 - Publisher: https://www.editorialkairos.com/catalogo/p/doce-viajes (incl. the "Presentación 28/02/2024" button) · press sheet (PDF) https://www.editorialkairos.com/s/DoceViajes-info.pdf · author page https://www.editorialkairos.com/autores/ana-sesma-nuez · launch https://www.editorialkairos.com/actualidad/presentacion-febrero · https://www.editorialkairos.com/agenda/doce-viajes · audiobooks https://www.editorialkairos.com/audiolibros · the 2022 guide https://www.editorialkairos.com/catalogo/p/yoga-nidra
 - Todostuslibros: https://www.todostuslibros.com/libros/doce-viajes_978-84-1121-199-4
@@ -233,3 +251,8 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 - YouTube (titles, durations, descriptions only; watch pages returned HTTP 429): https://www.youtube.com/@AnaSesmaNuez/videos · https://www.youtube.com/feeds/videos.xml?channel_id=UC5tESGovCndNBgIHQ4Q55Bg · oEmbed metadata for https://www.youtube.com/watch?v=-aOIBsxTzfI · https://www.youtube.com/watch?v=4g_auqm2LaY · https://www.youtube.com/watch?v=xBrQQH16wUY · https://www.youtube.com/watch?v=jcATI3DREFk
 - RNE, *Espacios liminales*, "Entre dos mundos" (5 Apr 2024; description only): https://www.rtve.es/play/audios/espacios-liminales/espacios-liminales-entre-dos-mundos/16045199/
 - *Yoga en Red*: https://www.yogaenred.com/2023/12/22/regalemos-libros-mensajeros-de-paz-y-alegria/ · Sesma & Isern (2016): https://www.yogaenred.com/2016/01/13/yoga-nidra-un-viaje-de-la-piel-al-alma/
+
+## Reviewer notes
+- **Scripts still unseen (not fixable with the sources available).** The reviewer asked for the session scripts to be checked. In this revision (Oct 2026) I tried every legitimate route I know: Google Books search-inside for this ebook (blocked by a Google "unusual traffic" page, HTTP 429; the Google Books API also returned a quota error), the Kairós catalogue page (only the one-page press sheet, which has no script text), BookBeat (listing only, no sample), the author's site (HTTP 503) and the YouTube recordings (blocked by a sign-in check). So the summary still contains no script, and the practice section and the "For your own book" recommendations rest on the introduction, the preface to the journeys and her website. They are now labelled that way. To fix this, read at least two journeys in a bought or library copy (suggested: journey 1, Earth, and journey 7, Loyalties) and check sankalpa placement, rotation order and any safety notes.
+- The chakra mapping (PT21, PT23) and the journey 12 description (PT27) rest on Google Books search-inside snippets, not on pages shown in the preview. The wording quoted from them is exact, but the surrounding text was not seen.
+- An earlier pass noted that search-inside results also return fragments of the scripts (e.g. PT47 and PT55 for journey 4, Air: two sankalpa options, one to be repeated three times; PT48–PT50: a rotation that includes chakra points). I could not re-open those results in this revision, so they are not used anywhere in the summary.

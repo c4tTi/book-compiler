@@ -6,6 +6,7 @@
 > - https://athene-forschung.unibw.de/doc/144964/144964.pdf (full text) and its record https://athene-forschung.unibw.de/144964
 > - https://link.springer.com/book/10.1007/978-3-658-50326-0 (product page, via fetch tool, re-checked 2026-10-03: prices, page count, formats, no supplementary material listed)
 > - https://www.ebi.ac.uk/europepmc/webservices/rest/PMC12080877/fullTextXML (Moszeik et al. 2025, *Stress and Health*, methods)
+> - German National Library (DNB) catalogue, SRU search for Satyananda "Yoga Nidra" (2026-10-03): German book editions 1992, 2005, 2019 and 2023 with edition statements; no 2009 or 4th-edition record.
 > - Crossref records for the book and project papers (DOIs 10.1007/978-3-658-50326-0, 10.1002/smi.70049, 10.1007/s12671-026-02773-2, 10.1037/cns0000444, 10.1007/s12144-020-01042-2). Blocked: springer.com shop, PsycNet, FernUniversität repository, Google Books API.
 
 **Where to get it:**
@@ -14,7 +15,7 @@
 - **Audio:** the dissertation includes no audio; the Springer product page mentions none (edition not seen). The 2025 paper says the two German recordings (no background music) are available from the author on request.
 - **Language:** German, with an English abstract.
 
-**Tradition / lineage:** Academic personality and health psychology (supervisor Karl-Heinz Renner). The recordings follow the **Satyananda / Bihar School** model, voiced by the author, with Satyananda's *Yoga Nidra* (4th ed., 2009) as her main source. She thanks Swami Niranjanananda, Swami Prakashananda, Swami Vagishananda and Barbara Kündig among her teachers (p. 7) and points to Bihar School trainings for the exact method (p. 43). **Length / format:** 209 pp. (dissertation). An empirical thesis with no full scripts. It describes both recordings, quotes two example lines, and prints the participant e-mails.
+**Tradition / lineage:** Academic personality and health psychology (supervisor Karl-Heinz Renner). The recordings follow the **Satyananda / Bihar School** model, voiced by the author, with Satyananda's *Yoga Nidra* as her main source. Her bibliography lists it as "Satyananda, S. (2009). Yoga Nidra (4. Aufl.). Yoga Publ. Trust." (p. 195) and does not give the language. It is almost certainly the **German translation** (by Swami Prakashananda Saraswati, published jointly by Yoga Publications Trust, Munger, and Ananda Verlag), not the English original. In the German National Library catalogue the German edition runs 2nd ed. 1992, 3rd ed. 2005 ("translated from English"), 5th ed. 2019 and 6th ed. 2023, so a 4th edition around 2009 fits. The English book was already in its 6th edition before 2009 (`satyananda1976.md`). She also quotes it in German with page numbers (e.g. pp. 8, 9). No catalogue record of a German 4th edition was found, so the edition is inferred, not confirmed. Her page references to it are therefore presumably to the German book. She thanks Swami Niranjanananda, Swami Prakashananda, Swami Vagishananda and Barbara Kündig among her teachers (p. 7) and points to Bihar School trainings for the exact method (p. 43). **Length / format:** 209 pp. (dissertation). An empirical thesis with no full scripts. It describes both recordings, quotes two example lines, and prints the participant e-mails.
 
 ## In one paragraph
 A German doctoral thesis testing whether recorded yoga nidra, practised alone at home, improves stress, mood, sleep, mindfulness and the daily cortisol curve in ordinary adults. Online randomised trial (2018–19), **362** analysed in four groups: **11-minute** yoga nidra (n = 101), **30-minute** yoga nidra (n = 80), a **10-minute music** active control (n = 74) and a **waitlist** (n = 107). Two months of practice, aiming for once a day (p. 2); measured before, after and three months later; 229 gave saliva samples. It also asks *for whom* it works. The message is sobering and well documented: effects are **real but very small**, almost vanish against music, and depend on dose and person. Only about 20 pages (pp. 37–51, 89–93) describe the practice itself.
@@ -47,7 +48,7 @@ Table of contents seen (dissertation pp. 8–10). Six chapters (introduction, th
 ## The practice as this book teaches it
 The thesis teaches no practice to the reader but documents the two recordings.
 
-**Reference sequence (thesis pp. 42–43, after Satyananda 2009):** preparation; body and breath; sankalpa; rotation; breath (counting); opposites; inner space and visualisation; sankalpa; externalisation.
+**Reference sequence (thesis pp. 42–43, after the German edition of Satyananda's *Yoga Nidra*, cited as 2009):** preparation; body and breath; sankalpa; rotation; breath (counting); opposites; inner space and visualisation; sankalpa; externalisation.
 
 **11-minute version** (from her 2016 thesis, quoted p. 90): body, breath, sankalpa and observing thoughts and feelings. The rotation covers only the right and left sides, not front and back; breath is watched for about 20 seconds (about two minutes in longer versions). Meant for beginners.
 
@@ -104,6 +105,7 @@ The thesis teaches no practice to the reader but documents the two recordings.
 - **Certain, read in the dissertation:** design, effect sizes (Tables 8–10), adherence (p. 105; Tables 12–13), the recording descriptions and example lines (pp. 89–92), the e-mails, which tests were directed (pp. 134, 138, 140), and the lineage and dating statements at the pages given.
 - **From the 2025 journal article, not the thesis:** 426 randomised and per-group losses before t1; no preregistration or multiple-comparison correction; recordings available on request; the roughly 5-minute chakra exercise.
 - **From the publisher's page via fetch tool:** Springer formats, prices, page count, and the absence of listed supplementary material.
+- **Edition of her Satyananda source:** the bibliography entry (p. 195) is certain. That it is the German translation is an inference from the DNB edition sequence, her German quotations and the joint imprint. The specific 4th edition (2009) was not found in the DNB and was not seen.
 - **Cross-references** to `satyananda1976.md`, `kuendig.md`, `janakananda1997.md`, `06` and `08` rely on those files, not on the primary books.
 - **Not checked:** what changed in the Springer edition (the 2025 paper reports somewhat different Bayes factors for the 11-minute comparison); the content of the 2025 APA personality paper (record only); the 2016 FernUniversität thesis (blocked). If you cite numbers in print, cite the 2025 *Stress and Health* paper or check the Springer edition.
 
@@ -111,3 +113,4 @@ The thesis teaches no practice to the reader but documents the two recordings.
 - No run of 2–4 consecutive guiding lines exists in the thesis: it prints only two isolated lines (pp. 90, 91), now the two permitted quotes (the p. 172 quotes were dropped), and the recordings are not public.
 - Posture instructions and a full minute breakdown of the 30-minute recording are not in the thesis, the printed e-mails or the 2025 paper (p. 81 mentions posture tips, but none are printed).
 - Length is now about 2,500 words (from 3,340): the reviewer-requested additions (effect table, practice comparison, compendium correction, claim mapping) keep it above the 2,200 target.
+- Her Satyananda source ("4. Aufl.", 2009, Yoga Publ. Trust) is identified as the German translation by inference only. No catalogue record of that edition was found and the book was not opened.

@@ -12,6 +12,7 @@ bodies, industry and trial registries, in English, German, French and Hindi.
 | `00-scope.md` | Scope, facets, fields, lenses, search log |
 | `sources.jsonl` | Registry of every source (cited in the text as `[@id]`) |
 | `compendium/` | `00-overview.md` (the field on one page, best sources, coverage), chapters 01–11, `90-glossary.md`, `99-bibliography.md` (generated). Chapter 10 covers recordings, apps, video, trainings, podcasts and communities; chapter 11 covers German, French and Hindi sources, institutions and markets |
+| `reading/` | Personal reading summaries of 64 yoga nidra books; start with `reading/00-index.md` |
 | `workbench/` | Book writing: keep/cut log, positions, outline |
 | `library/` | Your own copies of books go in `library/raw/` (git-ignored) |
 

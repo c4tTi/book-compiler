@@ -3,12 +3,15 @@
 > **Basis of this summary:** Table of contents + publisher description + reviews + author interviews/talks (book itself not read).
 > - Read in full: Thompson's open-access Open MIND article (2015), the article version of ch. 8; his *Philosophy East and West* précis and reply to critics (2016); Albahari's *NDPR* review (2015).
 > - Seen from the book itself: the table of contents with chapter page ranges (publisher and DOI records), plus one- or two-line search fragments from the Internet Archive scan, including the index entry for yoga nidrā.
-> - **Not read:** any page of chs. 4 or 8. What is said about those pages comes from the article versions or from fragments.
+> - Page-cited second-hand glimpses of chs. 4 and 8: Mascarello's review in *Universa* (2016, read in full) summarises both chapters and quotes pp. 122, 248, 260 and 268. Thompson's own Columbia UP blog post (2014) describes the falling-asleep habit behind the book.
+> - **Not read:** any page of chs. 4 or 8. In October 2026 I looked for a legitimate way in and found none: Google Books shows "No preview available" for the hardcover, paperback and e-book ISBNs; the De Gruyter chapter pages returned a bot challenge; the Internet Archive scan is for print-disabled readers only; the publisher offers no excerpt (its blog has only the foreword, interviews and Thompson's post). So the book's own treatment of yoga nidra is still not shown here. What is said about those pages comes from the article versions, the reviews or fragments.
 >
 > Read for this summary (main sources; the full log of URLs and search terms is in the collapsed section at the end):
 > - https://open-mind.net/papers/dreamless-sleep-the-embodied-mind-and-consciousness-the-relevance-of-a-classical-indian-debate-to-cognitive-science (PDF read in full)
 > - https://osf.io/download/3gz57/ (Précis and Response to Commentators, *PEW* 66:3, 2016)
 > - https://ndpr.nd.edu/reviews/waking-dreaming-being-self-and-consciousness-in-neuroscience-meditation-and-philosophy/ (Albahari, *NDPR*, 15 July 2015)
+> - https://universa.padovauniversitypress.it/system/files/papers/05-2-31.pdf (Chiara Mascarello, review, *Universa. Recensioni di filosofia* 5:2, 2016, pp. 160–165; read in full)
+> - https://cupblog.org/2014/11/13/waking-dreaming-being/ (Thompson's post on the Columbia UP blog, crossposted from HuffPost, 13 Nov. 2014)
 > - https://cup.columbia.edu/book/waking-dreaming-being/9780231137096 and the chapter DOI records at api.crossref.org (10.7312/thom13709-…)
 > - Internet Archive full-text search of `wakingdreamingbe0000thom` (fragments only; the scan itself is for print-disabled readers and was not opened)
 
@@ -51,6 +54,8 @@ Search fragments show the notes citing Swami Satyananda Saraswati's *Yoga Nidra*
 Yoga-nidra-relevant ideas only. Page numbers are the Open MIND article's; fragments from the book are marked.
 - **The "default view" is too quick.** Neuroscientists often define consciousness as what vanishes in dreamless sleep. Thompson says that is a definition, not a finding.
 - **The Indian debate.** Yoga and Advaita say awareness is present in dreamless sleep, citing the waking memory "I slept peacefully and knew nothing". Nyāya says that memory is really an inference. Thompson finds Advaita's reply strong but not decisive.
+- **Ch. 4 on falling asleep (via Mascarello, p. 122).** Thompson describes hypnagogia as a loosening of the sense of self in which awareness gets absorbed in the images it spontaneously produces. The dream restores a dream self. He links the shift between the two to a change in brain rhythms. Mascarello says nothing about the yoga nidra pointer on p. 107.
+- **Ch. 8 as the reviewer frames it (Mascarello).** The traditions treat deep sleep as a subtle level of mind that training can reach. At its subtlest, a "witness" awareness watches waking, dreaming and sleep without ego (her quote from p. 248, one of the indexed yoga nidra pages; I cannot tell whether that sentence is about yoga nidra). The move from deep sleep to dreaming to waking runs from subtler to grosser levels of consciousness and embodiment (p. 260). The chapter ends by calling for a "contemplative sleep science" (p. 268): trained meditators' reports on waking from deep sleep, combined with brain and body measures.
 - **Three kinds of sleep, defined.**
   - *Ordinary dreamless sleep*: no mentation; peaceful awareness without an object, a kind of awareness in darkness.
   - *Lucid dreamless sleep*: the same, plus a non-conceptual witnessing meta-awareness whose clarity can be recalled on waking.
@@ -65,6 +70,7 @@ Yoga-nidra-relevant ideas only. Page numbers are the Open MIND article's; fragme
 ## The practice as this book teaches it
 The book teaches no practice: no stages, script, sankalpa or posture. What it contains:
 - **A first-person attempt (fragments).** In a Himalayan setting where, he notes, yogis still meditate in caves, Thompson decides to practise yoga nidrā to watch his mind cross from waking into sleep, a wish he traces to childhood. I could not read how it went (see "For your own book").
+- **The habit behind it (his blog post, not the book).** Since childhood he has fallen asleep by letting the mind drift while watching for the moment sleep begins. On his first night in Dharamsala this turned into his first lucid dream, which he says set the book going (Columbia UP blog, 2014; he says the same in his SAND interview). It is a do-it-yourself cousin of yoga nidra's "awake while falling asleep", not a taught method.
 - **Conditions for lucid dreamless sleep:** a way of life, not a technique (Open MIND p. 15).
 
 ## What's distinctive
@@ -75,7 +81,7 @@ The book teaches no practice: no stages, script, sankalpa or posture. What it co
 ## Strengths and limitations
 - Strengths:
   - Careful and fair; open about what is speculative.
-  - Albahari calls ch. 8 "highly innovative" (*NDPR*). A 2015 *Choice* Outstanding Academic Title.
+  - Albahari calls ch. 8 "highly innovative" (*NDPR*). Mascarello praises the book as fair to both science and contemplative traditions and accessible (*Universa*, 2016). A 2015 *Choice* Outstanding Academic Title.
   - Goodreads 4.08 from 505 ratings and 64 reviews (October 2026; review counts on the page vary between loads).
 - Limitations / critiques:
   - **Albahari's qualm about ch. 8:** trained "sleep yogis" may not show that *ordinary* deep sleep is conscious; their practice may create a mode of awareness not normally present (*NDPR*).
@@ -108,15 +114,19 @@ The book teaches no practice: no stages, script, sankalpa or posture. What it co
   - The index entry placing yoga nidrā at pp. 107, 248, 253, 264–71 (book fragment).
   - That the notes cite Satyananda's *Yoga Nidra* (6th ed., Yoga Publications Trust) and Couture's article (book fragments). Couture's volume, year and pages come from Crossref, not from the book. The year of Satyananda's 6th edition was not confirmed and is omitted.
   - The argument, definitions, evidence and Vyāsa's three sleeps as given in the Open MIND article and précis, which I read.
+  - Mascarello's chapter summaries and the page numbers she gives (pp. 122, 248, 260, 268), as she reports them. These are second-hand: I did not see those pages.
+  - The falling-asleep habit and the Dharamsala lucid dream, from Thompson's own blog post.
   - Albahari's critique and her description of Thompson's background.
-- **Probable but from fragments:** that the yoga nidra pages contain the history sentence, the list of techniques, the Vyāsa passage and the first-person scene; that he doubts lucid dreamless sleep is purely slow-wave. Exact pages, the outcome of the scene, and how much of pp. 264–71 is about yoga nidra rather than other "sleep yoga" are unknown.
+- **Probable but from fragments or reviews:** that the yoga nidra pages contain the history sentence, the list of techniques, the Vyāsa passage and the first-person scene; that he doubts lucid dreamless sleep is purely slow-wave. Exact pages, the outcome of the scene, and how much of pp. 264–71 is about yoga nidra rather than other "sleep yoga" are unknown.
 - **Unchecked:** whether the 2017 paperback's text and pagination exactly match the hardcover; whether an audiobook exists on Audible or other retailers.
 - **To verify in the book:**
   1. Read pp. 264–271 (library copy or De Gruyter/JSTOR): how his own yoga nidra attempt went.
   2. The page of quote 1.
-  3. Whether he discusses Satyananda's method or only cites it; whether he mentions Swami Rama or Kjaer; whether Tibetan sleep yoga is treated alongside.
+  3. What p. 107 in ch. 4 actually says about yoga nidrā, and whether the p. 248 "witness" passage is part of the yoga nidra discussion.
+  4. Whether he discusses Satyananda's method or only cites it; whether he mentions Swami Rama or Kjaer; whether Tibetan sleep yoga is treated alongside.
 
 ## Reviewer notes
+- **Not fixable here: chs. 4 and 8 remain unread.** No legitimate free access exists (Google Books: no preview for any ISBN; De Gruyter: bot challenge; Internet Archive: print-disabled only; no publisher excerpt). This revision adds the closest legitimate substitutes (Mascarello's page-cited review; Thompson's blog post) and marks clearly what is second-hand. To close the gap, read pp. 107 and 231–272 in a library copy or via institutional De Gruyter/JSTOR access.
 - Not done here: a Thompson entry in `compendium/02-source-books.md` (deep-sleep awareness; ch. 8 pp. 231–272; free Open MIND article as substitute) and adding Mason 1997 / Ferrarelli 2013 to `06` §6.1 (caveats: not yoga nidra; long-term meditators) with a cross-reference from §6.3. This revision may edit only `reading/` and `.work/`.
 - The year of Satyananda's 6th edition (a web search snippet gave 1998) could not be confirmed: two catalogue pages that might show it returned 503 and the Google Books API was over quota.
 
@@ -133,6 +143,12 @@ The book teaches no practice: no stages, script, sankalpa or posture. What it co
 - https://evanthompson.me/waking-dreaming-being/; https://philosophyofbrains.com/2015/07/27/introduction.aspx
 - Open MIND article PDF (read in full) and Thompson's reply to Windt (https://open-mind.net/papers/steps-toward-a-neurophenomenology-of-consciousness-in-sleep-a-reply-to-jennifer-m-windt/at_download/paperPDF)
 - https://osf.io/preprints/psyarxiv/dnk69 → https://osf.io/download/3gz57/
+- Mascarello review, *Universa* 5:2 (2016), PDF read in full via the compiler pdf tool
+- https://cupblog.org/2014/11/13/waking-dreaming-being/ (read); Columbia blog archive for Nov. 2014 checked for an excerpt (found only the foreword, the Tricycle and Wild River Review interviews and this post)
+- https://scienceandnonduality.com/article/waking-dreaming-being/ (Zutshi interview; childhood habit of watching himself fall asleep)
+- Google Books pages for ISBN 9780231137096, 9780231538312, 9780231136952 (all "No preview available"); De Gruyter chapter HTML for 10.7312/thom13709-008 and -012 (bot challenge, HTTP 202)
+- https://www.globalbuddhism.org/article/download/1242/1078 (review; connection reset, not read)
+- Web searches (Oct. 2026): book excerpt + "yoga nidra"; excerpt + hypnagogic/Himalayas; Solomonova review in *Constructivist Foundations* (not found)
 - NDPR review (read in full); https://www.npr.org/sections/13.7/2014/12/30/373952810/in-search-of-a-science-of-consciousness (Noë)
 - https://tricycle.org/magazine/embodied-mind/ (author background)
 - https://www.goodreads.com/book/show/22329411-waking-dreaming-being (reception)
