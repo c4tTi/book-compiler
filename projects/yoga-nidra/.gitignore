@@ -3,3 +3,4 @@ library/raw/*
 library/extracted/*
 !library/raw/.gitkeep
 !library/extracted/.gitkeep
+.work/

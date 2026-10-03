@@ -1,0 +1,87 @@
+# Roots of Yoga — James Mallinson & Mark Singleton (2017)
+
+> **Basis of this summary:** Table of contents + publisher description + reviews + author interviews/talks (book itself not read). The contents list comes from the library catalogue record, not from the book. I found no legitimate way to read any of the book. Google Books says "No preview available" for every edition. The Internet Archive copy is a print-disabled-only loan, and its search-inside is closed. Open Library's search-inside asked for human verification, so I stopped. Several unauthorized uploads of the book are on archive.org; I did not open them. To give you citable verse numbers, I read the primary passages through three free sources instead: Birch & Hargreaves' essay (translations plus Sanskrit), the public-domain Pancham Sinh *Haṭhapradīpikā* (1914), and the GRETIL e-text of the *Vijñānabhairava*. **This summary cannot tell you which of these passages *Roots of Yoga* actually prints, or how it numbers them.**
+> Read for this summary:
+> - Publisher pages: https://www.penguinrandomhouse.com/books/537595/roots-of-yoga-by-translated-and-edited-with-an-introduction-by-james-mallinson-and-mark-singleton/9780241253045/ · https://www.penguin.co.uk/books/254332/roots-of-yoga-by-james-mallinson-mark-singleton/9780241253045
+> - Catalogue records: https://archive.org/metadata/rootsofyoga0000unse (catalogue data only: contents note, pagination, LCCN) · https://openlibrary.org/works/OL20675281W · https://books.google.com/books?vid=ISBN9780241253045 · https://books.google.com/books?vid=ISBN9780141978246 · https://books.google.com/books?id=f-UPDQAAQBAJ · https://books.google.com/books?id=KplPEAAAQBAJ · https://books.google.com/books?id=qruMEAAAQBAJ · https://books.google.com/books?id=OJT1sgEACAAJ (all "no preview")
+> - Reception: https://en.wikipedia.org/wiki/Roots_of_Yoga · https://indianphilosophyblog.org/2017/12/30/book-review-of-roots-of-yoga-translated-and-edited-by-james-mallinson-and-mark-singleton-reviewed-by-neil-sims/ · https://www.yogajournal.com/yoga-101/10-things-didnt-know-yoga-history (Remski) · https://www.open.ac.uk/blogs/religious-studies/?p=405 (Wildcroft; read through a fetch-tool summary only)
+> - Author interviews, show notes only (no transcripts are published): https://feeds.buzzsprout.com/1046752.rss · https://www.buzzsprout.com/1046752/episodes/4152494 (Mallinson, 2020) · https://www.buzzsprout.com/1046752/episodes/9369341 (Mallinson, 2021) · https://www.buzzsprout.com/1046752/episodes/6792961 (Singleton, 2020)
+> - Primary-text cross-checks: https://www.theluminescent.org/2015/01/yoganidra.html · https://archive.org/download/hathayogapradipi0000panc/hathayogapradipi0000panc_djvu.txt (Sinh 1914, public domain) · https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/plaintext/sa_vijJAnabhairava.txt
+
+**Where to get it:** Penguin Classics, London. UK publication 26 January 2017, US 11 April 2017. Paperback ISBN 9780241253045 (£12.99 / US$18.00). Penguin UK also sells an ebook. A second ISBN, 9780141978246, appears in the Google Books and Open Library records (Penguin Books Ltd, 2017). An Italian translation, *Le radici dello yoga* (Ubaldini, 2019), is reported by Wikipedia. There is no free or open-access copy. The Internet Archive scan is for print-disabled readers only. Use a library copy or buy it. No audio.
+**Tradition / lineage:** None. This is academic Indology. Both editors were members of the ERC Haṭha Yoga Project at SOAS, University of London (2015–21). Mallinson is a Sanskritist who has also lived with traditional ascetics and was given the title of *mahant* by the Rāmānandī order at the 2013 Kumbh Mela. Singleton is the historian of modern yoga who wrote *Yoga Body* (2010).  **Length / format:** Paperback. The catalogue gives xl + 540 pp. and 20 cm; the publishers say 592 pp. Notes and bibliographical references on pp. 443–506 (catalogue). Translated extracts, each with an editorial introduction and notes, plus a timeline, tables, glossary and index. No scripts, no audio.
+
+## In one paragraph
+This is an anthology of the editors' own translations of passages from more than 100 pre-modern texts on yoga. The texts date from about 1000 BCE to the 19th century. Most are Sanskrit, but some are Tibetan, Arabic, Persian, Bengali, Tamil, Pali, Kashmiri, or early Marathi and Hindi. Many appear in translation for the first time. The passages are grouped by theme, each chapter has a historical introduction, and within a chapter the texts run roughly in date order. The publisher pitches it as the first stop for practitioners and teachers who want more than they hear in class. The editors say plainly that it is "not a manual of yoga practice" (Sims, quoting p. xii). It also stops where modern yoga begins. **It is not a yoga nidra book, and none of it covers the modern practice.** For you, its use is narrower. It is the citable scholarly translation in which to check the pre-modern passages that use *yoganidrā*, or that link sleep with samādhi. Going by the contents and reviews, that material probably sits in two chapters (pp. 283–358, about 75 of 540 pages), and only a small part of those pages concerns sleep. That is my estimate. I did not count the passages.
+
+## Structure
+Chapter list from the library catalogue's contents note (Internet Archive metadata record, LCCN 2017287616). Page ranges come from Wikipedia's citations of the book; I did not see them myself.
+
+1. Yoga (pp. 3–45)
+2. Preliminaries (pp. 46–85)
+3. Posture (pp. 86–126)
+4. Breath-control (pp. 127–170)
+5. The yogic body (pp. 171–227)
+6. Yogic seals (pp. 228–258)
+7. Mantra (pp. 259–282)
+8. Withdrawal, fixation and meditation (pp. 283–322)
+9. Samadhi (pp. 323–358)
+10. Yogic powers (pp. 359–394)
+11. Liberation (pp. 395–435)
+
+According to the reviews and Wikipedia, the chapters come after a general introduction with 58 footnotes and a "Timeline of Important Texts". The back matter has tables of the different "limb" systems (four- to fifteen-fold), a glossary, lists of primary and secondary literature, notes and an index. **Chapters to check for yoga nidra:** 9 (samādhi, the setting where medieval texts use *yoganidrā*), 8 (sense-withdrawal and fixation, the closest pre-modern relatives of body rotation), 6 (*khecarī mudrā*, which *Haṭhapradīpikā* 4 links with *yoganidrā*), and 3 (*śavāsana*).
+
+## Core ideas
+- **Yoga has never been one thing.** Different texts define it differently and disagree about its goal and its methods. Remski's review makes this its main message.
+- **"Yoga" is both the path and the goal.** It names the whole process and also its endpoint, samādhi (Wikipedia, summarising the book). The same doubling explains why *yoganidrā* can name a state while Yoga Nidra names a method.
+- **The texts speak for themselves.** The editors add little interpretation, and Sims found "no hint of partisanship". The focus is practical, with metaphysics only where a practice needs it.
+- **Not a manual.** Some of the practices described are dangerous; Sims cites a cleansing technique on p. 130. The medieval texts themselves warn that posture and breath work can make you ill (Remski).
+- **Breath came before posture.** Medieval yogins put breath control first, ahead of posture and even ahead of samādhi as Patañjali stressed it (Sims on chapter 4).
+- **Many contributors.** Buddhist, Jain and Muslim authors all wrote on yoga techniques (Remski).
+- **The yogic body is built by tradition, not found by observation.** The chakra systems are installations a tradition visualises onto the body, not anatomy (as quoted by Remski).
+- **Words change meaning.** In tantric texts *vinyāsa* usually meant placing mantras on the body (that is, *nyāsa*), not a flowing sequence of poses (as quoted by Remski). This bears directly on the claim that body rotation comes from nyāsa.
+
+## The practice as this book teaches it
+It teaches no practice. Its use for you is as the place to check primary sources. The table below lists the pre-modern passages on *yoganidrā*, and on sleep at the edge of samādhi, that matter for a yoga nidra book. Verse numbers come from the sources I read, as shown. **Whether *Roots of Yoga* prints each passage, and under what number, is unverified.** Sims confirms only that it includes passages from the *Yogatārāvalī*. Remski's quotations confirm that it includes the *Amanaska*.
+
+| Passage | What it says (my paraphrase) | Source of the number |
+|---|---|---|
+| *Amanaska* 2.64 (12th c.) | At the end of "yogic sleep" the yogin wakes from the world of objects, the way a sleeper wakes into it. Samādhi is pictured as sleep. | Birch & Hargreaves 2015 |
+| *Yogatārāvalī* 24–26 (13th–14th c.) | *Yoganidrā* is a sleep without dullness that dawns when thought and intention are cut off. The yogin rests "in the bed of the fourth state" (*turīya*, Birch's translation), beyond waking, dream and deep sleep. | Birch & Hargreaves 2015 |
+| *Haṭhapradīpikā* 4.49 (15th c.) | Practise *khecarī mudrā* until you are absorbed in *yoganidrā*. Whoever reaches it is beyond time and death. **Sinh 1914 numbers this verse 4.48.** | Birch (4.49); Sinh (4.48) |
+| *Haṭhapradīpikā* 4.109 and 4.111 (Sinh numbering) | The liberated mind is neither asleep nor awake. The freed yogin looks asleep while awake, without breath. | Sinh 1914; check modern numbering |
+| *Haṭhapradīpikā* 1.34 | *Śavāsana*: lying supine like a corpse removes fatigue and rests the mind. | Birch; Sinh (both 1.34) |
+| *Vijñānabhairava* 75 | Hold the mind at the moment when sleep has not yet come but outer objects have faded; there the supreme goddess shines. This is the classic "threshold of sleep" exercise. | GRETIL e-text (Sanskrit) |
+| *Vijñānabhairava* 82 | Sitting or lying down, contemplate the body as having no support. | GRETIL e-text |
+| *Yogayājñavalkya* 7.6–31 (parallel *Vasiṣṭhasaṃhitā* 3.61–74) | Withdrawal (*pratyāhāra*) by drawing the breath and attention from one of 18 vital points (*marmasthāna*) to the next. This is the nearest pre-modern relative of body rotation. | Birch & Hargreaves 2015 |
+| *Amanaska* 2.22 and 2.104 | Samādhi arises when all *saṅkalpa* (intentional thought) is cut off, and ritual falls away once *saṅkalpa* ceases. This is the opposite of the modern sankalpa. | Birch & Hargreaves 2015 |
+| *Maṇḍalabrāhmaṇa Upaniṣad* 2.5.2; *Haṭharatnāvalī* 3.70 | Late uses of the term: *yoganidrā* glossed as *nirvikalpa samādhi*, and *yoganidrāsana* as a posture with the legs behind the neck. | Birch & Hargreaves 2015 |
+
+## What's distinctive
+It is the only book in the project's set of primary-source translations by philologists, from a major publisher, at paperback price. So it is the print source the yoga nidra books send you to, and the one that lets you test their claims about "ancient texts". That covers Satyananda's nyāsa origin story, Kumar's *Haṭhapradīpikā* 4.49 lead, and the history chapters in Dinsmore-Tuli and Wildcroft & Nolan. Birch & Hargreaves' essay is more focused on *yoganidrā*, but it is a web article. *Roots of Yoga* is the citable book that sits behind it.
+
+## Strengths and limitations
+- Strengths: careful new translations, many of them the first in English, with editorial introductions. Sims calls it scholarly and non-partisan, useful to practitioners and a real contribution to scholarship. Remski predicts it will top teacher-training reading lists. Practical extras: a timeline, tables of the limb systems, a glossary, and about 60 pages of notes and references. Cheap.
+- Limitations / critiques: excerpts, not whole texts, so the surrounding context is often missing. Brian Cooper (via Wikipedia) presents this as a gain in accessibility. Muñoz (*Estudios de Asia y África*, 2018, via Wikipedia; I did not read it) finds the chapter introductions technical for general readers. He also says vernacular sources such as Braj Bhāṣā are light, which makes yoga's "roots" look mostly Sanskrit and literary. Sims asks whether practice can really be separated from its metaphysical frame. The book deliberately stops before modern yoga, so it says nothing about Satyananda's method. Wildcroft notes that its reception split along sectarian and political lines. For your purpose there is no section on yoga nidra or sleep (as far as the contents show), so you will be working from the index.
+
+## For your own book
+- **Take: the verse table above as your checking list.** With a physical copy, look in chapter 9 (samādhi) and chapter 8 first. Then check the index for *yoganidrā*, *nidrā*, sleep, *turīya*, *śavāsana*, *khecarī* and *nyāsa*. Cite *Roots of Yoga* by page, together with the original text and verse. That is far stronger than citing Sinh 1914 or a yoga nidra book's paraphrase.
+- **Take: the "state, not method" framing.** The book's point that "yoga" names both path and goal gives you a scholarly basis for saying *yoganidrā* first named a state close to samādhi (*Yogatārāvalī*, *Haṭhapradīpikā*), and that the guided method came much later. This fits the "ancient roots, modern form" position in `08` §1.
+- **Take, carefully: nyāsa.** Remski quotes the book as saying that in tantric texts *vinyāsa* usually means placing mantras on the body. That supports one honest sentence on nyāsa as the *claimed* source of body rotation, and it tells you to look in the Mantra and Yogic body chapters for a passage to cite. Pair it with the *Yogayājñavalkya* marma-point withdrawal, which is closer to body rotation than nyāsa is.
+- **Take: the yogic body as a tradition-made map.** This lets you teach body rotation, chakra imagery or the kośas as contemplative maps, not anatomy. That framing is useful for secular or clinical readers.
+- **Take: the sankalpa contrast.** The medieval texts aimed to cut off *saṅkalpa* (*Amanaska* 2.22). Saying so openly makes your sankalpa chapter more credible, not less.
+- **Skip or treat critically: "Roots of Yoga proves yoga nidra is ancient."** It documents the *word* in samādhi contexts and nothing about the modern practice. Don't cite it for Satyananda's stages.
+- **Skip or treat critically: numbers without an edition.** *Haṭhapradīpikā* 4.49 in Birch is 4.48 in Sinh 1914. Always name the edition you number from, and check which one *Roots of Yoga* follows.
+- **Skip or treat critically: the *Vijñānabhairava* 75 verse as a "yoga nidra script".** It is a single one-line exercise among more than a hundred. It makes a fine epigraph for the hypnagogic threshold and is evidence of nothing more. I could not confirm that *Roots of Yoga* includes it.
+- **Skip: reviewers' superlatives** ("forget everything you knew") as a substitute for the passages themselves.
+- **Side find for your history chapter (outside this book):** in his own 1914 Introduction, Sinh advises that when "Yoga Nidra" arises during *praṇava* repetition it should be encouraged by "slackening all the muscles of the body". He also says the student should give himself up to "Yoga sleep" and not resist it. This is a pre-Satyananda English use that already ties yoga nidra to muscular relaxation. It is relevant to `01` §1.2 and to debate 3 (falling asleep).
+
+## Short quotes (optional, max 2, each under 25 words, with page if known)
+- The editors call the book "not a manual of yoga practice" (p. xii, as quoted by Neil Sims; I have not seen the page).
+- The yogic body is "one that is constructed or 'written' on and in the body of the practitioner by the tradition itself" (as quoted by Matthew Remski, *Yoga Journal*; page unknown).
+
+## Confidence
+- **Certain** (seen on publisher pages and catalogue records): publisher, dates, ISBNs, prices, pagination, and the eleven-chapter list (library contents note), plus the publisher's description and endorsements.
+- **Secondary:** per-chapter page ranges (Wikipedia); the "not a manual" stance, practical focus, timeline and inclusion of *Yogatārāvalī* passages (Sims); the *vinyāsa*/nyāsa and yogic-body points and the inclusion of the *Amanaska* (Remski); the Muñoz and Cooper critiques (Wikipedia only; their reviews were not reached, and Rosen's review site was down).
+- **Read in primary form, not in *Roots of Yoga*:** every verse number in the table. They come from Birch & Hargreaves' essay, Sinh's 1914 translation and the GRETIL Sanskrit text.
+- **Verify in the book itself:** which *yoganidrā* and sleep passages it actually prints; how it translates *yoganidrā* (as "yogic sleep" or left untranslated); its verse numbering for the *Haṭhapradīpikā* (4.48 or 4.49); whether its editorial notes discuss *yoganidrā*, the modern practice or *śavāsana*; and whether the *Vijñānabhairava* threshold verse and the *Yogayājñavalkya* marma withdrawal are included.
