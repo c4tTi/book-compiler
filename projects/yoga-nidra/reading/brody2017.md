@@ -1,6 +1,6 @@
 # Daring to Rest: Reclaim Your Power with Yoga Nidra Rest Meditation — Karen Brody (2017)
 
-> **Basis of this summary:** Sample chapters / preview read. I read the publisher-authorised ebook sample (via OverDrive): the front matter, the "Dear Sister" letter, the Introduction, all of Chapter 1 and about the first half of Chapter 2. I also read one publisher excerpt from a later chapter (Sounds True blog), and I saw the real table of contents in the ebook's navigation and the real track list of the separate audio programme in its OverDrive sample player. Everything about Chapter 3 onward (the phase chapters and the appendix scripts) comes **from secondary sources only**: the author's 2017 Sounds True interview (full transcript), a Sounds True staff member's account of doing the 40 days, one review of the audio programme, and Goodreads. Google Books has no preview; the Internet Archive scan is open only to print-disabled users, so I did not use it.
+> **Basis of this summary:** Sample chapters / preview read. I read the publisher-authorised ebook sample (via OverDrive): the front matter, the "Dear Sister" letter, the Introduction, all of Chapter 1 and about the first half of Chapter 2. I also read one publisher excerpt (Sounds True blog; the page says only "Excerpted from Daring to Rest" and does not name the chapter; its content suggests a later chapter), and I saw the real table of contents in the ebook's navigation and the real track list of the separate audio programme in its OverDrive sample player. Everything about Chapter 3 onward (the phase chapters and the appendix scripts) comes **from secondary sources only**: the author's 2017 Sounds True interview (full transcript), a Sounds True staff member's account of doing the 40 days, one review of the audio programme, and Goodreads. Google Books has no preview; the Internet Archive scan is open only to print-disabled users, so I did not use it.
 > Read for this summary: the OverDrive ebook sample and audio sample player; the Sounds True interview transcript, excerpt and blog posts; Day 2018; Cobb 2019; Goodreads; the author's site; library catalogues (Google Books, Open Library, Internet Archive metadata, KB). Full links are in "Full source list" at the end.
 
 **Where to get it:**
@@ -15,7 +15,7 @@
 - **Separate audio companion:** *The Daring to Rest Yoga Nidra Meditation Program: A 40-Day Journey to Break the Cycle of Fatigue and Restore Vitality, Purpose, and Power*.
   - Sounds True, March 2018, about 5 hours (4:59:13).
   - Streaming/digital ISBN 978-1-68364-072-1; 6 CDs ISBN 978-1-68364-069-1.
-  - About $44–49. Sounds True's store metadata tags it end-of-life (Oct 2025), so get it while it is available.
+  - $44.07 digital / $69.95 for the CDs (Sounds True store product data). Sounds True's store metadata tags it end-of-life (Oct 2025), so get it while it is available.
   - This programme is **sold separately**; it does not come with the book.
 - **Dutch edition:** *Durf te rusten: win je kracht terug met yoga nidra rustmeditatie*.
   - Translated by Vera Groen; Samsara, Amsterdam, [2019].
@@ -93,7 +93,7 @@ Track durations are not visible in the sample player (only the first two tracks 
 - **Exhaustion has layers.** Sleep fixes only the physical layer. Mental and emotional depletion, and a sense of not living one's purpose, need deeper rest. That is the logic of Rest, then Release, then Rise.
 - **Rest is not recreation.** Brody separates true rest (non-doing, turning inward) from the "self-care" most women name: films, wine with friends, bike rides, even knitting or reading. Those keep the senses and mind busy. She leans on David Whyte's five "states" of rest.
 - **Rest follows natural rhythm.** She uses Kleitman's 90-minute basic rest–activity cycle (BRAC), and quotes Rubin Naiman (ch. 1) for the view that depression comes from excessive activation not balanced by rest. Overriding the body's down-cycles with caffeine and willpower keeps the sympathetic nervous system switched on, and she links this to burnout, insomnia and depression.
-- **Women's exhaustion is cultural and historical.** She describes the "worn-out woman" as the dominant model of womanhood, and women as caretakers who put themselves last. In the interview she tells the history of the 19th-century "rest cure": women such as Gilman and Woolf rightly refused rest that was meant to silence them, a "good bargain" that has since "gone bad". Rested women, she argues, lead better.
+- **Women's exhaustion is cultural and historical.** She describes the "worn-out woman" as the dominant model of womanhood, and (in the 2017 interview, not seen in the book sample) women as "natural caretakers" who put themselves last. In the interview she tells the history of the 19th-century "rest cure": women such as Gilman and Woolf rightly refused rest that was meant to silence them, a "good bargain" that has since "gone bad". Rested women, she argues, lead better.
 - **Yoga nidra is lying-down meditation.** She calls it "meditation with a cherry on top". It guides you from waking through dreaming and deep sleep into a thoughtless "fourth state" (*turīya*). Every practice passes through all five bodies (*kośas*) to uncover the authentic self, which she calls your "internal power switch".
 - **An intention planted in deep rest takes root.** The *sankalpa* is a short, positive, present-tense vow. She claims the subconscious accepts it without resistance in the deepest state. She says it is not a way to "get what you want" but to live more in line with who you are.
 - **Listen to the soul.** "Soul whispers" are words or images that arise in practice. She treats them as signals and records them. The "wild woman" (Clarissa Pinkola Estés) and intuition grow as the wisdom body opens.
@@ -105,7 +105,7 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
 
 | # | Stage | How Brody does it (as reported) | Source |
 |---|---|---|---|
-| 0 | Setting up | Lying on the back, or sitting if preferred. Day used a mat, a blanket and a sleep mask in a dedicated corner (the "Rest Cave"). (The blankets, eye pillows and bolsters under the knees in the interview describe the class Brody first walked into, not instructions she gives.) Optionally a **touchstone** (small stone or crystal) held in the **left, "receiving" hand**. | sample ch. 2; Day; Cobb |
+| 0 | Setting up | Lying on the back, or sitting if preferred. Day used a mat, a blanket and a sleep mask in a dedicated corner (the "Rest Cave"). (The blankets, eye pillows and bolsters under the knees in the interview describe the class Brody first walked into, not instructions she gives.) Cobb, reviewing the separate audio programme, describes an optional **touchstone** (small stone or crystal) held in the **left, "receiving" hand**; not seen in the book sample or in Day. | sample ch. 2; Day; touchstone: Cobb 2019 (audio programme) only |
 | 1 | **Intention / sankalpa** | Comes **first**. Short, positive, present tense, "not outcome-dependent" (e.g. "I am calm, joyful, and carefree"). It may be distilled from the soul whispers you have collected. All of Ch. 4 is about it. Repeated **at the start, often in the middle, sometimes at the end**; Cobb says beginning, middle and end. | sample ch. 2; interview; Cobb |
 | 2 | Physical body (*annamaya*) | Rotation of attention around the body, which she links to *marma* points. She compares this to acupuncture done without needles. Her quick everyday version starts at the **third eye**, then the throat, down the right side, then down the left side, then breath. That is not Satyananda's right-thumb-first order. | interview |
 | 3 | Energy body (*prāṇamaya*) | Guided breathwork: breathe in life force, breathe out "whatever needs to die". Breathe in through the heart, follow the breath to where it "lands", and wait for a **soul whisper**. | interview; Day |
@@ -113,7 +113,7 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
 | 5 | Wisdom body (*vijñānamaya*) | Becoming the **witness** of thoughts and emotions; intuition rises (her "wild woman"). | interview; ToC ch. 8 |
 | 6 | Bliss body (*ānandamaya*) | A felt sense that "everything is going to be OK", connection to source. For trauma survivors she suggests this may come before joy does. | interview; ToC ch. 9 |
 | 7 | "Fourth state" | Thoughtless rest "below delta". She says the intention lands here. | sample ch. 2; interview |
-| 8 | Return | Guided back to waking. If you practise at night you may simply go on to sleep. Each practice reportedly closes with an invitation to be good to yourself. | interview; Day |
+| 8 | Return | Guided back to waking. (Separately, the sample says yoga nidra helps women fall asleep and get back to sleep at night, ch. 2; that is a benefit, not a closing instruction.) Day reports that every practice ends with the words "Be good to yourself." | Day; sample ch. 2 |
 | 9 | After practice | **Free writing**: write down the soul whisper and clear the mind. Then do the chapter's supporting practice (e.g. "council of women", yes/no check, loving-kindness, "wonder dates"). | Cobb; Day; publisher excerpt |
 
 - **Recurring device:** attention to the space between the eyebrows comes back again and again (sample, ch. 2).
@@ -132,7 +132,7 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
 - **The only real programme book in the set.** Satyananda, Miller and Desai teach a method. Lusk and Verma give script collections. Dinsmore-Tuli is an encyclopedia. Stanley offers a series of practices. Brody gives a **calendar**: 40 days, three phases, eight five-day blocks, a chapter every five days, and recordings that grow from 20 to 30 to 40 minutes. She tried the format first in online 40-day "nap quests" (interview).
 - **The *kośa* model becomes the curriculum.** Miller uses the sheaths as layers inside one practice. Brody also gives each sheath its own chapter, so the whole book becomes one big yoga nidra, as Cobb says of the audio version.
 - **Written only for women, with a feminist leadership argument for rest.** This came five years before Hersey's *Rest Is Resistance* (2022) and four before Stanley's *Radiant Rest* (2021). Her politics are about empowerment and leadership (caretaking, perfectionism, the rest-cure history). They are not about race or capitalism. Since then her site has moved towards "motherline" and "ancestral" exhaustion: helping women become the first rested woman in their family line.
-- **A large toolkit off the mat:** soul whispers, free writing, a touchstone, the Rest Cave, a "council of women", a So-Hum-based yes/no body check, loving-kindness, "wonder dates", "chucking perfect". Desai and Stanley offer some of these. Nobody else ties them to a day-by-day schedule.
+- **A large toolkit off the mat:** soul whispers, free writing, a touchstone (reported for the audio programme by Cobb; not seen in the book), the Rest Cave, a "council of women", a So-Hum-based yes/no body check, loving-kindness, "wonder dates", "chucking perfect". Desai and Stanley offer some of these. Nobody else ties them to a day-by-day schedule.
 - **Built-in permission to break the plan**, and a closing chapter on keeping the practice after the 40 days.
 
 ## Strengths and limitations
@@ -158,7 +158,7 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
     - Her own story includes coming off anti-anxiety medication.
     - In the interview she calls medication a possible "bridge", but I saw no medical caveat in the sampled pages.
   - *Gender:*
-    - Essentialist lines such as women as "natural caretakers".
+    - Essentialist lines such as women as "natural caretakers" (2017 interview, not seen in the book).
     - One Goodreads reviewer objects that it is targeted at women only and defines womanhood as "boss-woman or mother". (The publisher blurb itself addresses "modern women".)
   - *Trauma content:*
     - The Bliss chapter recounts an armed home robbery in Tanzania, including the rape of a household member (she tells the story in the interview).
@@ -203,7 +203,8 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
   - That three downloadable meditations come with the book, one per phase.
 - **Secondary (verify in the book):**
   - The 15/15/10-day schedule and the 20/30/40-minute lengths of the book's recordings come from a Sounds True staff member's blog (Day 2018), which is publisher-affiliated.
-  - The stage sequence, the repetition of the sankalpa, the touchstone, the council of women and the closing words come from the interview and the reviews.
+  - The stage sequence, the repetition of the sankalpa, the council of women and the closing words come from the interview and the reviews.
+  - The touchstone is reported only by Cobb 2019, who reviews the audio programme, not the book; I did not see it in the book sample or in Day.
 - **Not seen, to check in a copy:**
   - Chapter 3's actual day plan.
   - How many scripts Appendix 1 contains, their length and voice, and whether they match the three downloads.
@@ -222,11 +223,11 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
 - Google Books (no preview): https://books.google.com/books?vid=ISBN9781622039098 · https://books.google.com/books?id=nlWzEAAAQBAJ · https://www.google.com/books/edition/Daring_to_Rest/DsM2nQAACAAJ
 - Open Library: https://openlibrary.org/works/OL19725633W (and its editions list)
 - Internet Archive metadata only (the item is restricted): https://archive.org/metadata/daringtorestrecl0000brod
-- Sounds True audio programme page: https://soundstrue.com/products/the-daring-to-rest-yoga-nidra-meditation-program/ (and its product JSON)
+- Sounds True audio programme page: https://soundstrue.com/products/the-daring-to-rest-yoga-nidra-meditation-program/ (and its product JSON, source of the $44.07 / $69.95 prices)
 - Sounds True book page (now redirects to an unrelated product): https://soundstrue.com/products/daring-to-rest
 - Macmillan book page (blocked, HTTP 403): https://us.macmillan.com/books/9781622039098
 - Sounds True *Insights at the Edge* interview, Tami Simon with Karen Brody, 31 Oct 2017: https://www.soundstrue.com/a/resources/podcast/karen-brody-daring-to-rest/ and the full transcript: https://www.soundstrue.com/a/resources/transcript/karen-brody-daring-to-rest/
-- Publisher excerpt, "We Dare You to Rest This Holiday Season" (Brody, 2017): https://www.soundstrue.com/a/resources/blog/we-dare-you-to-rest-this-holiday-season/
+- Publisher excerpt, "We Dare You to Rest This Holiday Season" (Brody, 2017; chapter not stated): https://www.soundstrue.com/a/resources/blog/we-dare-you-to-rest-this-holiday-season/
 - Christine Day (Sounds True staff), "I Did a 40-Day Rest Cleanse and Here's What Happened" (2018): https://www.soundstrue.com/a/resources/blog/i-did-a-40-day-rest-cleanse-and-heres-what-happened/
 - Brody, "4 Ways to Rest This Holiday Season" (2019): https://www.soundstrue.com/a/resources/blog/4-ways-to-rest-this-holiday-season/
 - Sounds True, "Recommended Reads on Restoration" (2017): https://www.soundstrue.com/a/resources/blog/recommended-reads-restoration/
@@ -244,3 +245,4 @@ I did not see the scripts (Appendix 1). The stage sequence below is put together
 - The reviewer suggested dropping "Now," from the interview quote; it is present in the official Sounds True transcript ("...you did not fall asleep. Now, sometimes people do fall asleep and that's OK too."), so it stays.
 - The reviewer said the wording "Serve yourself first, then others" appears in no source. It does appear in the interview transcript, where Tami Simon quotes it as a line "toward the end of the book". It is now attributed to that, alongside the excerpt's "Love Yourself First" heading; I have not seen it in the book itself.
 - `reading/miller2015a.md` cited this file for "trained to iRest Level 2 under Robin Carnes"; that was unsupported, and I corrected that line as well.
+- Second review round (fabrication recheck): removed the unsupported line about going on to sleep after night practice (stage 8) and reworded it to the sample's ch. 2 benefit statement; attributed the touchstone to Cobb 2019 (audio programme) only; marked "natural caretakers" as interview wording not seen in the book; replaced the unsourced "$44–49" price with the Sounds True store figures ($44.07 digital, $69.95 CDs); stopped calling the publisher excerpt "from a later chapter", since the page names no chapter.

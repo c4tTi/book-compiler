@@ -3,7 +3,7 @@
 > **Basis of this summary:** Publisher's promotional contents image + publisher description + reader reviews and endorsements + the author's own blog and training pages (no interviews or independent reviews exist; book itself not read). Three caveats:
 > - **The table of contents is a promotional image, not a scan.** The publisher put it on Amazon as a 600-pixel picture of an open book. I could read most of it, but some words are blurred. Another image from the same promotional set shows a "sample page" that is plainly computer-generated: its text is garbled, and it is numbered p. 81 under a heading that does not appear in the contents. So treat the contents below as **indicative**, not as a checked copy of the printed contents.
 > - **I did not read the book's text.** Google Books has a record but no preview. Amazon offers a Kindle "Read sample", but I could not read it from here.
-> - **There are no interviews or independent reviews.** I found no interviews, podcasts, talks or independent reviews of the book. In their place I used the author's own blog posts (most from February–August 2026, a few from 2025), her teacher-training pages, the description of a reader's flip-through video on her YouTube channel, and reader reviews.
+> - **There are no interviews or independent reviews.** I found no interviews, podcasts, talks or independent reviews of the book. In their place I used the author's own blog posts (most from February–August 2026, a few from 2025), her teacher-training pages, the listing of a "look inside" video on her YouTube channel (details unverified on recheck), and reader reviews.
 >
 > Read for this summary: the full list of pages opened is in **Sources** at the end. A note on file keys: `urlacher2022` is the project's file key for her *Book of Yoga Nidra Meditation Scripts*, which was actually published in 2023.
 
@@ -18,7 +18,7 @@ I saw no hardcover or audiobook edition, and there is no audio companion. The au
 - Both of her trainings require Satyananda's *Yoga Nidra* as reading, alongside her two books.
 - She says she wrote the book to sit next to Satyananda's *Yoga Nidra* and Stanley's *Radiant Rest*.
 
-Her other influences are Yin Yoga (she names Bernie Clark as a teacher), Thich Nhat Hanh's mindfulness, Taoist and seasonal theming, the kośa model, chakras, and a trauma-informed vocabulary close to iRest and Total Yoga Nidra. She lists a yoga nidra certification without naming the school. Her named teachers (Jacqui Bonwell, Amy Stevens, Aiyana and Krishna Perry of ShivaShakti School of Yoga, Josh Summers, Bernie Clark) are Yin and general yoga-school teachers, not yoga nidra lineage holders.
+Her other influences are Yin Yoga (she names Bernie Clark as a teacher), Thich Nhat Hanh's mindfulness, Taoist and seasonal theming, the kośa model, chakras, and a trauma-informed vocabulary close to iRest and Total Yoga Nidra. She lists a yoga nidra certification without naming the school. Her about page names her teachers (Jacqui Bonwell, Amy Stevens, Aiyana and Krishna Perry of ShivaShakti School of Yoga, Josh Summers, Bernie Clark) but does not say what each taught her; none of the sources I opened says whether any of them taught her yoga nidra.
 
 **Length / format:**
 - **Paperback:** 290 pp. (Amazon, Goodreads and Google Books agree), 7.5 × 9.25 in. (a large trim size), 1.11 lb.
@@ -27,7 +27,7 @@ Her other influences are Yin Yoga (she names Bernie Clark as a teacher), Thich N
 - **Contents:** 6 scripts, each with a shortened ("time-sensitive") version, plus body scans, breath practices, chakra material, class planners, reflective prompts and a symbol library. There is no audio. **Script titles, themes and durations are unknown**: neither the author's posts nor the reviews I read name them.
 
 ## In one paragraph
-*The Heart of Yoga Nidra* is a **teacher's craft manual**. It is the theory-and-method companion to Urlacher's earlier *Book of Yoga Nidra Meditation Scripts* (2023; file key `urlacher2022`), and promises to move teachers from reading a script aloud to guiding with understanding: why each stage exists, how to sequence a session, how to word cues, and how to adapt or write scripts in their own voice. The publisher says it combines yoga philosophy (the kośas; the contents image adds the four *puruṣārthas*), a "neuroscience of deep rest" (nervous-system settling, "somatic resilience", healing), trauma-informed principles and a toolkit of scripts and planners, with reflective work on the teacher's own practice. It is written for yoga teachers, trainers and wellness professionals, and secondarily for dedicated practitioners; it is a set text in her own 35- and 40-hour trainings, and Sage Rountree (*The Art of Yoga Sequencing*) says she is adopting it in her advanced teacher training. In the project set, it is the book that most directly occupies the "how to teach and write yoga nidra" space.
+*The Heart of Yoga Nidra* is a **teacher's craft manual**. It is the theory-and-method companion to Urlacher's earlier *Book of Yoga Nidra Meditation Scripts* (2023; file key `urlacher2022`), and promises to move teachers from reading a script aloud to guiding with understanding: why each stage exists, how to sequence a session, how to word cues, and how to adapt or write scripts in their own voice. The publisher says it combines yoga philosophy (the kośas; the contents image adds the four *puruṣārthas*), "The Science of Deep Rest" (it promises to ground teaching in "the neuroscience of Yoga Nidra": nervous-system settling, "somatic resilience", healing), trauma-informed principles and a toolkit of scripts and planners, with reflective work on the teacher's own practice. It is written for yoga teachers, trainers and wellness professionals, and secondarily for dedicated practitioners; it is a set text in her own 35- and 40-hour trainings, and Sage Rountree (*The Art of Yoga Sequencing*) says she is adopting it in her advanced teacher training. In the project set, it is the book that most directly occupies the "how to teach and write yoga nidra" space.
 
 ## Structure
 **Table of contents: as shown in the publisher's promotional image.** It is low resolution and probably computer-rendered, so verify it against the book. Page numbers are those printed in the image. Words marked (?) were hard to read.
@@ -75,7 +75,7 @@ Her other influences are Yin Yoga (she names Bernie Clark as a teacher), Thich N
   - Resources and Readings for Continued Exploration (251)
 
 **Why the image may not match the printed book:**
-- **Missing chapters.** The publisher's own description promises "The Science of Deep Rest", trauma-informed principles, chakra elements and a toolkit with **6 scripts** in long and short versions. The author's April 2026 post and an Amazon reviewer both confirm the 6 scripts. The image has no chapter clearly devoted to science, chakras or a script collection; only one appendix is titled "The Yoga Nidra Script".
+- **Missing chapters.** The publisher's own description promises "The Science of Deep Rest", trauma-informed principles, chakra elements and a toolkit of "scripts of varying lengths" (it gives no number). The author's April 2026 post and an Amazon reviewer put the number at **6**, each with a shorter version. The image has no chapter clearly devoted to science, chakras or a script collection; only one appendix is titled "The Yoga Nidra Script".
 - **Page range.** The image ends at p. 251 of a 290-page book.
 - **Stage titles.** The titles for stages 6–8 do not map neatly onto the usual sequence (see below).
 
@@ -102,15 +102,15 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
   - re-awakening (the gentle return)
 
   The book's Part Four appears to develop this.
-- **Trauma-informed means choice, agency, predictability and trust, not a separate style.** The practice belongs to the practitioner. Offer real choices (eyes, posture, attention, letting a cue pass, stopping). Keep transitions predictable. But do not attach "if it feels safe" to every cue: over-hedging makes guidance vague and can suggest danger (August 2026 post, linked to the book).
-- **Do not interpret students' experiences.** When memories, emotions or images come up, the teacher listens, helps the student reorient (floor, room, sounds, movement, an optional comforting "inner resource") and stays within scope. Supporting is not processing. The teacher does not tell a student that their body was releasing trauma or that they were ready to heal (August 2026 post, which sends readers to the book).
+- **Trauma-informed means choice, agency, predictability and trust, not a separate style.** The practice belongs to the practitioner. Offer real choices (eyes, posture, attention, letting a cue pass, stopping). Keep transitions predictable. But do not attach "if it feels safe" to every cue: over-hedging makes guidance vague and can suggest danger (August 2026 post; it points readers to her trainings, not the book, so whether the book says the same is unverified).
+- **Do not interpret students' experiences.** When memories, emotions or images come up, the teacher listens, helps the student reorient (floor, room, sounds, movement, an optional comforting "inner resource") and stays within scope. Supporting is not processing. The teacher does not tell a student that their body was releasing trauma or that they were ready to heal (19 August 2026 post, which ends by sending readers to the book).
 - **Sankalpa is remembered, not manufactured.** It comes up through listening once the student is settled. It may come as words, a felt sense, or nothing. The teacher gives examples only as invitations (February 2026 post; an Amazon reviewer confirms the book frames it this way).
 - **The kośas are the map.** The practice is presented as an arc through the five layers towards the witness and a "true nature" of wholeness and joy. The contents image adds a chapter on the four *puruṣārthas* ("The Four Goals", p. 23); her seasonal blog posts add Taoist yin-yang theming.
 - **"Informed by neuroscience."** The description promises nervous-system settling, somatic resilience and healing. An endorser says the book discusses brainwave states. Her June 2026 blog claims shifts into alpha and theta waves and a calmer amygdala.
 - **The teacher's own practice is the foundation.** Reflective inquiries, experiential pauses, a daily-practice pathway and a supervised "teach and receive" practicum make it read like a teacher-training curriculum in book form.
 
 ## The practice as this book teaches it
-*Sources for each point:* **[T]** = the contents image (publisher's promotion); **[D]** = publisher description; **[B]** = the author's blog or training pages from 2025–26 that point readers to this book (her current teaching, probably but not certainly the same as the book); **[R]** = reader reviews; **[S]** = her 2023 script book and free scripts (see `urlacher2022`), for comparison only.
+*Sources for each point:* **[T]** = the contents image (publisher's promotion); **[D]** = publisher description; **[B]** = the author's blog or training pages, 2025–26 (her current teaching, probably but not certainly the same as the book). Most point readers to this book; exceptions: the Aug 2025 breath-awareness post points to her script book, the 12 Aug 2026 trauma-informed post points to her trainings, and the Feb 2025 free-audio post predates the book; **[R]** = reader reviews; **[S]** = her 2023 script book and free scripts (see `urlacher2022`), for comparison only.
 
 | Stage (contents image wording) | How she teaches it | Compare |
 |---|---|---|
@@ -151,7 +151,7 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
 
   Urlacher 2026 is the book that sits between a script collection and a teacher-training manual.
 - **Positioning as a training textbook.** It is required reading in the author's own trainings and, by Rountree's account, is being adopted in another advanced teacher training. No other book in the set is marketed so explicitly as a training textbook.
-- **A measured trauma-informed stance.** It builds in choice and predictability, but warns against over-qualifying cues and against teachers interpreting or "processing" what comes up. This is more nuanced than the usual list of "invitational phrases" (compare `07` §7.2–7.4).
+- **A measured trauma-informed stance (in her companion posts).** Her posts build in choice and predictability, warn against over-qualifying cues, and warn against teachers interpreting or "processing" what comes up (the last of these in a post that sends readers to the book). Reviewers say the book stresses invitational language and pauses, but whether it also warns against over-qualifying cues is unverified. This is more nuanced than the usual list of "invitational phrases" (compare `07` §7.2–7.4).
 - **A classical skeleton with a modern voice.** It keeps Satyananda's eight-stage order and rotation, but presents sankalpa as a remembered truth in the manner of Stanley and Miller, and pairs it with somatic, nervous-system language.
 - **Unusual frames.** The contents image shows a chapter on the four *puruṣārthas* (life goals), the description mentions chakra "elements", and separately her blog uses Taoist yin-yang and seasonal theming. None of the other yoga nidra books in the set organizes teaching around these.
 
@@ -164,7 +164,7 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
   - A respected yoga-pedagogy author (Rountree) endorses it and is adopting it as a training text.
   - It won a Silver Medal in the 2026 Living Now Book Awards in the Exercise/Fitness/Yoga category (gold went to Kristen Holmes, *Aligned*; bronze to Joe Friel's *High-Performance Cyclist*). This is an award, not a review.
 - **Limitations / critiques:**
-  - **No independent critical review exists.** I found no journal, Yoga Journal, Yoga International or long-form blog review. The endorsers are mostly colleagues or her own teachers, and the reader reviews are uniformly 5-star, some from yoga teachers who already use her earlier books:
+  - **No independent critical review exists.** I found no journal, Yoga Journal, Yoga International or long-form blog review. The endorsers are mostly colleagues or her own teachers, and all the text reviews I could read are 5-star (overall ratings include a few 4- and 3-star scores; see the table below), some from yoga teachers who already use her earlier books:
     - Seven endorsers. Three are teachers she names herself: Jacqui Bonwell, Bernie Clark, and Aiyana of ShivaShakti School of Yoga (the endorser signs as the school's founder; probably the same person).
     - Several reader reviewers have no visible tie to her (e.g. Claire Quinn, Alexi Pallpratt on Amazon; Starlene Loader on Goodreads, who borrowed a friend's copy).
     - On Goodreads, "Linda", whose release-day review repeats Linda Snay's printed endorsement.
@@ -173,7 +173,7 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
 
     | Site | Average | Ratings | Spread / note |
     |---|---|---|---|
-    | amazon.com | 4.9 | 44 | 94% five-star |
+    | amazon.com | 4.9 | 44 | 94% five-star; the rest 4- and 3-star |
     | amazon.ca | 4.9 | 39 | — |
     | Goodreads | 4.80 | 10 | 9 five-star, 1 three-star; 4 text reviews, all five-star |
 
@@ -200,12 +200,12 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
     - suggestion and expectancy (`03` §3.12)
     - sentence length and word counts per minute
     - pause length in seconds
-  - **Her balanced trauma-informed rule:** offer choice where it matters, say the exits once at the start, keep transitions predictable, and don't hedge every sentence. Pair it with the Luu 2024 checklist in `07` §7.2 and the contraindications in `07` §7.1, which she doesn't appear to cover.
+  - **Her balanced trauma-informed rule (from her posts, not verified in the book):** offer choice where it matters, say the exits once at the start, keep transitions predictable, and don't hedge every sentence. Pair it with the Luu 2024 checklist in `07` §7.2 and the contraindications in `07` §7.1, which she doesn't appear to cover.
   - **A short section on "after the practice":** don't interpret, help the student reorient, know the limits of your role, and let integration take its own time. This is valuable and rare in yoga nidra books. Present it as practitioner wisdom and support it with the trauma literature.
   - **Two versions of every script** (full and short) and session planners. Readers of both her books value this above everything else.
   - **A personal-practice pathway and a peer-practicum chapter**, if your book is meant for teachers or training programmes. It is what makes hers adoptable as a training textbook.
 - **Skip or treat critically:**
-  - **"Neuroscience of deep rest" as a selling point.** Do not promise alpha and theta states, a calmer amygdala, "somatic resilience" or healing. Use the honest summary in `06`: better than nothing, about as good as other relaxation, studied mostly in small trials. Present mechanisms as plausible, not proven (`06` §6.4).
+  - **"The Science of Deep Rest" / "the neuroscience of Yoga Nidra" as a selling point.** Do not promise alpha and theta states, a calmer amygdala, "somatic resilience" or healing. Use the honest summary in `06`: better than nothing, about as good as other relaxation, studied mostly in small trials. Present mechanisms as plausible, not proven (`06` §6.4).
   - **The "ancient, time-tested, handed down through generations" framing.** Use the "ancient roots, modern form" account (debate 1), and credit Satyananda's 1976 sequence and its Western relaxation ancestry openly. A competitor that does not do this leaves a gap for you to fill.
   - **The sankalpa etymology and the image of a seed in the subconscious.** Present the seed as a metaphor, give the standard etymology, and promise no outcome (debate 8; `06` §6.3). Do keep her "listening, not striving" stance, which matches current practice (Stanley, Dinsmore-Tuli).
   - **Kośas, *puruṣārthas*, chakras and yin-yang as organizing frames.** Choose one map at most, and say it is a map. Piling up frames confuses secular and clinical readers.
@@ -239,12 +239,12 @@ On the other hand, several titles echo the author's 2025–26 blog vocabulary. T
   - the endorsers
   - required reading in both of the author's trainings
   - ratings as of 2 Oct 2026 (see the table above)
-- **Ranks (single-day snapshot, 2 Oct 2026; they move quickly):** amazon.com about #186,000 in Books, #234 in Yoga; amazon.ca #78 in Yoga Books; Kindle #152 in Yoga.
+- **Ranks (single-day snapshot, 2 Oct 2026, not rechecked for that date; they move daily):** amazon.com about #186,000 in Books, #234 in Yoga; amazon.ca #78 in Yoga Books; Kindle #152 in Yoga.
 - **Uncertain: the Kindle ISBN.** Amazon shows ISBN 9798985626643 on both the 2023 script-book hardcover (B0CP9S19JT) and this book's Kindle edition (B0GPM5Z2R3); the conflict is unresolved. (This replaces an earlier note here that claimed to settle the ISBN for `urlacher2022`.)
 - **Not a verified claim:** whether the 2023 script book is a "best-seller"; I have only rank snapshots.
-- **6 scripts with shorter versions:** stated by the author (April 2026 post, YouTube description) and by an Amazon reviewer.
+- **6 scripts with shorter versions:** stated by the author (April 2026 post) and by an Amazon reviewer (Elissa). The publisher description says only "scripts of varying lengths". A YouTube video description was earlier reported to say the same, but this was unverified on recheck.
 - **From a promotional image only:** the table of contents, its page numbers and the eight stage titles. It is low resolution, and the companion image is computer-generated. The missing science, chakra and script sections and the unclear stages 6–8 need checking in the book.
-- **From the author's blog and trainings, not the book:** the nine language pillars and sample cues, the trauma-informed principles, the "after the practice" guidance, the sankalpa framing, the breath-stage method and the neuroscience claims. Most of these posts (Feb–Aug 2026) were written after publication and send readers to the book, so they probably reflect it; the breath-stage post (Aug 2025) and "Understanding Yoga Nidra" (Feb 2025) predate it. The "allowing and refining" wording comes from the contents image; the Aug 2025 post speaks of "subtle refinement". The wording and coverage in the book itself are unverified.
+- **From the author's blog and trainings, not the book:** the nine language pillars and sample cues, the trauma-informed principles, the "after the practice" guidance, the sankalpa framing, the breath-stage method and the neuroscience claims. Most of these posts (Feb–Aug 2026) were written after publication and send readers to the book, so they probably reflect it. Exceptions: the 12 Aug 2026 trauma-informed post (source of the over-hedging and choice principles) points readers to her trainings, not the book; the breath-stage post (Aug 2025) points to her script book; and "Understanding Yoga Nidra" (Feb 2025) and the free-audio post (Feb 2025) predate the book. The "allowing and refining" wording comes from the contents image; the Aug 2025 post speaks of "subtle refinement". The wording and coverage in the book itself are unverified.
 - **From reader reviews:** sankalpa framed as remembrance; lineage and philosophy covered; invitational language and pauses stressed; kośas covered in depth with a concise chakra section.
 - **Not checked:**
   - the claim in the project's source list that it was "already an Amazon top-3 result" for the search term (the rank snapshot above is all I could see)
@@ -272,14 +272,14 @@ Read for this summary (all opened for this summary or its revision):
 - Google Books record (bibliographic data; no preview): https://books.google.com/books?vid=ISBN9798985626636
 - Living Now Book Awards: https://www.livingnowawards.com/ and the 2026 medalists page https://livingnowawards.com/blog/2026-medalists. I read both through a fetch tool, because direct access returned 403.
 - Author's free-audio post (Feb 2025), the source for her "falling asleep is okay" line: https://www.yinandmeditation.com/blog/complimentary-audio-yoga-nidra-for-deep-relaxation-and-bliss
-- Author blog posts about the book or pointing to it:
+- Author blog posts (most point to the book; exceptions are noted in the [B] key above):
   - https://www.yinandmeditation.com/blog/the-heart-of-yoga-nidra-a-guide-for-teachers-and-dedicated-practitioners
   - https://www.yinandmeditation.com/blog/how-to-lead-transformative-yoga-nidra-the-essential-guide-for-teachers-and-practitioners
   - https://www.yinandmeditation.com/blog/why-sage-rountree-calls-the-heart-of-yoga-nidra-a-comprehensive----even-definitive----guide
   - https://www.yinandmeditation.com/blog/yoga-nidra-guiding-language-9-pillars-for-the-language-of-ease
   - https://www.yinandmeditation.com/blog/a-teachers-guide-to-honoring-sankalpa-in-yoga-nidra
-  - https://www.yinandmeditation.com/blog/trauma-informed-yoga-nidra-choice-agency-and-trust-in-teaching
-  - https://www.yinandmeditation.com/blog/when-something-unexpected-arises-in-yoga-nidra-a-guide-for-teachers
+  - https://www.yinandmeditation.com/blog/trauma-informed-yoga-nidra-choice-agency-and-trust-in-teaching (12 Aug 2026; re-opened on revision: the book appears only in the site menu, and the closing call to action points to her trainings)
+  - https://www.yinandmeditation.com/blog/when-something-unexpected-arises-in-yoga-nidra-a-guide-for-teachers (19 Aug 2026; re-opened on revision: ends by linking to the book)
   - https://www.yinandmeditation.com/blog/how-to-guide-yoga-nidra-bringing-the-practice-to-life
   - https://www.yinandmeditation.com/blog/the-heart-of-yoga-nidra-wins-a-silver-medal-in-the-2026-living-now-book-awards
   - https://www.yinandmeditation.com/blog/yoga-nidra-script-for-radiant-freedom-the-dove-at-dawn
@@ -296,11 +296,12 @@ Read for this summary (all opened for this summary or its revision):
   - https://www.yinandmeditation.com/yoga-nidra-training-with-sagel/yoga-nidra-teacher-training-live-online
   - https://www.yinandmeditation.com/yoga-nidra-training-with-sagel/self-paced-yoga-nidra-teacher-training
   - https://www.yinandmeditation.com/about-sagel
-- YouTube: the channel's video list https://www.youtube.com/channel/UCcFWsLja_3ZgHrjwMpVFR9g/videos and its feed https://www.youtube.com/feeds/videos.xml?channel_id=UCcFWsLja_3ZgHrjwMpVFR9g. These gave the description of the look-inside video https://www.youtube.com/watch?v=3uWvR7lBYcs (15 May 2026). I saw its thumbnails only; the watch page was rate-limited.
+- YouTube: the channel's video list https://www.youtube.com/channel/UCcFWsLja_3ZgHrjwMpVFR9g/videos and its feed https://www.youtube.com/feeds/videos.xml?channel_id=UCcFWsLja_3ZgHrjwMpVFR9g. These listed a look-inside video https://www.youtube.com/watch?v=3uWvR7lBYcs. On recheck the feed returned 404 and the watch page gave no description, so its date (given earlier as 15 May 2026), its description and who made it are **unverified**; nothing in this summary rests on it alone.
 - Also opened but no content used: https://www.yinandmeditation.com/books (404) · https://openlibrary.org/isbn/9798985626636 (404; Open Library search found nothing) · https://read.amazon.com/sample/B0GPM5Z2R3?clientId=share (viewer shell only; I did not read the sample) · https://www.amazon.co.uk/dp/B0GN8YZPM9 and https://www.amazon.com.au/dp/B0GN8YZPM9 (both blocked)
 
 ## Reviewer notes
 - **Only one of her cues is quoted verbatim.** A reviewer asked for 2–3 quoted cues. The project allows at most 2 quotes per book, and one slot holds the Rountree blurb, so the grounding cue is quoted and the rotation, sankalpa and opposites cues are described in my own words.
 - **Script titles and durations are still unknown.** The author's April 2026 post and the reviews I read give only "6 scripts with time-sensitive versions". The YouTube look-inside video's feed and watch page could not be reached during this revision. Check the Kindle sample.
+- **YouTube details unverified.** The look-inside video's date, its description and whether it is a reader's or the author's flip-through could not be confirmed (feed 404, no description on the watch page). It is no longer cited for any claim.
 - **Amazon rank and the Kindle ISBN could not be rechecked directly.** Amazon blocked direct fetches. A fetch tool did confirm that the B0CP9S19JT (script-book hardcover) page metadata carries ISBN 9798985626643. The rank is therefore given only approximately, as a one-day snapshot.
 - **No Bowker/ISBN-agency record was checked** for Sacred Nature Press. Open Library still has no record.

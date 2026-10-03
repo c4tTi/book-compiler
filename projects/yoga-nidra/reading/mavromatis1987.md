@@ -1,108 +1,86 @@
 # Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep — Andreas Mavromatis (1987)
 
-> **Basis of this summary:** Table of contents + publisher description + reviews (book itself not read), plus the free full text of its precursor. I did **not** read the 1987 book. I did read the relevant parts of the author's 1983 Brunel PhD thesis, *Hypnagogia: The Nature and Function of the Hypnagogic State*. It is free on the university's own repository, and a 1991 reviewer says the book was adapted from it. In the thesis I read the contents, preface and introduction (vol. 1, pp. 1–11), the methods chapter (pp. 19–24), the pages on sounds, smells, jerks and falling (pp. 51–57), the chapter on definition and stages (pp. 73–82), most of the hypnosis chapter (pp. 139–146) and the meditation chapter (pp. 183–192 in full, the rest in part). In vol. 2 I read pp. 397, 484–486, 490, 497, 502 and 504, and I keyword-searched both volumes. I also keyword-searched the scanned 1991 paperback in the Internet Archive lending library. That search returns short snippets only, and a few of them showed lines of the book's contents page and index. I also read the publisher's blurb (2010 reprint), catalogue records, and four short journal reviews (first-page previews on Cambridge Core). I found no author interviews or author website, but I had no web search in this session, so that is unchecked.
+> **Basis of this summary:** Fragments of the book's contents page and index (search snippets) + publisher description + reviews (book itself not read), plus the full text of its precursor, the author's 1983 Brunel PhD thesis, read in its relevant parts. The 1991 paperback scan was only keyword-searched; the search returns short snippets, not pages.[^basis] No web search was available, so author interviews are unchecked.
 > Read for this summary:
-> - https://bura.brunel.ac.uk/simple-search?query=hypnagogia and https://bura.brunel.ac.uk/handle/2438/6638?mode=full (thesis record)
-> - https://bura.brunel.ac.uk/bitstream/2438/6638/3/FulltextThesis-Vol1.pdf (thesis vol. 1, parts listed above)
-> - https://bura.brunel.ac.uk/bitstream/2438/6638/1/FulltextThesis-Vol2.pdf (thesis vol. 2, parts listed above)
-> - https://archive.org/metadata/hypnagogiaunique0000mavr and https://archive.org/download/hypnagogiaunique0000mavr/hypnagogiaunique0000mavr_marc.xml (lending copy of the 1991 paperback, record only)
-> - Full-text search of that copy: `https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier:hypnagogiaunique0000mavr AND <term>` (terms: nidra, yoganidra, satyananda, yogic, yoga, yogi, tantric, fourth, junction, swami, menninger, theta, patanjali, samadhi, meditation, pratyahara, aurobindo, jerk, elbow, kubie, stoyva, deikman, dusen, vihvelin, hypnotic, contents, creativity, schizophrenia, oneirosis), plus https://openlibrary.org/search/inside.json
-> - https://openlibrary.org/works/OL5259850W/editions.json and https://openlibrary.org/books/OL2713694M.json
-> - https://books.google.com/books/about/Hypnagogia.html?id=dGgOAAAAQAAJ (1987 ed., no preview) and https://books.google.com/books?id=S0iWSQAACAAJ (2010 Thyrsos Press reprint, blurb)
-> - Reviews: https://doi.org/10.1192/s0007125000137456 (Bond, *Br J Psychiatry* 1987) · https://doi.org/10.1192/s0007125000035480 (Scott, *Br J Psychiatry* 1992) · https://doi.org/10.1017/s0033291700001318 (*Psychological Medicine* 1987) · https://doi.org/10.1017/s0033291700022777 (*Psychological Medicine* 1991), each read from its first-page preview image on static.cambridge.org. I found them through https://api.crossref.org/works
-> - https://www.goodreads.com/book/show/4484614 (ratings only)
-> - https://www.routledge.com/search?kw=hypnagogia (no current listing)
+> - https://bura.brunel.ac.uk/handle/2438/6638?mode=full (thesis record) · https://bura.brunel.ac.uk/bitstream/2438/6638/3/FulltextThesis-Vol1.pdf and https://bura.brunel.ac.uk/bitstream/2438/6638/1/FulltextThesis-Vol2.pdf (thesis, parts listed in the note)
+> - https://archive.org/metadata/hypnagogiaunique0000mavr and https://archive.org/download/hypnagogiaunique0000mavr/hypnagogiaunique0000mavr_marc.xml (record of the 1991 paperback) · full-text search API `https://archive.org/services/search/beta/page_production/?service_backend=fts&user_query=identifier:hypnagogiaunique0000mavr AND <term>` · https://openlibrary.org/search/inside.json
+> - https://openlibrary.org/works/OL5259850W/editions.json · https://openlibrary.org/books/OL2713694M.json · https://books.google.com/books/about/Hypnagogia.html?id=dGgOAAAAQAAJ · https://books.google.com/books?id=S0iWSQAACAAJ (2010 reprint, blurb)
+> - Reviews (first-page previews on Cambridge Core, found via https://api.crossref.org/works): https://doi.org/10.1192/s0007125000137456 (Bond, *Br J Psychiatry* 1987) · https://doi.org/10.1192/s0007125000035480 (Scott, *Br J Psychiatry* 1992) · https://doi.org/10.1017/s0033291700001318 (*Psychological Medicine* 1987) · https://doi.org/10.1017/s0033291700022777 (*Psychological Medicine* 1991)
+> - https://www.goodreads.com/book/show/4484614 (ratings only) · https://www.routledge.com/search?kw=hypnagogia (no current listing)
 
-**Where to get it:** Routledge & Kegan Paul, London/New York, 1987, hardback, ISBN 0-7102-0282-2 (LCCN 86006592). First paperback: Routledge, 1991, ISBN 0-415-05794-9. Reprint: Thyrsos Press, 2010, ISBN 978-0-9553052-1-4, 360 pp. Google Books has no preview and lists no ebook. Routledge has no current listing. The Internet Archive holds the 1991 paperback for controlled lending (free account, borrow-only). The **free legitimate text is the 1983 thesis, not the book**: two PDF volumes, 581 pp., on Brunel's repository. No audio.
-**Tradition / lineage:** None. This is academic psychology: a Brunel University PhD in psychology, supervised by John Richardson and funded by the Social Science Research Council. It draws on Western sleep-onset research, hypnosis, biofeedback, psychoanalysis, mysticism and parapsychology. Its yoga sources are secondary (Vivekananda's *Raja Yoga*, Mishra's yoga psychology).  **Length / format:** xv + 360 pp. Black-and-white illustrations, copious notes, a bibliography (pp. 321–349) and an index. No practices, no scripts, no audio.
+[^basis]: Thesis pages read: vol. 1 contents, preface and introduction (pp. 1–11), methods (pp. 19–24), sounds, smells, jerks and falling (pp. 51–57), definition and stages (pp. 73–82), hypnosis (pp. 139–146), meditation (pp. 183–192 in full, the rest in part); vol. 2 pp. 397, 484–486, 490, 497, 502, 504; both volumes keyword-searched. The 1991 scan was searched for about 30 terms (e.g. nidra, yoganidra, Satyananda, yogic, tantric, Menninger, Patanjali, pratyahara, Kubie, vrittis, "Notes and references").
+
+**Where to get it:** Routledge & Kegan Paul, London/New York, 1987, hardback, ISBN 0-7102-0282-2. Paperback: Routledge, 1991, ISBN 0-415-05794-9. Reprint: Thyrsos Press, 2010, ISBN 978-0-9553052-1-4, 360 pp. The practical routes are a library copy, interlibrary loan, or the Thyrsos reprint. Google Books has no preview and Routledge no current listing. (The Internet Archive also lists the 1991 paperback as borrow-only; only its catalogue records were used here.) The **free legitimate text is the 1983 thesis, not the book**: two PDF volumes, 581 pp., on Brunel's repository. No audio.
+**Tradition / lineage:** None. Academic psychology (Brunel PhD, supervised by John Richardson). Draws on sleep-onset research, hypnosis, biofeedback, psychoanalysis, mysticism and parapsychology. Yoga sources are secondary (Vivekananda, Mishra).  **Length / format:** xv + 360 pp. Black-and-white illustrations, copious notes (Scott 1992; notes and references pp. 297–320 per the IA contents snippet), bibliography (pp. 321–349), index. No practices, scripts or audio.
 
 ## In one paragraph
-This is the standard scholarly monograph on hypnagogia: the drowsy threshold into sleep, and its mirror image on waking (hypnopompia). Mavromatis gathers more than a century of reports from English, French and German sources, hundreds of pages of them translated for him. He uses them to describe what people see, hear, smell and feel there, and to compare the state with hypnosis, dreams, meditation, psi, schizophrenia and creativity. He then argues that hypnagogia is a state in its own right, with its own function, not a mere phase of sleep. **It does not discuss yoga nidra.** The research brief says the book has an explicit section on yoga nidra as cultivated hypnagogia, but I found no sign of it. A full-text search of the 1991 paperback scan returned **zero hits** for *nidra, yoganidra, Satyananda* and *yogic*, and the thesis has none either. Its yoga content is three things: Patañjali's eight limbs in the meditation chapter (the book's index puts Patañjali at pp. 110–12), one paragraph and an epigraph on a "tenth-century Tantric text" about the half-sleep "Fourth State", and one sentence on a yogi tested in the Menninger lab. So the explicitly yoga-related material is a few pages, and the term yoga nidra appears on none of them. By the thesis's page count, the material useful to a yoga nidra teacher is about a third of the work: the phenomenology part (about a quarter) plus the hypnosis and meditation chapters (about 8%). For you it is a source-rich catalogue of the threshold your practice works in, and the best non-yoga support for the "hypnagogic view" of yoga nidra (`03` §3.2, §3.9, §3.12).
+The standard scholarly monograph on hypnagogia, the drowsy threshold into sleep, and its mirror on waking (hypnopompia). Mavromatis gathers a century of English, French and German reports to describe what people see, hear, smell and feel there, compares the state with hypnosis, dreams, meditation, psi, schizophrenia and creativity, and argues it is a state in its own right with its own function. **It does not discuss yoga nidra.** The project's selection brief (`.work/selected.json`, echoed in `.work/candidates.json`) says it has "an explicit discussion of yoga nidra as cultivated hypnagogia"; I found no sign of this. A full-text search of the 1991 scan returned **zero hits** for *nidra, yoganidra, Satyananda* and *yogic*, and the thesis has none either. Its yoga content: Patañjali's eight limbs in the meditation chapter (index: Patañjali pp. 110–12), a paragraph and an epigraph from an unnamed "tenth-century Tantric text", and one sentence on a yogi tested at the Menninger lab. For you it is a catalogue of the threshold your practice works in and the best non-yoga support for the "hypnagogic view" of yoga nidra (`03` §3.2, §3.9, §3.12).
 
 ## Structure
-**The book's table of contents: not seen in full.** Search snippets showed fragments: "Part I Phenomenology"; "Part II Hypnagogia and its relationship to other …"; chapter "5 Meditation", which starts around p. 110 (the index gives Patañjali 110–12, and a running head reads "Meditation 111"); and "9 Other relevant areas of experience 219". Running heads place Schizophrenia at about pp. 160–171 and Creativity at about pp. 193–205. Scott (1992) describes three parts: (1) the phenomena at sleep onset and on waking, which he calls the most interesting part; (2) relations to dreams, meditation, psychic experience, schizophrenia and creativity, with drugs and epilepsy in brief; (3) the neurophysiology and the function of the state, with experimental details in appendices. The publisher's blurb also names hypnosis and eidetic imagery.
+**Table of contents not seen in full.** Search snippets show "Part I Phenomenology", "Part II Hypnagogia and its relationship to other …", chapter "5 Meditation" starting around p. 110, "9 Other relevant areas of experience 219", "incidental observations on psi and meditation 293", notes 297 and bibliography 321. Scott (1992) describes three parts: (1) phenomena at sleep onset and on waking, the most interesting part; (2) relations to dreams, meditation, psychic experience, schizophrenia and creativity; (3) neurophysiology and function. In the thesis (contents seen, vol. 1 p. 3) the three relevant chapters are phenomenology (Part One, pp. 8–138), hypnosis (pp. 139–149) and meditation (pp. 183–211); the book reorders and shortens these.
 
-**The thesis table of contents, which I saw** (vol. 1, p. 3; the book reorders and shortens it):
-- Part One, Phenomenology: 1 Introduction (8) · 2 Historical background and incidence (12) · 3 Methods and procedures of investigation (19) · 4 Sensori-motor phenomena and systems of classification (25) · 5 Physiological correlates (64) · 6 Problems of definition and the stages of the hypnagogic state (73) · 7 Cognitive-affective characteristics (83)
-- Part Two, Hypnagogia and its relationship to other states: 8 Hypnosis (139) · 9 Dreams (150) · 10 Meditation (183) · 11 Psi (212) · 12 Schizophrenia (265) · 13 Creativity (310) · 14 Other areas of experience (374)
-- Part Three, Brain mechanisms and function: 15–16 Cerebral correlates of hypnagogic visions and mentation (395, 420) · 17 The old versus the new brain (434) · 18 The loosening of ego boundaries (460) · 19 The function of hypnagogia (474) · 20 The significance of hypnagogia (492) · Appendix (510) · Bibliography (519)
+**How much to read:** the book page ranges for Part I and the hypnosis chapter are unverified. Of the book's text (to p. 296), Part I plus the hypnosis chapter and ch. 5 Meditation (from about p. 110) are the useful parts; check the extent in a library copy.
 
 ## Core ideas
-- **One state, many stages.** "Hypnagogia" covers the whole slide from relaxed wakefulness into sleep, and the same zone on waking. Mavromatis stages it along a **continuum of deepening physical and mental relaxation**, not by brainwaves:
-  - early: lights, spots and flashes;
-  - early to middle: distortions of the body image, floating and drifting;
-  - middle to late: thoughts turning into pictures ("autosymbolic" images);
-  - late: full hypnagogic dreams, in which you lose track of where you are.
-
-  He notes that the EEG across this range runs from alpha through mixed alpha-theta and theta to stage-2 spindles and even delta (thesis pp. 77–82).
-- **All the senses take part.** Images are the most common. Sounds include hearing your own name called, a doorbell, bangs or "explosions" in the head, and nonsense sentences. Smells occur too. In McKellar's survey of 400 students, 48% of men and 61% of women reported visual imagery, and 31% and 38% auditory (thesis pp. 51–53).
-- **Sleep starts are normal.** Myoclonic jerks occur now and then in over 80% of people (Oswald 1962) and often come with a feeling of falling. Mavromatis argues that they happen during the process of falling asleep and pull the person back to waking. He rejects Oswald's view that they are a by-product of sudden arousal (pp. 54–57).
-- **The receptive mode.** The state needs "letting it happen" (Deikman's receptive mode; Stoyva's "passive volition"). Being too alert snuffs out the faint early images. Anxiety blocks the state, and a **sense of security** is its precondition (pp. 79–82, 145).
-- **Hypnosis is built on the same threshold.** Both are induced in the same way: progressive relaxation, withdrawal from the surroundings, stillness, and monotonous or rhythmic stimuli, such as a droning voice. The guide's voice comes to be felt as part of one's own mind. Suggestibility and "sleep learning" rise in hypnagogia (thesis ch. 8).
-- **Meditation is cultivated hypnagogia.** Patañjali's first five limbs amount to the relaxation and withdrawal that produce hypnagogia, only done on purpose. Even trained meditators fall asleep during practice. Van Dusen's sequence runs from meditation to hypnagogia to trance: the meditator holds the state instead of letting it lead into sleep (thesis ch. 10).
-- **Loosening of ego boundaries** is the core mechanism, which Mavromatis links to "old-brain" (subcortical) activity. He coins "Oneirosis", a readiness to dream that runs through the 24-hour cycle. He gives hypnagogia a calming function (lowering metabolism and anxiety) and a creative one.
-- **A speculative horizon.** With training, he suggests, a person might be asleep physiologically and still "awake" psychologically. He presents this as a hypothesis (thesis pp. 485, 504).
+- **One state, many stages,** staged by deepening physical and mental relaxation, not by brainwaves: lights and flashes; then body-image distortions, floating; then thoughts turning into pictures ("autosymbolic" images); then full hypnagogic dreams. The EEG across this range runs from intact and interrupted alpha through mixed alpha-theta and theta to 14 cps spindles and delta, and even some beta (thesis p. 77).
+- **All the senses take part.** Images are most common; sounds include your own name, a doorbell, bangs in the head, nonsense sentences; smells occur. In McKellar's survey of 400 students, 48% of men and 61% of women reported visual and 31% and 38% auditory imagery (thesis pp. 51–53).
+- **Sleep starts are normal.** Myoclonic jerks occur in over 80% of people (Oswald 1962), often with a sense of falling; Mavromatis argues they arise in the process of falling asleep, against Oswald's "sudden arousal" view (thesis pp. 54–57).
+- **The receptive mode.** The state needs "letting it happen" (Deikman's receptive mode, Stoyva's "passive volition"). Too much alertness snuffs out faint early images; anxiety blocks the state and a sense of security is its precondition (thesis pp. 79–82, 145). These are drawn from self-reports and the older literature, not from controlled tests.
+- **Hypnosis uses the same threshold:** the same induction (relaxation, withdrawal, stillness, monotonous stimuli such as a droning voice); the guide's voice comes to feel part of one's own mind; suggestibility rises (thesis ch. 8).
+- **Meditation as cultivated hypnagogia.** Patañjali's first five limbs amount to the relaxation and withdrawal that produce hypnagogia, done on purpose; trained meditators still fall asleep; the meditator holds the state instead of sliding into sleep (thesis ch. 10).
+- **Loosening of ego boundaries** is the proposed core mechanism, tied to "old-brain" activity. He coins "Oneirosis" and gives hypnagogia a calming function (lower metabolism and anxiety) and a creative one. The calming and therapeutic function is his hypothesis from self-reports, not a measured outcome.
+- **Speculative horizon:** with training one might be asleep physiologically yet psychologically "awake" (thesis pp. 485, 504), offered as a hypothesis.
 
 ## The practice as this book teaches it
-The book teaches no practice: no script, sankalpa, body rotation or posture. What it offers is a **catalogue of induction methods from the research literature** (thesis pp. 19–24, 143):
-- Tart's raised forearm: you lie down as if to sleep with one forearm upright on the elbow, so that it drops and wakes you if you slip into sleep.
-- Kubie's method: listening to one's own amplified breath sounds and silently counting "in, out", then posing a question to oneself. Kubie used this in psychotherapy and reported vivid childhood memories.
-- Ganzfeld: halved ping-pong balls over the eyes plus white noise.
-- Biofeedback relaxation and theta training (Budzynski, Stoyva, the Greens).
-- Autosuggestion.
-- Deliberately shallow breathing to raise carbon dioxide.
-
-The meditation chapter paraphrases Deikman's "blue vase" instruction: attend to the object without analysing it, and let it fill the mind. The writing is academic and descriptive throughout. It is never a set of instructions.
+No practice: no script, sankalpa, body rotation or posture. It offers a **catalogue of research induction methods** (thesis pp. 19–24, 143): Tart's raised forearm (it drops and wakes you if you slip into sleep); Kubie's method of listening to one's amplified breath and counting "in, out"; Ganzfeld (halved ping-pong balls, white noise); biofeedback and theta training; autosuggestion; shallow breathing to raise CO₂. The meditation chapter paraphrases Deikman's "blue vase" instruction (attend without analysing). The tone is descriptive, never instructional.
 
 ## What's distinctive
-- It is the only book-length scholarly synthesis of the threshold state, and it draws on a large foreign-language literature, mainly French and German, much of it translated for the author.
-- It gives a staged description that does not depend on brainwave pop-science. That makes it a good partner to the sleep-onset model (Ogilvie 2001 in `03` §3.9).
-- It explicitly places meditation and hypnosis on the same threshold. Of all the books here, it gives the hypnagogic view of yoga nidra its firmest academic grounding.
-- It carries two items that yoga nidra writers repeat, and you should know where they come from:
-  - **The "tenth-century Tantric text"**, whose name Mavromatis never gives. It tells the yogi to hold himself at the junction of the states, in the half-sleep or "Fourth State", to keep consciousness unbroken through sleep. Mavromatis quotes it third-hand: from Esnoul, as quoted by de Becker (1968). The book uses it as an epigraph and again in the text. In the thesis it appears once, in the function chapter (p. 485).
-  - **The Menninger "yogi subject".** Citing a 1971 Menninger Clinic mimeo by Green et al., he says this yogi accurately tracked the lab staff's activities while in "deep sleep" with a 4 cps EEG (thesis p. 497; the same sentence is in the book). The yogi is not named. The description fits the Swami Rama sessions (see `reading/green1977.md`).
+- The only book-length scholarly synthesis of the threshold state, drawing on a large French and German literature.
+- A staged description independent of brainwave pop-science, a good partner to the sleep-onset model (Ogilvie 2001, `03` §3.9).
+- Places meditation and hypnosis explicitly on the same threshold.
+- Source of two items yoga nidra writers repeat:
+  - **The "tenth-century Tantric text"** (unnamed, third-hand)[^tantric], telling the yogi to hold himself at the junction of the states, the half-sleep "Fourth State". Used as an epigraph and in the text of the book; in the thesis once (p. 485).
+  - **The Menninger "yogi subject"**, said to have tracked lab activity while in "deep sleep" with a 4 cps EEG, citing a 1971 Menninger mimeo by Green et al. (thesis p. 497; same sentence in the book). Unnamed; fits the Swami Rama sessions (`reading/green1977.md`).
+
+[^tantric]: Mavromatis quotes it from de Becker (1968), who quotes Esnoul.
 
 ## Strengths and limitations
-- **Strengths:** It is exhaustive, with a 29-page bibliography, and rich in first-person reports. It is calm and normalising about strange experiences. Bond (*Br J Psychiatry* 1987) found it timely and fascinating for both lay and informed readers. The review also sums up the author's view that the state can be entered deliberately, is usually pleasant, and can be therapeutic. Scott (*Br J Psychiatry* 1992) recommends it to sleep specialists and general readers and singles out Part One.
-- **Limitations / critiques:**
-  - Reviewers agree that the theory outruns the evidence. The *Psychological Medicine* reviewer in 1987 found plenty of observation and speculation but little in the way of conclusions. The 1991 reviewer in the same journal found it long and meandering, adapted from the thesis, and full of curious facts and suggestive ideas that never get past tentative conclusions. Scott found the ego-boundary thesis persuasive rather than fully convincing.
-  - My own view:
-    - The neuroscience is pre-1990: the old brain versus the new, and subcortical "regression".
-    - The psi chapter is sympathetic to parapsychology.
-    - The data are mostly self-reports and older surveys.
-    - The yoga is second-hand. One claim, that Indian yogis call hypnagogic images *vṛttis*, rests on an occult author (D. M. Baker 1980; thesis p. 397).
-    - A 4 cps EEG is passed on as "deep sleep with awareness" without critique.
+- **Strengths:** exhaustive (29-page bibliography), rich in first-person reports, calm and normalising. Bond (*Br J Psychiatry* 1987) found it timely and fascinating for lay and informed readers. Scott (1992) recommends it and singles out Part One.
+- **Limitations, reviewers:** three of the four reviewers find the theory runs ahead of the evidence (Bond 1987 raises no such criticism).
+  - *Psychological Medicine* 1987: much observation and speculation, few conclusions.
+  - *Psychological Medicine* 1991: long and meandering, adapted from the thesis, suggestive ideas that stay tentative.
+  - Scott 1992: the ego-boundary thesis is persuasive rather than fully convincing.
+- **Limitations, summariser's assessment:**
+  - Pre-1990 neuroscience (old versus new brain, subcortical "regression").
+  - A psi chapter sympathetic to parapsychology.
+  - Data mostly self-reports and older surveys.
+  - Second-hand yoga. In the thesis (vol. 2 p. 397) he says Indian yogis call hypnagogic phenomena *vṛttis*, citing the occultist D. M. Baker (1980); the book softens this to "some schools of occultism call them vrittis" (IA full-text snippet).
+  - The 4 cps "deep sleep with awareness" yogi is passed on without critique.
 
 ## For your own book
-- **Take: the inventory for "what you may notice"** (`07` §7.6). That means lights and flashes, heaviness or floating, a distorted sense of the body, hearing your name or a bang, smells, twitches and falling sensations. Cite Mavromatis for the catalogue and that these are normal and common. Cite Ogilvie 2001 for the modern physiology.
-- **Take: staging by depth of relaxation.** You can say that body rotation tends to bring body-image changes and visualisation tends to bring autosymbolic images. That gives you a non-brainwave way to explain why the stages are ordered as they are (`04`).
-- **Take: receptivity and safety as preconditions.** The finding that alertness kills the state and anxiety blocks it supports invitational language, a safe setting and permission to open the eyes. It is a psychological argument for trauma-sensitive set-up, not just a stylistic one.
-- **Take: the honest answer to debate 10 (hypnosis).** The induction ingredients are the same (relaxation, stillness, monotony, a voice), and the voice is absorbed into the listener's mind. Use this to frame the sankalpa as deliberate self-suggestion and to justify consent and careful wording. Don't claim that yoga nidra is "not hypnosis" outright.
-- **Take: debate 3 (falling asleep).** Mavromatis argues that dozing off is built into every relaxation-based practice, including meditation. Tart's forearm trick can be an optional anchor for students who want to stay at the edge. Present it as a laboratory technique, not a traditional one.
-- **Treat critically: "asleep in body, awake in mind".** Mavromatis frames it as a hypothesis. That is also the honest status of the yoga nidra claim, so quote him for the idea, not as proof.
+- **Take: the "what you may notice" inventory** (`07` §7.6): lights, heaviness or floating, distorted body sense, hearing your name or a bang, smells, twitches, falling. Cite Mavromatis that these are common and normal; Ogilvie 2001 for physiology. Example line, at the move from body rotation (or breath awareness) into visualisation, where these effects typically begin: *"You may notice lights, a sense of floating or heaviness, or a sudden twitch. All of this is normal. Let it come and go."*
+- **Take: staging by depth of relaxation.** Body rotation tends to bring body-image changes, visualisation autosymbolic images: a non-brainwave rationale for the stage order (`04`).
+- **Take: receptivity and safety as preconditions** for invitational language, a safe setting and permission to open the eyes. Present it as Mavromatis's reading of reports, not as a tested finding.
+- **Take: debate 10 (hypnosis).** Same induction ingredients, and the voice is absorbed into the listener's mind. Frame the sankalpa as deliberate self-suggestion, justify consent and careful wording; don't claim yoga nidra is flatly "not hypnosis".
+- **Take: debate 3 (falling asleep).** Dozing is built into relaxation-based practice. Tart's forearm is an optional, laboratory (not traditional) anchor.
+- **Treat critically: "asleep in body, awake in mind"** and the Menninger yogi. Mavromatis frames the first as a hypothesis; see `06` §6.3 (delta-while-aware rests only on the Swami Rama anecdote) and `06` §6.1 (EEG: mostly alpha/theta, more theta in experienced practitioners [@kachera2025]), which fits his own alpha→theta staging better than the delta claim.
 - **Skip or treat critically:**
-  - The Tantric "junction of the states" passage as evidence that yoga nidra is ancient (debate 1). It is third-hand and the text is unnamed. If you want an epigraph, go to a primary text in a scholarly translation (see `reading/mallinson2017.md` on the *Vijñānabhairava*).
-  - The Menninger yogi sentence. It adds no independent evidence.
-  - The *vṛtti* claim.
-  - Psi, "Oneirosis" and the evolutionary theory.
-  - The schizophrenia comparison, unless you frame it very carefully.
-- **Don't** cite this book for anything about yoga nidra itself. It never names the practice.
+  - The Tantric "junction of the states" passage as proof that yoga nidra is ancient (debate 1): third-hand, unnamed text. For an epigraph use a primary text in scholarly translation (`reading/mallinson2017.md` on the *Vijñānabhairava*).
+  - The *vṛtti* point: in the book it is attributed to "some schools of occultism", which says nothing about yoga usage.
+  - Psi, "Oneirosis", the evolutionary theory; the schizophrenia comparison unless framed carefully.
+- **Don't** cite this book for yoga nidra itself; it never names the practice.
+- **Suggested fix to `02-source-books.md`** (not edited here): add "Never names yoga nidra; free precursor: 1983 Brunel thesis, https://bura.brunel.ac.uk/handle/2438/6638". The selection brief's "explicit discussion of yoga nidra" should also be corrected.
 
 ## Short quotes (optional, max 2, each under 25 words, with page if known)
-- "the first five stages of Patanjali's yoga are none other than the hypnagogic factors of psychophysical relaxation and withdrawal" (Mavromatis, PhD thesis 1983, p. 184. The book has the same passage in ch. 5, around pp. 110–12; I did not check its wording there.)
+- "the first five stages of Patanjali's yoga are none other than the hypnagogic factors of psychophysical relaxation and withdrawal" (Mavromatis, PhD thesis 1983, p. 184; the book has this passage in ch. 5, around pp. 110–12, wording not checked.)
 - "with training a subject could put himself to sleep physiologically while remaining psychologically 'awake'" (Mavromatis, PhD thesis 1983, p. 504; not checked in the book.)
 
 ## Confidence
-- **Certain:**
-  - Everything attributed to the thesis, which I read directly with its printed page numbers.
-  - The bibliographic details (Open Library, the lending copy's MARC record, Google Books).
-  - The four reviews, all of which I saw complete on their first pages.
-- **Strong but not absolute:**
-  - **The absence of yoga nidra from the book.** The full-text search of the scan finds other rare words (Oneirosis, pratyahara, tantric, yogi, Patanjali) but not "nidra". If the term were printed with an unusual diacritic, the OCR could miss it.
-- **Partial:**
-  - The book's structure, and the location of the meditation chapter (ch. 5, around p. 110), come from search snippets, not from a page view.
-  - **Spot checks confirmed that these thesis passages are also in the book:** Patañjali's limbs, Deikman, van Dusen, Kubie and Margolin, Stoyva, Tart's elbow technique, Vihvelin, jerks and falling, the Tantric passage (twice), and the Green et al. yogi sentence.
-  - The figures I quote (80%, 48/61%, 31/38%) are from the thesis, and the book may update them.
-- **To verify in the book** (Internet Archive loan or a library copy):
-  - the page numbers of the Tantric epigraph and paragraph, and of the yogi sentence (look in the index under "Tantric", "Fourth State" and "Green");
-  - whether the book adds anything on Indian practices that the thesis lacks.
+- **Certain:** everything attributed to the thesis (read with printed page numbers); bibliographic details; the four reviews (seen complete on their first pages); the book's *vṛtti* wording and the notes/bibliography pages (IA full-text snippets).
+- **Strong but not absolute:** that the book never mentions yoga nidra. The scan search finds rare words (Oneirosis, pratyahara, tantric, Patanjali) but not "nidra"; an unusual diacritic could defeat the OCR.
+- **Partial:** the book's structure and chapter pages come from snippets, not page views. Spot searches confirm that the Patañjali, Deikman, van Dusen, Kubie, Stoyva, Tart, jerks-and-falling, Tantric and Green et al. passages are also in the book. Figures (80%, 48/61%, 31/38%) are thesis figures.
+- **To verify in a library copy:** book page ranges for Part I and the hypnosis chapter; pages of the Tantric epigraph and yogi sentence (index: "Tantric", "Fourth State", "Green"); quote wording in the book; anything on Indian practice the thesis lacks.
+
+## Reviewer notes
+- The two quotes still come from the thesis, not the book; no legitimate page view of the book's ch. 5 or function chapter was available. Replace them with book wording once a library copy is seen.
+- Book page ranges for Part I and the hypnosis chapter could not be established, so the "how much to read" estimate is left as unverified.
