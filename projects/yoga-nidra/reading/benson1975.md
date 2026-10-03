@@ -1,6 +1,6 @@
 # The Relaxation Response — Herbert Benson, with Miriam Z. Klipper (1975)
 
-> **Basis of this summary:** Publisher description + catalogue data + one review + secondary reproductions of the technique + author interviews/talks (no table of contents; book itself not read). Abstracts of the underlying papers and their critiques were used to check the claims.
+> **Basis of this summary:** Publisher description + catalogue data + one review + secondary reproductions of the technique + one author interview (PBS 1998) (no table of contents; book itself not read). Abstracts of the underlying papers and their critiques were used to check the claims.
 >
 > I did **not** read any page of the book, and there is no legitimate free text. Google Books has the 1975 Morrow edition in snippet view only (search-inside hit a CAPTCHA); the publisher's book2look sample pages did not load; the Internet Archive copies are controlled lending only (metadata used, nothing borrowed).
 >
@@ -16,32 +16,32 @@
 [^1]: Publisher page https://www.harpercollins.ca/9780380815951/the-relaxation-response/ ; book2look widget metadata (https://www.book2look.com/book/9780380815951) ; Open Library work OL3236792W and editions OL5193183M, OL49650248M, OL9403469M ; Internet Archive metadata for relaxationrespon00bens, relaxationrespon00bens_0, relaxationrespon0000bens_g4b7 ; Google Books records ISBN0688029558 (with frequent-terms list), 9780061966002, 0380006766, 9780380815951 ; Harvard Health blog 2010 (https://www.health.harvard.edu/blog/using-the-relaxation-response-to-reduce-stress-20101110780) ; bensonhenryinstitute.org/about-us-dr-herbert-benson/ and /first-steps/ ; Scientific American, Wallace & Benson 1972 (title and standfirst only, paywalled) ; Wikipedia, "The Relaxation Response" and "Herbert Benson" ; Goodreads (rating only). Could not open: PMC/Europe PMC PDFs of Peters et al. 1977, the APS PDF of Wallace et al. 1971, the Wayback copy of relaxationresponse.org, NYT 1989 (cited by Wikipedia for a self-help ranking), the Library of Congress record, HathiTrust.
 
 **Where to get it:**
-- **First edition:** William Morrow, New York, 1975 (Kirkus gives 29 Sept 1975); 158 pp.; ISBN 0-688-02955-8; LCCN 75014309. A mass-market paperback followed (ISBN 0-380-00676-6; Google Books dates it 1976, Open Library lists it under HarperTorch/Avon).
-- **Updated and expanded 25th-anniversary edition** (2000): in print as a William Morrow Paperbacks / HarperCollins paperback (ISBN 978-0-380-81595-1; publisher lists 240 pp.) and an ebook (ISBN 978-0-06-196600-2, 2009).
+- **First edition:** William Morrow, New York, 1975 (Kirkus gives 29 Sept 1975); 158 pp.; ISBN 0-688-02955-8; LCCN 75014309. A mass-market paperback followed (ISBN 0-380-00676-6; Google Books dated it 1976 when seen at drafting, not re-checkable; Open Library lists it under HarperTorch/Avon).
+- **Updated and expanded edition** (2000; "Updated & expanded" per Internet Archive metadata, relaxationrespon00bens_0; the publisher page uses neither label): in print as a William Morrow Paperbacks / HarperCollins paperback (ISBN 978-0-380-81595-1; publisher lists 240 pp.) and an ebook (ISBN 978-0-06-196600-2, 2009).
 - **Audio:** an Audio Literature cassette (1987) exists (Open Library record only; contents unchecked).
 - **Free copies:** none legitimate. The Internet Archive lends three printings (1976 Morrow reprint, 1992 Wings, 2001 Quill).
 
-**Tradition / lineage:** No yoga lineage claimed; derived from studies of Transcendental Meditation (Maharishi Mahesh Yogi), with Western relaxation methods (Jacobson, Schultz) as comparators. Institutional home: Harvard cardiology and behavioural medicine (Thorndike Memorial Laboratory, Beth Israel Hospital).  **Length / format:** 158 pp. in 1975; the bibliography fills pp. 129–150, then an index, so the text runs to about 128 pp. Reportedly one short seated self-practice; I could not confirm whether there are scripts (book not read). No companion practice audio in the print book; a 1987 audio cassette exists (contents unchecked, probably an abridged reading).
+**Tradition / lineage:** No yoga lineage claimed; derived from studies of Transcendental Meditation (Maharishi Mahesh Yogi). Whether the book compares TM with Jacobson's progressive relaxation or Schultz's autogenic training is unchecked. Institutional home: Harvard cardiology and behavioural medicine (Thorndike Memorial Laboratory, Beth Israel Hospital).  **Length / format:** 158 pp. in 1975; the bibliography fills pp. 129–150, then an index, so the text runs to about 128 pp. Reportedly one short seated self-practice; I could not confirm whether there are scripts (book not read). No companion audio is mentioned in any catalogue record for the print book; a 1987 audio cassette exists (contents unchecked, probably an abridged reading).
 
 ## In one paragraph
 A Harvard cardiologist's popular book, written with Miriam Klipper and published a year before Satyananda's *Yoga Nidra* (1976). As reported by Kirkus, PBS and Wikipedia, it argues that:
 - modern life repeatedly triggers the fight-or-flight reaction, which feeds high blood pressure and heart disease;
 - the body has an innate opposite, the **relaxation response**: a wakeful state of lowered metabolism, first measured in TM meditators;
-- meditation and prayer across religious traditions produce this **same** response (Wikipedia; Kirkus names TM and "the religious practices studied"). Benson's papers and institute later extend this to secular methods; whether the 1975 book discusses autogenic training or hypnosis is unchecked;
+- meditation and prayer across religious traditions produce this **same** response (Wikipedia; Kirkus names TM and "the religious practices studied"). Benson's papers and institute later extend this to secular methods; whether the 1975 book discusses autogenic training (Schultz), progressive relaxation (Jacobson) or hypnosis is unchecked;
 - anyone can produce it with a simple, free, non-religious technique: sit, relax, and repeat "one" silently on each out-breath for 10–20 minutes.
 
 It became a long-running bestseller (the publisher claims over six million copies).
 
-**How much concerns yoga nidra: none directly.** Google's frequent-terms list for the 1975 edition includes "Yoga", "Yogi", "Transcendental Meditation", "prayer", "Taoism" and "sleep", but not "nidra"; I could not search the text. The useful background is the technique, the physiology and the survey of traditions.
+**How much concerns yoga nidra: none directly.** Per the Google Books "common terms" list for the 1975 edition, as seen at drafting (not re-checkable: Google Books later returned a CAPTCHA), the list included "Yoga", "Yogi", "Transcendental Meditation", "prayer", "Taoism" and "sleep", but not "nidra"; I could not search the text. The useful background is the technique, the physiology and the survey of traditions.
 
 ## Structure
 Table of contents not available. Reported contents:
-- **Stress, fight-or-flight and the medical stakes** (hypertension, heart disease), including a table of stressful life events (Kirkus; Google term list).
+- **Stress, fight-or-flight and the medical stakes** (hypertension, heart disease), including a table of stressful life events (Kirkus; Google Books term list as seen at drafting).
 - **The TM and blood-pressure studies** (Wikipedia, citing pp. 61–68 and 111–118 of the 2001 edition). Benson first met Maharishi Mahesh Yogi to secure his agreement in advance to any outcome (Wikipedia, citing pp. 61–63).
-- **A survey of religious traditions and cultures** (Wikipedia, pp. 125–154 of the 2001 edition), followed by **the technique**. The 2000 edition has 54 roman-numbered preliminary pages (Open Library: liv + 179), presumably a new introduction (not seen).
+- **A survey of religious traditions and cultures** (Wikipedia, pp. 125–154 of the 2001 edition); where the technique chapter sits is not known. The 2000 edition has 54 roman-numbered preliminary pages (Open Library: liv + 179), presumably a new introduction (not seen).
 
 ## Core ideas
-- **Fight-or-flight versus its counterpart.** The book contrasts the fight-or-flight reaction (the term appears in Google's term list; the Cannon attribution is from the 2010 Harvard Health blog) with its opposite. Benson's papers call the relaxation response "an integrated hypothalamic response" mirroring the "emergency reaction" (Benson et al. 1975, abstract), working by lowered sympathetic activity.
+- **Fight-or-flight versus its counterpart.** The book contrasts the fight-or-flight reaction (the term appeared in Google Books' term list as seen at drafting; the Cannon attribution is from the 2010 Harvard Health blog) with its opposite. Benson's papers call the relaxation response "an integrated hypothalamic response" mirroring the "emergency reaction" (Benson et al. 1975, abstract), working by lowered sympathetic activity.
 - **The physiological markers:**
   - Falls in oxygen consumption, carbon-dioxide output and breathing rate (Beary & Benson 1974, abstract); blood lactate (PBS); heart rate, metabolism and "brain activity" (Benson-Henry Institute, secondary).
   - "Brain activity" is the institute's later wording; the 1971–75 papers measured oxygen use, CO2, respiration, lactate and blood pressure. For EEG claims about yoga nidra, see `06` §6.1 (EEG, flagged ⚠️). Do not borrow Benson to support brainwave claims.
@@ -73,9 +73,9 @@ The *Psychology Today* version adds a line about relaxing the tongue and a footn
 ## Strengths and limitations
 - **Strengths:** Kirkus found Benson "careful in his claims", the lab work "documented and well explained". The method is free, short, secular and easy to teach, and rests on Benson's peer-reviewed studies (1971–78).
 - **Limitations and critiques:**
-  - **1970s data:** small samples, many subjects already TM meditators, mostly single-session measures.
-  - **The one-mechanism thesis is contested.** Holmes et al. (1983) found experienced TM meditators no less aroused while meditating than untrained people resting (Holmes 1984 is the standard review; record only). Lehrer et al. (1994) found method-specific effects: muscular methods act mainly on muscles, autonomic on autonomic measures, cognitive on cognition.
-  - **Benson's own data cut both ways:** sitting quietly did not lower oxygen use (Beary & Benson 1974); in a workplace trial plain sitting breaks gave intermediate gains (Peters et al. 1977); for anxiety, meditation and self-hypnosis did equally well and hypnotisability mattered more than technique (Benson et al. 1978).
+  - **1970s data:** many subjects already TM meditators; the early physiology studies (1971–74) were small and largely single-session (later trials ran longer: Peters et al. 1977, 12 weeks, n = 126; Benson et al. 1978, 8 weeks).
+  - **The one-mechanism thesis is contested.** Holmes et al. (1983) found experienced TM meditators no less aroused while meditating than untrained people resting (Holmes 1984 reviews this literature; record only). Lehrer et al. (1994) found method-specific effects: muscular methods act mainly on muscles, autonomic on autonomic measures, cognitive on cognition.
+  - **Benson's own data cut both ways:** sitting quietly did not lower oxygen use (Beary & Benson 1974); in a workplace trial plain sitting breaks gave intermediate gains (Peters et al. 1977); for anxiety, meditation and self-hypnosis did equally well, and hypnotic responsivity, not technique, predicted improvement on psychiatric assessment and systolic BP, with no consistent relation to the other measures (Benson et al. 1978).
   - **The medical framing** (hypertension, broad stress-and-disease claims) has dated.
 
 ## For your own book
@@ -104,16 +104,18 @@ The *Psychology Today* version adds a line about relaxing the tongue and a footn
 - **From secondary sources only:**
   - the wording of the steps as reproduced by PBS and *Psychology Today* (agree almost word for word; not checked against the 1975 text);
   - lactate, heart-rate and brain-activity claims (PBS, Benson-Henry Institute);
-  - the book's order, page references and blood-pressure results (Wikipedia, 2001 pagination);
-  - the TM origin story (Wikipedia, institute, PBS); the traditions surveyed (Wikipedia, Google term list, Kirkus);
-  - the paperback's imprint and date (Google Books and Open Library disagree).
+  - the page references and blood-pressure results (Wikipedia, 2001 pagination);
+  - the TM origin story: the Maharishi agreement is from Wikipedia only; the institute's history page supports only that TM practitioners approached Benson (PBS gives background); the traditions surveyed (Wikipedia, Google Books term list as seen at drafting, Kirkus);
+  - the paperback's imprint and date (Google Books, as seen at drafting, and Open Library disagree);
+- **Not re-checkable:** the Google Books term list and paperback date (Google Books returned a CAPTCHA and the Books API a quota error on re-check).
 - **To verify in the book:**
   - whether the 1975 text words the steps exactly as reproduced, and whether it has scripts;
   - whether it discusses secular methods (autogenic training, progressive relaxation, hypnosis);
   - whether it calls the passive attitude the most important element and warns that lying down leads to sleep;
-  - what it says about yoga; what the 2000 preliminary pages contain;
+  - what it says about yoga; where the technique chapter sits; what the 2000 preliminary pages contain;
   - the contents of the 1987 cassette.
 
 ## Reviewer notes
 - Length: about 2,250 words in total, of which about 400 are the source block and footnote; the body is about 1,850 words, slightly above the 1,500–1,800 target. The full source list is kept in a footnote rather than the bibliography because this revision may not edit files outside `reading/`.
 - The 1974 *Lancet* and *J Chronic Dis* hypertension papers were not looked up; the blood-pressure claim now rests on Wikipedia's page reference only.
+- Revision: Google Books details (term list, 1976 paperback date) could not be re-verified (CAPTCHA, API quota) and are marked as seen at drafting. "25th-anniversary" dropped because no opened source uses it.

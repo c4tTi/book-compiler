@@ -1,33 +1,21 @@
 # Dormir pour s'éveiller : le yoga nidra traditionnel — Mathieu (2018)
 
-> **Basis of this summary:** Secondary only. That means: the publisher's description and the full back-cover text (including the descriptions of the two CD sessions); library catalogue records (BnF bibliographic record, plus BnF authority records for the author, the prefacer and the postfacer); the author's own school website and five of his 2026–27 training and workshop flyers; the prefacer's teaching page and his school's yoga nidra curriculum. **I did not read the book.** I found no free text, no preview or sample, no table of contents, and no independent review. Google Books has a record but no preview and no search-inside snippets. This session had **no general web search** (quota exhausted), so I used only direct catalogue, publisher, bookseller and author-site lookups. Reviews, interviews or a table of contents may exist that I could not find this way.
-> Read for this summary:
-> - https://www.almora.fr/product/show/9782351183786/dormir-pour-seveiller-le-yoga-nidra-traditionnel (publisher page: description, author note, format, date, price)
-> - https://www.almora.fr/contributeur/mathieu/2969 (publisher's author page)
-> - https://www.almora.fr/product/show/9782351187340/un-barbare-en-yoga and https://www.almora.fr/product/show/9782351184615/kurma-yoga-31-tresors-pour-votre-pratique-du-yoga (author's other Almora books; bio details)
-> - https://www.librest.com/livres/dormir-pour-s-eveiller--le-yoga-nidra-traditionnel-mathieu_0-5176364_9782351183786.html (bookseller page with the full back cover, the CD session descriptions and a longer author bio)
-> - https://catalogue.bnf.fr/ark:/12148/cb45614662k, read through the BnF SRU API (Dublin Core and InterMARC records for ISBN 9782351183786)
-> - BnF authority records via the SRU API: Mathieu (1949– ), no. 12324665; Khristophe Lanier, no. 15530730; Ingrid Guérin, no. 17840369
-> - https://books.google.com/books?vid=ISBN9782351183786 (record id uh4wvAEACAAJ; no preview; search-inside returned nothing)
-> - https://openlibrary.org/search.json?q=dormir+pour+s%27eveiller+yoga+nidra (no record)
-> - Author's school: https://ecoledeyogamathieu.fr/ · https://ecoledeyogamathieu.fr/yoga-nidra/ · https://ecoledeyogamathieu.fr/formations/ · https://ecoledeyogamathieu.fr/anciens-eleves/ · https://ecoledeyogamathieu.fr/wp-json/wp/v2/product (descriptions of the six downloadable sessions)
-> - Author's flyers (PDF): https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/St-Jacut-NIDRA-2027.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/Rennes26Nidra.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2025/11/n-octobre-26-1.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/paris-2027.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/09/Lalleu-mai-27.pdf
-> - Author's video "Présentation de Mathieu (YOGA)", https://www.youtube.com/watch?v=dANrOnus67I. I saw only its title and description, via oEmbed and the channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UC77j_Polb7iO57A6-7aVCsg. I did not watch it and found no transcript.
-> - Prefacer's school: https://www.yoga-horizon.fr/presentation-des-enseignants/ · https://www.yoga-horizon.fr/formation-approfondie-en-yoga-nidra-a-lyon/
-> - https://www.esprityoga.fr/wp-json/wp/v2/search (magazine site search; no review of this book found)
-> - Tried but blocked or empty: amazon.fr (captcha), decitre.fr, furet.com, placedeslibraires.fr, librairie-gallimard.com, gibert.com (403), babelio.com (connection reset or 503), leslibraires.fr (503), lalibrairie.com (429), mollat.com (no match), SUDOC (no record), the Wayback Machine copy of Almora's old book page (connection failures), and the Google Books API (quota).
+> **Basis of this summary:** Secondary only: the publisher's and a bookseller's back-cover text and notes, BnF catalogue and authority records, the author's school website, product data and flyers, and the prefacer's school pages. **I did not read the book**; no preview, sample, table of contents or independent review was found.
+> Read for this summary: full list under "Sources consulted" at the end of this file.
 
-**Where to get it:** Almora, Paris. Published 20 September 2018 according to Almora and Google Books; the author's video description says April 2018. Paperback with CD, ISBN 978-2-35118-378-6 (ISBN-10 2-35118-378-9), €19.90, listed as available in 2026. No ebook (Google Books: "Aucun e-book disponible"). No free legitimate copy found.
-- **Audio in the book:** one MP3 CD, 1 h 30 min (BnF), with two sessions, "Obstacles" and "Essentiel".
-- **More audio:** the author sells six further sessions as MP3 downloads on his site at €10 each, presented as complements to the CD. They are "Arbre", "Champagne", "Couleurs", "Goutte d'eau", "So Ham" and "Sourire", about 37–41 min each where a length is given ("Arbre" has none), most marked "new version 2019".
+**Where to get it:** Almora, Paris. Published 20 September 2018 (Almora, Librest, Google Books). A YouTube video, "Présentation de Mathieu (YOGA)" on the channel *apresdissipation*, was earlier noted as giving April 2018, but its channel feed now returns 404 and I could not re-check that date. Paperback with CD, ISBN 978-2-35118-378-6 (ISBN-10 2-35118-378-9), €19.90, listed as available in 2026. No ebook (Google Books: "Aucun e-book disponible"). No free legitimate copy found.
+- **Editions:** the only edition I found is Almora 2018. I found no reprint, ebook or translation in the catalogues and bookseller pages I checked.
+- **Audio in the book:** one MP3 CD, 1 h 30 min (BnF), with two sessions, "Obstacles" and "Essentiel". An MP3 CD plays in a computer drive or an MP3-compatible CD player, not in every ordinary audio CD player. I found no download version of the two CD sessions themselves.
+- **Library access:** the BnF holds a copy (catalogue record cb45614662k). For a loan copy, check the CCFr union catalogue or your local médiathèque (I did not check these).
+- **More audio:** the author sells six further sessions as audio downloads on his site at €10 each (five delivered as .mp3, "Sourire" as .wav, according to the site's product data), presented as complements to the CD. They are "Arbre", "Champagne", "Couleurs", "Goutte d'eau", "So Ham" and "Sourire", about 37–41 min each where a length is given ("Arbre" has none), most marked "new version 2019".
 
 **Tradition / lineage:** An independent French teacher who claims an Indian "traditional" yoga nidra. The teacher or lineage behind that claim is **not named** in any source I saw.
 - **Author:** publishes under his first name only. BnF records him as "Mathieu (1949– )". Neither his authority record nor any other source I saw gives a surname, so the brief's request to find his full name **could not be met**.
-- **Background (BnF and his own pages):** a graduate in ethnology, with studies in the Indian field. He says he has travelled in India since 1972 and is particularly interested in the **Vaishnava** community. He was "initiated" there into "traditional yoga nidra" and into *kurma yoga* ("yoga of the tortoise"), his other speciality.
+- **Background:** studied ethnology in the Indian field (bookseller bio on Librest; his flyers). The bookseller bio on Librest says he has travelled in India "ponctuellement depuis 1972" and discovered traditional yoga nidra and *kurma yoga* ("yoga of the tortoise") there. His own flyers (Paris, Rennes, Lalleu) say he is particularly interested in the **Vaishnava** community and was "initiated" into traditional yoga nidra and kurma yoga. Two other flyers (Gard 2026, St-Jacut 2027) use 1972 differently: they say he has taught yoga and yoga nidra "depuis 1972".
 - **Institutions:** he founded or co-founded the **Maison du Yoga** in Paris (1983 per Almora, 1984 per his own flyers). He edited the magazine **Infos Yoga** (2001–2022 per his flyers; BnF has him as editor-in-chief in 2005). He says he has trained more than 300 yoga nidra teachers in short courses.
 - **Prefacer: Khristophe Lanier.** He has trained since 1995 with **Christian Tikhomiroff**, "disciple of Icchanat, whose transmission belongs to the Shaiva lineage of the **Natha** of Varanasi". Tikhomiroff has authorized him to teach Hatha, Natha yoga, yoga nidra and pranayama. Lanier is also a long-time student of Tibetan Buddhism (Lama Denys Rinpoché) and has written for Infos Yoga since 1998 (Yoga Horizon, Lyon).
 - **Postfacer: Ingrid Guérin,** a yoga teacher (BnF).
-- **So the "Natha" link documented here is the prefacer's, not the author's.** The project's lineage label "Natha-influenced" is unconfirmed for Mathieu himself.
+- **So the "Natha" link documented here is the prefacer's, not the author's.** The project's lineage label "Natha-influenced" (`.work/selected.json`, entry `mathieu2018`, line 488; `.work/candidates.json` line 1874) is unconfirmed for Mathieu himself.
 
 **Length / format:** 134 pp. (BnF and bookseller; Google Books says 136). 20 cm, about 16 × 20 cm, 224 g. Paperback plus MP3 CD of about 90 min. BnF subject headings: *Yoga nidra; Gestion du stress; Relaxation*; Dewey 613.79. I could not see whether the book prints full scripts.
 
@@ -41,7 +29,7 @@ From the catalogue and publisher data, the book has four parts:
 - a **preface** by Khristophe Lanier;
 - the author's text, 134 pp. in all;
 - a **postface** by Ingrid Guérin;
-- an **MP3 CD** with two guided sessions. "Obstacles" lets you live through, in dream form, the process that unfolds in you during a session. "Essentiel" lets you try the renunciation of the yogis, who keep only the essential.
+- an **MP3 CD** with two guided sessions. Per the back cover, "Obstacles" is a dream-like rehearsal of what happens during a session, and "Essentiel" is a practice of renunciation.
 
 Whether the book prints the CD scripts, how many chapters it has, and whether it has notes or a bibliography are all unknown.
 
@@ -68,14 +56,14 @@ These come from the back cover, the publisher's notes and the author's own teach
 | 4. Breath awareness | *Unknown in the book.* One download session, "So Ham", is about perceiving "your inner mantra". *So'ham* is traditionally linked to the breath. | Author's site | So mantra is used in at least one of his sessions. Whether mantra appears in the book's core method is unknown. |
 | 5. Opposites (heavy/light, hot/cold) | *Unknown.* | — | — |
 | 6. Visualization | "The most beautiful colours, the most beautiful landscapes" light up the session. "Couleurs" climbs from chakra to chakra; "Champagne" works with the energy body. | Back cover; author's site | Sounds closer to Satyananda-style imagery (images, chakras) than to Boyes's sensation methods [@boyes1973]. Whether it is rapid-image naming or a guided journey is unknown. |
-| (extra) Intermediate states / dream | "You experience the intermediate states between waking, dream and sleep". "Obstacles" lets you live, "in dream", the process at work in the session. | Back cover; CD notes | The dream framing recalls the French interest in "waking dream" (see Descamps 2015 in the project's selected list). |
-| (extra) Theme / contemplation | One theme per session: obstacles, renunciation ("keep only the essential"), time, mantra, the Buddha's smile, the tree. | CD notes; author's site | A **themed-session model**, closer to Bonnasse's named sessions [@bonnasse2015fr] than to a single fixed script. |
+| (extra) Intermediate states / dream | The back cover mentions the intermediate states between waking, dream and sleep. "Obstacles" is described as living the session's process "en rêve". | Back cover; CD notes | The dream framing recalls the French interest in "waking dream" (see Descamps 2015 in the project's selected list). |
+| (extra) Theme / contemplation | One theme per session: obstacles, renunciation, time, mantra, the Buddha's smile, the tree. | CD notes; author's site | A **themed-session model**, closer to Bonnasse's named sessions [@bonnasse2015fr] than to a single fixed script. |
 | 7. Sankalpa again | *Unknown.* | — | — |
 | 8. Ending / externalization | *Unknown.* | — | — |
 
 **Length.** The CD holds about 90 minutes for two sessions, so roughly 45 minutes each on average (an inference: I did not see the track lengths). The five downloads with a stated length run 36'46 to 41'30. His standard recorded session is therefore about **40 minutes**: longer than Wildcroft & Nolan's 15-minute default, shorter than Satyananda's full hour.
 
-**Voice and style.** The marketing copy speaks in the second person ("You are in yoga nidra"; "Guided by Mathieu, your awareness travels..."), so the practice is teacher-led and guided. The register around the book is **playful**: a session called "Champagne, to be drunk in moderation"; an author note saying he co-edits his magazine "with his cat Léo and his partner"; a new book of humorous yoga tales. That is unusual next to the solemn tone of most lineage books. Whether the scripts themselves are directive or invitational is unknown.
+**Voice and style.** The marketing copy speaks in the second person ("You are in yoga nidra"; "Guided by Mathieu, your awareness travels..."), so the practice is teacher-led and guided. The register around the book is **playful**: a session called "Champagne, to be drunk in moderation"; an author note saying he co-edits his magazine "with his cat Léo and his partner"; a new book of humorous yoga tales. That is unusual next to the solemn tone of most lineage books. Whether the scripts themselves are directive or invitational is unknown. **No example of his guiding wording was available to me**: I found no free excerpt, transcript or sample track. The cheapest way to hear it is one €10 download (e.g. "Sourire", 36'46) or the CD itself.
 
 **Sleep.** On the back cover the body sleeps and the mind stays conscious: the stay-aware position, as in Satyananda and Swami Rama (`08` debate 3). His formula, "put to sleep what is not us", turns this into **selective** sleep. Whether he reassures people who fall asleep, as Dinsmore-Tuli does [@dinsmoretuli2022], is unknown.
 
@@ -84,7 +72,7 @@ These come from the back cover, the publisher's notes and the author's own teach
 - **duration:** a "millennial science";
 - **aim:** beyond relaxation, towards *turīya*.
 
-I found **no stated list of non-negotiable stages**, no named teacher and no textual source. The one concrete technical detail, the right-thumb rotation, points towards the Satyananda format rather than away from it. The project's two earlier notes on this book contradict each other ("distinct from the Satyananda format" vs. "Satyananda-form"), and **neither can be confirmed** from what is public.
+I found **no stated list of non-negotiable stages**, no named teacher and no textual source. The one concrete technical detail, the right-thumb rotation, points towards the Satyananda format rather than away from it. The project's two earlier notes on this book, both in the `why_notable` field of `.work/candidates.json` (line 1877), contradict each other ("distinct from the Satyananda format" vs. "Satyananda-form"), and **neither can be confirmed** from what is public.
 
 **Context: the prefacer's own "traditional" yoga nidra is different.** Lanier's school in Lyon teaches a two-year, 12-module yoga nidra curriculum. It places yoga nidra in "the great Shaiva tradition of North India" and says relaxation is not its goal. Its practices are mostly about **entering and leaving sleep at will** and bringing awareness into dream and deep sleep. Examples:
 - falling asleep on the internal sound and the active nostril;
@@ -100,7 +88,7 @@ This is a very different meaning of "traditional" from a guided supine script wi
 ## What's distinctive
 - **Book plus audio in French, from a teacher-trainer.** Bonnasse's Almora book [@bonnasse2015fr] has no audio and Boyes [@boyes1973] has none either. Mathieu's book comes with about 90 minutes of guided practice and sits inside a larger audio catalogue.
 - **The manual of a French training line.** Few books on the project list are tied to a visible network of certified teachers outside the big lineages (Bihar, iRest, Amrit, Total Yoga Nidra). Mathieu's site lists his certified yoga nidra teachers by French département.
-- **A "traditional" claim from outside the Bihar orbit, prefaced by a Natha-lineage teacher.** It shows that "traditional yoga nidra" in the French market is a label used by at least two different lines: Mathieu's, and the Tikhomiroff/Icchanath Natha line of his prefacer.
+- **A "traditional" claim from outside the Bihar orbit, prefaced by a Natha-lineage teacher.** It shows that "traditional yoga nidra" in the French market is a label used by at least two different lines: Mathieu's, and the Tikhomiroff/Icchanat Natha line of his prefacer.
 - **The selective-sleep formula** ("put to sleep what is not us in order to wake up"). It is a compact way to state the paradox. Boyes's "sommeil éveillé" and Bonnasse's "sommeil conscient" say something close, but less memorably.
 - **Themed sessions with a light, humorous voice** (champagne, the Buddha's smile, a drop of water) inside a "traditional" framing.
 
@@ -112,29 +100,30 @@ This is a very different meaning of "traditional" from a guided supine script wi
   - Its themed-session model is easy to adapt.
   - It gives a non-English, non-Bihar-institutional voice for comparison.
 - **Limitations / critiques:**
-  - **I found no independent review**: no press review, no blog review and no rating I could open. Treat that absence cautiously, because this session had no web search. A review in *Infos Yoga*, which the author edited until 2022, would not count as independent.
+  - **I found no independent review**: no press review, no blog review and no rating I could open. Treat that absence cautiously: the first session had no web search, and the one search run at revision found nothing. A review in *Infos Yoga*, which the author edited until 2022, would not count as independent.
   - **The history claim is weak.** "A millennial science of India" is exactly the claim the compendium warns against (`08` debate 1). The modern method is 20th-century [@birch2015; @singleton2005], and a French book presented systematic yoga nidra relaxation in 1973 [@boyes1973].
   - **"Traditional" is not defined** in any public source. The initiating teacher and lineage are not named.
   - **Facts about the author vary between sources:** the Maison du Yoga founded in 1983 or 1984; teaching yoga "since the 1980s" or "since 1972"; 250 or 300+ teachers trained.
   - **The mononym** makes the author hard to cite and to trace.
-  - **Health framing unknown:** whether the book uses research, or makes health claims beyond "managing emotions", is unknown. BnF filing it under stress management suggests a practical, relaxation-oriented reading.
+  - **Health framing unknown:** whether the book uses research, or makes health claims beyond "managing emotions", is unknown. BnF filing it under stress management suggests a practical, relaxation-oriented reading. No sleep-equivalence ("1 hour = 4 hours of sleep"), brainwave or healing claim appears in any public material I saw. If the book makes one, see `06` §6.3, claims table (line 132: "No evidence").
 
 ## For your own book
+- All takeaways below come from the back cover, the CD notes and the author's flyers, not from the book's method pages. Treat them as ideas sparked by the book, not as documented technique.
 - **Take:**
   - **The selective-sleep image** ("let what is not you fall asleep, so that you can wake up"). It is a good one-line answer to "what is yoga nidra?" for a French or English reader, and it fits the stay-aware tradition without sounding like a rule. Credit it to Mathieu if you use it closely.
   - **The themed-session model.** Keep one stable skeleton (settle, rotation, breath, images, return) and vary a single theme per session: obstacles, "the essential", time, a mantra, a smile. A model for a book that offers one core practice plus a set of variations (`08` debate 7).
-  - **A session that stages the process itself.** "Obstacles" lets the practitioner live, as a dream, what happens during a session. A meta-session like this is a teaching idea worth borrowing: one session that shows students what usually gets in the way (sleep, restlessness, images).
+  - **A session that stages the process itself** (inferred from a one-sentence CD description). "Obstacles" is billed as a dream-like rehearsal of what happens during a session. A meta-session like this is a teaching idea worth borrowing: one session that shows students what usually gets in the way (sleep, restlessness, images).
   - **The teacher-training principle** that every trainee writes their own session. It matches Wildcroft & Nolan's craft approach (see `reading/wildcroft2026.md`), coming from a "traditional" teacher.
   - **For a francophone readership:** cite it as one of the few French yoga nidra books with its own audio, next to Boyes and Bonnasse (`11` §11.2).
 - **Skip or treat critically:**
   - **"Millennial science of India."** Do not repeat it. Use the honest "ancient word and state, modern method" framing [@birch2015].
   - **"Traditional" as a label.** If you use the word, say which tradition, which teacher and which date. The book's own case is undocumented in public sources, and its prefacer's tradition teaches something rather different.
-  - **Lineage claims in the preface and postface.** Read them before relying on them. Do not merge the Natha line (Tikhomiroff/Icchanath) with Satyananda's format, or with Mathieu's unnamed Indian initiation, without evidence.
-  - **Any health or emotion-regulation claims.** Check them against `06`. The honest summary there is "better than nothing, about as good as other relaxation".
+  - **Lineage claims in the preface and postface.** Read them before relying on them. Do not merge the Natha line (Tikhomiroff/Icchanat) with Satyananda's format, or with Mathieu's unnamed Indian initiation, without evidence.
+  - **Any health or emotion-regulation claims.** Check them against `06` (§6.3 claims table; the author's note at about line 174 gives the honest summary: "better than nothing, about as good as other relaxation").
   - **Use it as a lineage or voice comparison, not as a source on stages.** For stage-by-stage detail rely on Satyananda [@satyananda1976], Bonnasse [@bonnasse2015fr] or Boyes [@boyes1973] until you have read this book.
 
 ## Short quotes (optional, max 2, each under 25 words, with page if known)
-- "Allongé sur le sol, le corps s'endort mais l'esprit reste conscient." (Back-cover text, Almora publisher page, 2018; page not applicable.)
+- "Allongé sur le sol, le corps s'endort mais l'esprit reste conscient." (Back-cover text, as reproduced on the Almora and Librest pages; page not applicable.)
 - "Le yoga nidra traditionnel est une pratique d'intériorisation qui consiste à endormir tout ce qui n'est pas nous." (Mathieu, École de Yoga Mathieu workshop flyer, Paris 2026–27; not from the book.)
 
 ## Confidence
@@ -145,10 +134,10 @@ This is a very different meaning of "traditional" from a guided supine script wi
   - the author's birth year as BnF records it (1949);
   - the back-cover text, including the right-thumb-to-crown rotation, colours and landscapes, intermediate states, and the two CD session names and descriptions.
 - **From the author's and prefacer's own pages (self-description, reliable as claims):**
-  - the author's biography: ethnology, India since 1972, Vaishnava interest, "initiated" into traditional yoga nidra, Maison du Yoga, Infos Yoga, 300+ trained teachers;
+  - the author's biography: ethnology, travel in India since 1972 (Librest bookseller bio) or teaching since 1972 (his Gard and St-Jacut flyers), Vaishnava interest, "initiated" into traditional yoga nidra, Maison du Yoga, Infos Yoga, 300+ trained teachers;
   - his definition of traditional yoga nidra;
-  - the six download sessions and their lengths;
-  - Lanier's Natha lineage through Tikhomiroff and Icchanath, and his school's nidra curriculum.
+  - the six download sessions, their lengths and file formats (five .mp3, one .wav);
+  - Lanier's Natha lineage through Tikhomiroff and Icchanat, and his school's nidra curriculum.
 - **Inferences (flagged above):**
   - that his core method resembles the Satyananda format, from the right-thumb start;
   - average session length of about 40–45 min;
@@ -163,4 +152,27 @@ This is a very different meaning of "traditional" from a guided supine script wi
   - whether the book argues against secular or relaxation-only versions, as the brief assumed (nothing public shows such a polemic);
   - whether it cites any research;
   - whether it prints the CD scripts.
+- **Basis after revision:** still secondary only. The back-cover quote, the 1972 attributions, the .wav/.mp3 formats and the publication date were re-checked against the opened pages on 2026-10-03; the April 2018 date could not be.
 - **Author's full name:** not found. BnF knows him only as "Mathieu (1949– )". Do not confuse him with Mathieu Boldron, author of *Le yogi moderne* (2025), a different BnF record.
+
+## Sources consulted
+- https://www.almora.fr/product/show/9782351183786/dormir-pour-seveiller-le-yoga-nidra-traditionnel (publisher page: description, author note, format, date, price)
+- https://www.almora.fr/contributeur/mathieu/2969 (publisher's author page)
+- https://www.almora.fr/product/show/9782351187340/un-barbare-en-yoga and https://www.almora.fr/product/show/9782351184615/kurma-yoga-31-tresors-pour-votre-pratique-du-yoga (author's other Almora books; bio details)
+- https://www.librest.com/livres/dormir-pour-s-eveiller--le-yoga-nidra-traditionnel-mathieu_0-5176364_9782351183786.html (bookseller page with the full back cover, the CD session descriptions and a longer author bio)
+- https://catalogue.bnf.fr/ark:/12148/cb45614662k, read through the BnF SRU API (Dublin Core and InterMARC records for ISBN 9782351183786)
+- BnF authority records via the SRU API: Mathieu (1949– ), no. 12324665; Khristophe Lanier, no. 15530730; Ingrid Guérin, no. 17840369
+- https://books.google.com/books?vid=ISBN9782351183786 (record id uh4wvAEACAAJ; no preview; search-inside returned nothing)
+- https://openlibrary.org/search.json?q=dormir+pour+s%27eveiller+yoga+nidra (no record)
+- Author's school: https://ecoledeyogamathieu.fr/ · https://ecoledeyogamathieu.fr/yoga-nidra/ · https://ecoledeyogamathieu.fr/formations/ · https://ecoledeyogamathieu.fr/anciens-eleves/ · https://ecoledeyogamathieu.fr/wp-json/wp/v2/product and https://ecoledeyogamathieu.fr/wp-json/wc/store/v1/products (descriptions, lengths and file formats of the six downloadable sessions)
+- Author's flyers (PDF): https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/St-Jacut-NIDRA-2027.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/Rennes26Nidra.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2025/11/n-octobre-26-1.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/07/paris-2027.pdf · https://ecoledeyogamathieu.fr/wp-content/uploads/2026/09/Lalleu-mai-27.pdf
+- YouTube video "Présentation de Mathieu (YOGA)", https://www.youtube.com/watch?v=dANrOnus67I, on the channel *apresdissipation* (oEmbed, re-checked 2026-10-03: title and channel only). The channel feed https://www.youtube.com/feeds/videos.xml?channel_id=UC77j_Polb7iO57A6-7aVCsg returned 404 on re-check. I did not watch the video and found no transcript.
+- Prefacer's school: https://www.yoga-horizon.fr/presentation-des-enseignants/ · https://www.yoga-horizon.fr/formation-approfondie-en-yoga-nidra-a-lyon/
+- https://www.esprityoga.fr/wp-json/wp/v2/search (magazine site search; no review of this book found)
+- Tried but blocked or empty: amazon.fr (captcha), decitre.fr, furet.com, placedeslibraires.fr, librairie-gallimard.com, gibert.com (403), babelio.com (connection reset or 503), leslibraires.fr (503), lalibrairie.com (429), mollat.com (no match), SUDOC (no record), the Wayback Machine copy of Almora's old book page (connection failures), and the Google Books API (quota).
+- Revision 2026-10-03: re-opened the Librest and Almora pages (back cover, bio, date), the five flyers (grep for 1972 and bio wording), the shop product data, and ran one web search for reviews or excerpts ("Mathieu" "yoga nidra" "Dormir pour s'éveiller"), which found none.
+
+## Reviewer notes
+- **02-source-books.md entry not added.** The reviewer asked for a short entry in `compendium/02-source-books.md` (French, book + CD, secondary-only summary, lineage unconfirmed, next to Boyes and Bonnasse). This revision may only edit `reading/` and `.work/`, so the entry is left for the compiler. Suggested wording: "Mathieu, *Dormir pour s'éveiller : le yoga nidra traditionnel* (Almora 2018, 134 pp. + MP3 CD 90 min). ★. French teacher-trainer's book-plus-audio; 'traditional' claim undocumented; right-thumb rotation suggests Satyananda format; preface by a Natha-line teacher (Lanier). Summary secondary only: `reading/mathieu2018.md`."
+- **No example of guiding wording.** No free excerpt, transcript or sample was found, so the directive/invitational question stays open until the CD or a download is heard.
+- **April 2018 date not re-verifiable** (YouTube channel feed now 404); kept only as a hedged note.
