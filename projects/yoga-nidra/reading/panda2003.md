@@ -62,7 +62,7 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
   - Memory and *saṃskāras* sit in the subtle sheaths. The subconscious is in the mental sheath. The unconscious, meaning the *karmāśaya* or store of karmic impressions, is in the bliss sheath of the causal body.
   - Impressions are recorded much as sound and image are recorded on magnetic tape. The book stacks them in layers like the pages of a multi-volume book (pp. 66–67).
   - This model is compared and contrasted with Freud's, and psychoanalysis is criticised (prologue; contents, "Critique of Psychoanalysis", p. 85). The brain is treated as the instrument of a separate mind (prologue; the index points to Descartes, Eccles and Popper).
-- **Rotation of awareness is tantric nyāsa, and nyāsa is indispensable.** Nyāsa shifts awareness from spot to spot and also makes the body divine. Yoga nidra uses an "external" form for the gross body and an "internal" form for the subtle body (p. 97). The addendum gives both in full in Sanskrit (pp. 271–280). The author says the idea was taken over from Tantra (p. 271).
+- **Rotation of awareness is tantric nyāsa, and nyāsa is indispensable** (the prologue says the state cannot be induced without it). Nyāsa shifts awareness from spot to spot and also makes the body divine. Yoga nidra uses an "external" form for the gross body and an "internal" form for the subtle body (p. 97). The addendum gives both in full in Sanskrit (pp. 271–280). The author says the idea was taken over from Tantra (p. 271).
 - **Liberation needs a three-part sankalpa** (pp. 96–97): may the karmas be erased; may the return to the source (*pratiprasava*) speed up; "I am Brahman". Yoga nidra is a significant supplement to Patañjali's yoga, not a substitute for it. Chapter 3 offers alternative sankalpas matched to temperament.
 - **The applications** cover moral and behavioural change, psychosomatic illness and organic disease. The patient is to learn the anatomy involved so the resolve can be aimed at it. For ovarian under-function, for example, the patient should picture the pelvic organs, the endocrine glands and the path from brain to ovary (p. 248). Each condition gets its own prescribed sankalpa, from a single sentence (ovarian hypo-function, p. 248) to a short repetitive chant (cancer, p. 239). I saw only these two of the roughly 35.
 - **A full yogic programme surrounds the practice:** ethical rules (*yama* and *niyama*, p. 98), joint-loosening *kriyās*, āsanas, sun salutation with mantras and chakra concentration, prāṇāyāma with bandhas and mudrās including khecarī, and only then yoga nidra.
@@ -72,22 +72,30 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
 
 | Stage (Panda's name, page) | What the book does | Compared with Satyananda 1976 (`04` §4.1) |
 |---|---|---|
-| **Prerequisites** (98–177) | Yamas and niyamas (p. 98). *Prāṇa-sañcālana kriyā* (pp. 106–130), a long series of toe, ankle, knee, hip, spine, wrist, elbow, shoulder and neck movements with Sanskrit names. Seen at pp. 110–111: knee bending, knee rotation and "hip-swinging" (half-butterfly). It closely parallels the Bihar School's *pawanmuktāsana* series, a name the index lists (pp. 100, 118–19). Then 14 āsanas, a 12-pose sūrya namaskāra with a mantra, a seed syllable and a chakra to concentrate on at each pose (pp. 146–147), and prāṇāyāma with mudrās and bandhas | Satyananda's yoga nidra is a stand-alone practice, though in Bihar classes it often follows āsana. Panda makes the full preparation part of the method |
+| **Prerequisites** (98–177) | Ethics, a long joint-loosening series, 14 āsanas, sūrya namaskāra and prāṇāyāma with mudrās and bandhas, all before yoga nidra (details below) | Satyananda's yoga nidra stands alone, though Bihar classes often put it after āsana. Panda makes the full preparation part of the method |
 | **Preparation** (*prastuti*, 179) | Lying in **śavāsana** (index, pp. 179–80). The index also places *ajapā japa* and *praṇava japa* on pp. 178/180. Not seen | Same posture. The japa elements look like an addition (unverified) |
 | **Relaxation** (*śithilīkaraṇa*, 180) | Not seen | Satyananda's preparation includes settling and sound awareness; how Panda relaxes the body is unknown |
-| **Resolve** (*saṅkalpa*, 180) | Early in the sequence, after relaxation. Theory pp. 94–97: autosuggestion to the subconscious. For liberation, a three-statement Sanskrit/Vedāntic resolve. For therapy, the condition-specific resolves of ch. 3 (see below) | Satyananda: **short**, positive, one sentence, three times. Panda's resolves are condition-specific and physiological, sometimes repetitive chants (two seen, pp. 239, 248) |
-| **External rotation** (*bahirnyāsa*, 180–182) | Modelled on *bahirmātṛkā-nyāsa*: placing seed syllables and "divine mothers" (the 50 letters of the Sanskrit alphabet) on head, face, heart, genitals, feet, fingers and then each body part (addendum pp. 271–277, seen in part). The index puts rapid moving concentration (*kṣipra calad-dhāraṇā*) and momentary meditation (*kṣaṇika dhyāna*) on p. 180. **Not seen:** whether the practice names body parts in plain language or uses the mantras | Satyananda says he built rotation from nyāsa but stripped out the mantras (his introduction, as transcribed on the retailer page). Panda instead puts the mantra text back in front of the reader |
-| **Internal rotation** (*antarnyāsa*, 182–184) | Awareness moves through the chakras in a fixed order: **viśuddhi → anāhata → maṇipūra → svādhiṣṭhāna → mūlādhāra → ājñā**. This follows the internal *mātṛkā-nyāsa*, in which the letters are placed on the petals (16, 12, 10, 6, 4, then 2 at the eyebrow centre), clockwise (p. 277). The index suggests seed syllables, maṇḍalas and letters are visualised at each chakra. The book also insists the chakras lie horizontally and are not "duplicated" front and back (p. 277). This reads like a rejection of the Bihar front-body chakra points, though that is my inference | **Not in the basic 8-stage form.** Chakra work belongs to Satyananda's advanced and meditative practices. This is Panda's main structural addition |
-| **Breath** (*saviloma gaṇanā mānasika nāḍī-śodhana*, 185–186) | **Seen (p. 186):** mental alternate-nostril breathing, counted backwards. Example from 27: left inhale 27, right exhale 27, right inhale 26, left exhale 26, and so on down to 1. Then rest in natural breathing through both nostrils. The wording suggests you choose the starting number | Same backward-counting device (27→1). Panda gives it the alternate-nostril form and the name "mental channel purification" |
-| **Opposites** (heavy/light, hot/cold, pain/pleasure) | **Absent.** There is no heading for it, and the index has no practice-page entries for such pairs | Satyananda's stage 5 is dropped |
-| **Visualization** (*kālpanika caladdṛśya-darśana*, 186–188) | **Seen (pp. 186–187):** picture scenes and move quickly from one to the next. Themed lists of five items each:<br>• **faith symbols:** Om, svastika, trident, cross, crescent with stars; Viṣṇu, Kṛṣṇa, Śiva, the Buddha, Mahāvīra or Jesus; Durgā, Kālī, Lakṣmī or Mary; Gandhi or another historical figure; your mother and father<br>• **Indian trees:** banyan, pipal, neem, mango, jackfruit<br>• **flowers:** white lotus, red lily, blue *aparājitā*, sunflower, black rose<br>• **animals:** deer, elephant, tiger, lion, camel<br>• **birds:** peacock, parrot, crane, pigeon, vulture<br>• then day and night, seasons, water, greenery, and worship and death (p. 188, not seen)<br>The reader is told to swap in trees, flowers and animals from their own locality | Same rapid-image method. Panda's version is list-based, explicitly interfaith and localisable. There is no *chidākāśa* entry in the index |
+| **Resolve** (*saṅkalpa*, 180) | Early in the sequence, after relaxation. Theory pp. 94–97: autosuggestion to the subconscious. For liberation, a three-statement Vedāntic resolve. For therapy, the condition-specific resolves of ch. 3 | Satyananda: **short**, positive, one sentence, three times. Panda's resolves are condition-specific and physiological, sometimes repetitive chants (two seen, pp. 239, 248) |
+| **External rotation** (*bahirnyāsa*, 180–182) | Modelled on the tantric *bahirmātṛkā-nyāsa* (addendum, pp. 271–277, seen in part). **Not seen:** whether the practice names body parts plainly or uses the mantras | Satyananda says he built rotation from nyāsa but stripped out the mantras; Panda puts the mantra text back in front of the reader |
+| **Internal rotation** (*antarnyāsa*, 182–184) | Awareness moves through the chakras: **viśuddhi → anāhata → maṇipūra → svādhiṣṭhāna → mūlādhāra → ājñā**, following the internal *mātṛkā-nyāsa* (p. 277). Not seen in the practice itself | **Not in the basic 8-stage form.** Panda's main structural addition |
+| **Breath** (*saviloma gaṇanā mānasika nāḍī-śodhana*, 185–186) | **Seen (p. 186):** mental alternate-nostril breathing, counted backwards from a chosen number (example: 27) down to one, then rest in natural breathing | Same backward-counting device; Panda gives it the alternate-nostril form and the name "mental channel purification" |
+| **Opposites** (heavy/light, hot/cold, pain/pleasure) | **Apparently absent** (no contents heading, no index entry on pp. 178–189; those pages mostly not seen). The index lists *dvandva* (pairs of opposites) only at pp. 90 and 246–247, outside the practice | Satyananda's stage 5 seems to be dropped (unverified) |
+| **Visualization** (*kālpanika caladdṛśya-darśana*, 186–188) | **Seen (pp. 186–187):** picture scenes and shift rapidly between them, using themed lists of five items; readers may substitute local trees, flowers and animals (details below) | Same rapid-image method. Panda's version is list-based, explicitly interfaith and localisable. No *chidākāśa* entry in the index |
 | **Resolve repeated** (189) | Not seen | Same placement |
 | **Finish** (*samāpti*, 189) | Not seen | Same placement |
 
-- **Sleep:** stay awake. Sleep is prevented by an autosuggestion made before starting (p. 4). Sleep and dreamless sleep get only a few theory pages. Insomnia is treated as an application (pp. 257–261, with the reticular activating system and melatonin), not as a reason to practise.
+
+Details behind the table:
+- **Prerequisites.** Yamas and niyamas (p. 98). *Prāṇa-sañcālana kriyā* (pp. 106–130): toe, ankle, knee, hip, spine, wrist, elbow, shoulder and neck movements with Sanskrit names; pp. 110–111 show knee bending, knee rotation and "hip-swinging" (half-butterfly). It closely parallels the Bihar School's *pawanmuktāsana* series, a name the index lists (pp. 100, 118–19). The 12-pose sūrya namaskāra pairs each pose with a mantra, a seed syllable and a chakra (pp. 146–147).
+- **External rotation.** The *bahirmātṛkā-nyāsa* places seed syllables and the "divine mothers" (the 50 letters of the Sanskrit alphabet) on head, face, heart, genitals, feet, fingers and then each body part. The index puts rapid moving concentration (*kṣipra calad-dhāraṇā*) and momentary meditation (*kṣaṇika dhyāna*) on p. 180.
+- **Internal rotation.** In the internal *mātṛkā-nyāsa* the letters are placed on the chakra petals (16, 12, 10, 6, 4, then 2 at the eyebrow centre), clockwise (p. 277). The index suggests seed syllables, maṇḍalas and letters are visualised at each chakra (pp. 182–184). P. 277 also insists the chakras lie horizontally and are not "duplicated" front and back; reading this as a rejection of the Bihar front-body chakra points is my inference. Chakra work belongs to Satyananda's advanced and meditative practices, not his basic form.
+- **Breath.** The count alternates: left in 27, right out 27, right in 26, left out 26, and so on (p. 186).
+- **Visualization lists (pp. 186–187).** Faith symbols (Om, svastika, trident, cross, crescent with stars; Viṣṇu, Kṛṣṇa, Śiva, the Buddha, Mahāvīra or Jesus; Durgā, Kālī, Lakṣmī or Mary; Gandhi or another historical figure; your mother and father); trees (banyan, pipal, neem, mango, jackfruit); flowers (white lotus, red lily, blue *aparājitā*, yellow sunflower, black rose); animals (deer, elephant, tiger, lion, camel); birds (peacock, parrot, crane, pigeon, vulture). Then day and night (begins p. 187: sunrise, midday…), seasons, water, greenery, and worship and death (p. 188, not seen).
+
+- **Sleep:** stay awake. Sleep is prevented by an autosuggestion made before starting (p. 4). Sleep and dreamless sleep get only a few theory pages. Insomnia is treated as an application (pp. 257–261, with the reticular activating system and melatonin), not as a reason to practise. The full index has no entry for hours, rest or sleep equivalence (its sleep entries are pp. 7, 8, 10, 258), so it shows no sign of the "1 hour of yoga nidra = 4 hours of sleep" claim that `06` §6.3 rates "no evidence". The unseen practice pages could still contain it.
 - **Who guides:** framed as self-practice and self-therapy with no second person (prologue). I saw no instructions for a teacher or a recording.
 - **Length and timing:** not stated in what I saw.
-- **Language:** second-person, imperative, manual-style (instructions to visualise, to count), with lists instead of flowing script, and occasional permission to adapt, such as using trees from your own region. The theory and application chapters are assertive and textbook-like.
+- **Language:** second-person, imperative, manual-style, with numbered lists instead of flowing script. The visualization stage opens with two short commands to picture scenes and shift quickly from one to the next (second quote below). The breath stage reads like a recipe: "Count as follows", then the sequence. Each image list ends with a one-line permission to substitute local trees, flowers or animals (p. 187). There are no pauses, no invitational phrasing, and no wording addressed to a listener. The theory and application chapters are assertive and textbook-like.
 - **An example of a therapeutic sankalpa, paraphrased (p. 248):** for a young woman with irregular cycles and low oestrogen, the resolve affirms that the psychic centre, hypothalamus, pituitary and ovaries work together normally. She should first study diagrams of the pelvis, the endocrine glands and the brain-to-ovary pathway.
 
 ## What's distinctive
@@ -95,17 +103,17 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
 - **A sankalpa formulary for disease and character.** About 35 named targets, from getting up early to cancer, each with pages of pathophysiology, anatomical drawings and a prescribed resolve. No other book here goes as far in medicalising the sankalpa.
 - **A theory of sankalpa built on Indian psychology.** It locates the subconscious and unconscious in the *kośas* and the *karmāśaya*, and argues against Freud at length (pp. 57–90). Kumar 2013 (`reading/kumar2013.md`) gives the experimental, Indian-university version of the medical frame. Panda gives the philosophical one, with no data.
 - **Sanskrit names for every stage** (*prastuti, śithilīkaraṇa, bahirnyāsa, antarnyāsa, saviloma gaṇanā, kālpanika caladdṛśya-darśana, samāpti*). They look like the author's coinages, not inherited technical terms.
-- **A non-lineage author outside the yoga institutions:** a retired veterinary nutrition scientist and Odia novelist. That is unusual among Indian yoga nidra books. It is the earliest of the two D.K. Printworld yoga nidra monographs; the publisher sells it next to Kumar's *Handbook*.
+- **A non-lineage author outside the yoga institutions:** a retired veterinary nutrition scientist and Odia novelist. That is unusual among Indian yoga nidra books. The retailer lists it alongside Kumar's *Handbook of Yoga-Nidra*.
 
 ## Strengths and limitations
 - **Strengths:**
   - It states in the prologue that sankalpa is suggestion and autosuggestion. That is a candid concession from an Indian author in 2003, and it supports the "cousin of hypnosis" position in `03` §3.12.
   - It makes the tantric genealogy of rotation visible instead of only asserting it. It also says openly that the idea was taken over from Tantra.
   - The visualization lists are pluralist and invite local substitution. That is a useful model for adapting imagery across cultures.
-  - In places it is measured. For acute asthma it says medical treatment is unavoidable and yoga therapy only complementary (p. 215).
+  - In places it is measured. For acute asthma it says symptomatic medical treatment becomes unavoidable and that yoga therapy may be complementary to it (p. 215).
   - It credits Satyananda with popularising yoga nidra (prologue). Its bibliography gives a map of the Bihar School literature it draws on.
   - The glossary and index are full and useful for Sanskrit terms.
-- **Limitations / critiques.** I found no journal or long-form review; the web search tool was unavailable for this session, so treat that absence as unconfirmed. The points below are my own checks:
+- **Limitations / critiques.** No journal or long-form review located: web searches for reviews (including Indian yoga periodicals) found only retailer and publisher listings. The points below are my own checks:
   - **The scientific claim is not backed by science.** The prologue claims this is the first book to put yoga nidra on a scientific footing. Yet in the full index I found no yoga nidra study at all: no Kjaer, no Lou, no Menninger or Swami Rama, no Bihar research reports. It contains no data of its own. Mechanisms are told as stories built from textbook physiology.
   - **The author's credentials are overstated.** He is a veterinary nutrition scientist; the jacket presents him as a psychologist and tantrist.
   - **The cancer claims could harm readers.** The book states as established fact that prolonged psychic trauma causes cancer (p. 238). It says yoga nidra can prevent stress-induced cancer, slow any malignancy and treat cancer successfully (p. 239), and it prescribes a resolve telling cancer cells to regress and die. Large prospective data do not support stress as an important cancer risk factor: a meta-analysis of 116,000 people found no link between job strain and overall cancer risk (Heikkilä et al. 2013). Nothing in the yoga nidra literature (`06`) shows an effect on any cancer. A resolve like this can also load guilt onto patients whose disease progresses.
@@ -115,14 +123,15 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
     - Its cholesterol reference ranges contradict each other (pp. 222–223).
     - Chakras are said to be horizontal (p. 277).
     - The index misnames Hans Berger as "Burger" and Alan Lloyd Hodgkin as "Lloyd, Alan Hodgkin".
+  - **Brainwave mapping (pp. 9–11, seen only via the index).** The index lists alpha waves (9, 11), beta waves (9–10), theta waves (9–11) and delta waves (9–11) on the states-of-consciousness pages. If the book equates yoga nidra with theta or delta, note that `06` §6.1 finds mostly alpha/theta and §6.3 treats "delta while aware" as anecdote (the single-subject Swami Rama/Menninger case).
   - **The hypnosis argument is thin.** It gets two pages. The distinction rests on the hypnotist versus no second person, yet yoga nidra is almost always guided by someone else's voice, and the book excludes self-hypnosis by definition. The prologue calls hypnosis an altered state, while the index shows the book citing Barber and Sarbin, whose social-psychological accounts reject a special hypnotic state. Check how pp. 5–6 handle this.
-  - **The history is mythic.** The origin story of seers imitating Viṣṇu has no textual support. The book does not use the textual evidence the history chapter relies on (`01` §1.1: Devī Māhātmya, medieval yoganidrā as samādhi; Birch & Hargreaves).
+  - **The history is mythic.** The origin story of seers imitating Viṣṇu has no textual support. The book does not use the textual evidence the history chapter relies on (`01` §1.1: Devī Māhātmya, medieval yoganidrā as samādhi; Birch & Hargreaves), nor the point in `08` §1 that the word first belongs to a goddess of sleep, swoon and death (Sarkar 2017). `08` §1's "ancient roots, modern form" is the honest replacement framing.
   - **Moralising and unsafe targets:**
     - It includes resolves for loving your wife, avoiding extramarital sex, becoming vegetarian and surrendering to God.
     - It offers a sankalpa to give up "psychotic behaviour". That conflicts with current safety guidance: with psychosis, practise only with clinical support (`07` §7.1).
   - **High barrier to entry.** Seventy-five pages of prerequisites, including bandhas and khecarī-mudrā, sit oddly with yoga nidra's reputation as accessible rest.
   - **The practice is thin and derivative.** It gets 12 pages. Apart from the chakra stage and the nyāsa framing, it is recognisably the Bihar sequence under new Sanskrit names, despite the prologue's claim not to duplicate Satyananda.
-  - **Reception:** Goodreads shows 8 ratings (average 3.75) and one text review, 2 stars. The reviewer found some good information but many outdated concepts and heavy Sanskrit. The brief calls the book "frequently cited in Indian theses"; I could not check that. Shodhganga blocks automated access, and the open-access papers I checked do not cite it.
+  - **Reception:** Goodreads shows 8 ratings (average 3.75) and one text review, 2 stars. The reviewer found some good information but many outdated concepts and heavy Sanskrit. It is sometimes described as frequently cited in Indian theses; unverified. Shodhganga blocks automated access, and the open-access papers I checked do not cite it.
 
 ## For your own book
 - **Take:**
@@ -136,7 +145,8 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
 - **Skip or treat critically:**
   - **Every disease claim and every therapeutic sankalpa in ch. 3**, above all the cancer resolve. In your safety chapter, say plainly that yoga nidra is a complement to medical care, not a treatment for disease, and that a resolve should never blame the body or the person.
   - **The scientific-discipline framing and the author's billing as psychologist and tantrist.** Don't cite this book as a scientific or medical authority. For effects, use `06`.
-  - **The Viṣṇu "seers' imitation" origin story** as history. Use the Viṣṇu image as an evocative opening if you like (it is lovely, and it is on the cover), but label it myth, and pair it with the Devī Māhātmya and Birch & Hargreaves.
+  - **The Viṣṇu "seers' imitation" origin story** as history. Use the Viṣṇu image as an evocative opening if you like (it is lovely, and it is on the cover), but label it myth, and pair it with the Devī Māhātmya, Birch & Hargreaves and Sarkar 2017 (`08` §1). Frame the history as "ancient roots, modern form".
+  - **Any brainwave claim from pp. 9–11** that puts yoga nidra in theta or delta. Use `06` §6.1/§6.3 instead (mostly alpha/theta; delta-while-aware is anecdote).
   - **The hypnosis distinction** (hypnotist versus no second person). It doesn't hold for guided yoga nidra.
   - **The kośa map of the subconscious and unconscious and the mind–brain dualism.** These are metaphysics. Don't present them as psychology.
   - **The moral and behavioural resolves** (marriage, sex, diet, God) and **the psychosis resolve.** If you include habit-change resolves, keep them self-chosen and non-judgemental.
@@ -144,32 +154,63 @@ Table of contents as printed in the hardback (seen as scans), cross-checked agai
   - **The book as a source for the basic practice.** Satyananda 1976 is the primary source for this format; Panda's version is derivative except for the chakra stage.
 
 ## Short quotes (optional, max 2, each under 25 words, with page if known)
-- "It would not be possible to induce the yoga-nidra state without doing nyasa." (Panda, Prologue)
-- "My cancer cells, regress and die, regress and die, regress and die." (Panda, p. 239, part of a prescribed sankalpa)
+- "My cancer cells, regress and die, regress and die, regress and die." (Panda, p. 239, part of a prescribed sankalpa; checked against the retailer's look-inside scan `ide080w.jpg`)
+- "Visualize scenes and scenarios in your mind. Rapidly shift your awareness from one scene to the other in succession." (Panda, p. 186, opening of the visualization stage; scan `ide080p.jpg`)
 
 ## Confidence
 - **Certain** (seen directly):
-  - Bibliographic data: the publisher's pages, Google Books, Open Library, the LC name authority.
+  - Bibliographic data: the publisher's pages (on its staging subdomain), Google Books, Open Library, the LC name authority.
   - That ISBN 81-246-0211-5 belongs to *Meditation*: from the publisher's back-cover advert.
   - The author's identity and career: the publisher's author page and the LC authority.
-  - The full table of contents: hardback scans and the transcription.
+  - The table of contents: hardback scans and the transcription (Category 7's page number is from the transcription only).
   - The full prologue and jacket text.
-  - The content of the 50 sample pages, including the whole index. That covers the sankalpa passage (pp. 96–97), the nyāsa material (pp. 97, 271–277), the breath and visualization pages (pp. 186–187), and the cancer and ovarian sankalpas (pp. 239, 248).
+  - The content of the 50 sample pages, including the whole index. That covers the sankalpa passage (pp. 96–97), the nyāsa material (pp. 97, 271–277), the breath and visualization pages (pp. 186–187), the asthma page (p. 215), and the cancer and ovarian sankalpas (pp. 239, 248). The two quotes and the p. 215 and p. 248 wording were re-checked against the scans during revision.
+  - What the index does and does not list (brainwave bands at pp. 9–11; sleep at pp. 7, 8, 10, 258; *dvandva* at pp. 90, 246–247; Day and Night Scenario at p. 187).
   - Goodreads figures as of October 2026.
 - **From secondary sources or inference:**
-  - Most stage contents (pp. 178–185, 188–189) are reconstructed from contents headings and index entries.
-  - The hypnosis discussion is known only from the prologue and the index.
+  - Most stage contents (pp. 178–185, 188–189) are reconstructed from contents headings and index entries, including the apparent absence of an opposites stage.
+  - The hypnosis discussion and the brainwave mapping are known only from the prologue and the index.
   - That the joint series and the sūrya namaskāra follow the Bihar School: my comparison of names and figures with *Asana Pranayama Mudra Bandha*, which the book lists.
   - That the chakra remark on p. 277 targets the Bihar front-body chakra points: my reading.
   - That the stage names are the author's coinages: my judgement.
+  - That only 2 of about 35 therapeutic resolves were seen; nothing is claimed about the form of the others.
   - The edition behind the sample scans is not stated; the listings say 2022.
   - The stress–cancer and oncovirus points are my checks against outside evidence, not the book's.
+  - "No reviews": based on web searches and the catalogues listed below, not on a database search of Indian periodicals.
 - **To verify in the book:**
   - pp. 5–6: how the book treats Barber, Sarbin and Hilgard, and whether it ever calls yoga nidra "trance" in its own voice.
-  - pp. 178–185 and 188–189: whether external rotation uses plain body-part names or mantras; whether the opening includes ajapā japa; the exact sankalpa wording and repetitions; the ending; any timing or session length.
+  - pp. 178–185 and 188–189: whether external rotation uses plain body-part names or mantras; whether the opening includes ajapā japa; the exact sankalpa wording and repetitions; the ending; any timing or session length; any sleep-equivalence claim.
+  - pp. 178–189: confirm that there is no opposites (heavy/light, hot/cold) stage.
   - p. 188, the Worship and Death scenario.
   - pp. 94–95: the start of the sankalpa theory.
-  - pp. 9–11: the index suggests brainwave bands are mapped onto states of consciousness there.
+  - pp. 9–11: how brainwave bands are mapped onto states of consciousness, and whether yoga nidra is placed in theta or delta.
   - The acknowledgements (pp. xi–xx): do they name a teacher or a lineage?
   - Whether the 2018 3rd edition changes anything. The page count is unchanged, which suggests a reprint.
-  - Whether, as the brief claims, it is frequently cited in Indian theses. Try a Shodhganga search by hand.
+  - Whether it is frequently cited in Indian theses. Try a Shodhganga search by hand.
+
+## Sources consulted
+Retailer (look-inside scans and transcriptions):
+- https://www.exoticindia.com/book/details/yoga-nidra-yogic-trance-theory-practice-and-applications-ide080 (paperback listing: prologue, opening of ch. 1, contents, jacket text) and its look-inside images `https://cdn.exoticindia.com/images/products/original/books-2015/ide080[b–z, za–zy].jpg` (in page order; e.g. p = 186, q = 187, s = 215, w = 239, x = 248 … zh–zy = index pp. 307–324)
+- https://www.exoticindia.com/book/details/yoga-nidra-yogic-trance-theory-practice-and-applications-nav946 (hardback listing: jacket text, author note) and its images `https://cdn.exoticindia.com/images/products/original/books-2019-014/nav946[b–j].jpg` (title page, five pages of printed contents)
+- https://www.exoticindia.com/find?q=yogic+trance (retailer search, used to find the two listings)
+- https://www.exoticindia.com/book/details/yoga-nidra-ide238 (Satyananda's *Yoga Nidra* listing, used only to compare his account of the nyāsa origin)
+
+Publisher (D.K. Printworld). These pages are on the publisher's **staging subdomain** (test.dkprintworld.com). Matching pages on the main dkprintworld.com domain appear in search results but returned HTTP 403 to me, so I could not confirm their exact URLs:
+- https://test.dkprintworld.com/product/yoga-nidra-yogic-trance-pb/ (paperback) · https://test.dkprintworld.com/product/yoga-nidra-%c2%97-yogic-trance/ (hardback) · https://test.dkprintworld.com/author-book/n-c-panda/ (author page with CV and publication list) · cover images https://test.dkprintworld.com/wp-content/uploads/2021/03/9788124602423-600x924.jpg and https://test.dkprintworld.com/wp-content/uploads/2021/03/9788124602423-b-scaled.jpg
+
+Catalogues:
+- https://books.google.com/books?vid=ISBN8124602433 · https://books.google.com/books?id=Rtn1PAAACAAJ · https://books.google.com/books?id=DbASAAAACAAJ (catalogue records only; "No preview available")
+- Open Library API: https://openlibrary.org/search.json?q=yoga-nidra+yogic+trance · https://openlibrary.org/isbn/8124602433.json · https://openlibrary.org/isbn/8124602425.json · https://openlibrary.org/isbn/8124602115.json · https://openlibrary.org/works/OL10226320W/editions.json · https://openlibrary.org/works/OL10226319W/editions.json · https://openlibrary.org/authors/OL4189440A.json
+- https://id.loc.gov/authorities/names/suggest2?q=Panda,%20N.%20C. (Library of Congress name authority n83179659)
+- https://www.goodreads.com/book/show/1502451 (also 3031819 and 1502452, which had no data)
+
+Reception and evidence checks:
+- Web searches for reviews (October 2026): queries on the title with "review", and on the author with *Yoga Mimamsa*, "Indian Journal" and *Prabuddha Bharata*. Results were only retailer listings (bagchee.com, vedamsbooks.com) and publisher catalogue pages.
+- Europe PMC, to check whether the book is cited: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=%22yogic%20trance%22 and related queries, plus the full-text XML of PMC12361892, PMC8273761, PMC9945223, PMC7427581 and PMC3144616 (none cites the book)
+- Europe PMC record of Heikkilä et al. 2013, *BMJ* 346:f165 (PMID 23393080), to check the book's stress-and-cancer claim
+- Project compendium cross-references: `06` §6.1 (EEG), §6.3 (claims table), `08` §1 (Is yoga nidra ancient?), Sarkar 2017 as listed in `99-bibliography.md`.
+
+## Reviewer notes
+- **Compendium entry not added.** The book has no entry in `compendium/02-source-books.md`. A suggested entry is below; I could not add it because this revision may only edit files in `reading/` and `.work/`. Whoever maintains the compendium should paste it in:
+  > **Panda, N.C. (2003). *Yoga-Nidrā: Yogic Trance. Theory, Practice and Applications*. D.K. Printworld.** Author: retired veterinary nutrition scientist and Odia novelist, no lineage. Distinctive value: prints the tantric *mātṛkā-nyāsa* in full (pp. 271–280) and adds an internal chakra rotation to a Bihar-derived sequence. Warning: about 35 disease and character sankalpas, including cancer, with no data. See `reading/panda2003.md`.
+- **Kumar's *Handbook* publisher** is not checked here, so the earlier "two D.K. Printworld monographs" remark was removed.

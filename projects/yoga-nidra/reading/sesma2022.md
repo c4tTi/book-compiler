@@ -2,32 +2,24 @@
 
 *English: "Yoga Nidra: A Guide to Deep Relaxation". Not translated. The registry id says 2022, but the first edition came out on **29 September 2021** (see "Where to get it").*
 
-> **Basis of this summary:** Table of contents + publisher description + reviews + author interviews/talks (book itself not read). That means: (1) the **full table of contents**, published by the author on her own website, together with her synopsis of the book, the acknowledgements and an erratum that quotes one sentence from p. 265; (2) the publisher's page and press kit; (3) the author's own website pages on the topics the book covers (what yoga nidra is, sankalpa, *saṃskāra*, benefits, contraindications, research, bibliography, practice set-up). These pages overlap with the book but are **not the book text**, and some were updated after 2021; (4) a 2021–22 interview syndicated in two magazines, a newspaper interview and a local column; (5) an auto-caption transcript of a one-hour public presentation of both her books (Barcelona, 28 Feb 2024), including a 10-minute guided practice; (6) a machine transcript of a 46-minute Catalunya Ràdio programme on the book (Dec 2021). In it she walks through a session phase by phase, and the host reads out a few short passages from the book (some in Catalan translation); (7) reader reviews on Goodreads and Agapea. **I did not read a single page of the book.** Google Books shows no preview, and I found no publisher sample.
-> Read for this summary:
-> - https://www.editorialkairos.com/catalogo/p/yoga-nidra (publisher page)
-> - https://www.editorialkairos.com/autores/ana-sesma-nuez (publisher author page)
-> - https://www.editorialkairos.com/catalogo/p/doce-viajes and https://www.editorialkairos.com/s/DoceViajes-info.pdf (companion volume; publisher press kit)
-> - https://books.google.com/books?vid=ISBN9788499889580 → https://books.google.com/books?id=YG9CEAAAQBAJ (ebook record, no preview; search-inside returns nothing) and https://books.google.com/books?vid=ISBN9788499889108 (print record)
-> - https://openlibrary.org/works/OL26586023W (and its editions list)
-> - https://www.todostuslibros.com/libros/yoga-nidra_978-84-9988-910-8 (Spanish booksellers' catalogue, fed by publisher data)
-> - https://www.agapea.com/Vicente-Merlo-Lillo/Yoga-nidra-9788499889108-i.htm (bookseller; reader reviews)
-> - https://www.goodreads.com/book/show/59486436-yoga-nidra and https://www.goodreads.com/book/show/199627011-doce-viajes (reception only)
-> - Author's site: https://anasesmanuez.com/ ; /libro-yoga-nidra-una-guia/ (table of contents, synopsis, acknowledgements, erratum) ; /libros-yoga-nidra/ ; /libro-doce-viajes-yoga-nidra/ ; /entre-dos-mundos/ ; /que-es-yoga-nidra/ ; /relajacion/ ; /tension-vs-estres/ ; /estudios-cientificos-yoga-nidra/ ; /sankalpa-el-poder-de-la-intencion/ ; /samskara/ ; /beneficios-practica-yoga-nidra/ ; /contraindicaciones-practica-yoga-nidra/ ; /que-necesitas-practicar-yoga-nidra/ ; /bibliografia-yoga-nidra/ ; /audios-practica-yoga-nidra/ ; /videos-yoga-nidra/ ; /en-prensa/ ; /sobre-mi/ ; /meditacion/ ; /y-mas/
-> - https://anasesmanuez.com/wp-content/uploads/2022/11/Revista-YOGA106-.pdf (AEPY magazine no. 106, her article "Yoga-Nidra, entre dos mundos", p. 14; same text as the Doce viajes introduction)
-> - https://www.larevistaintegral.net/yoga-nidra/ (interview by Mireia Recasens, 31 Dec 2021)
-> - https://www.sportlife.es/yoga-fit/mundo-yoga/entrevista-ana-sesma-autora-libro-yoga-nidra_250003_102.html (same interview, 24 Jan 2022)
-> - https://www.diaridetarragona.com/reus/Ana-Sesma-La-finalidad-ultima-del-yoga-es-descubrir-quien-soy-yo-20220106-0053.html (interview by Glòria Aznar, 6 Jan 2022; read via a fetch summary, so treat details as secondary)
-> - https://www.elvallenc.cat/opinio/opinio-montse-milian-el-somni-conscient/ (local column, 28 Nov 2021; via a fetch summary)
-> - https://www.yogaenred.com/2016/01/13/yoga-nidra-un-viaje-de-la-piel-al-alma/ (2016 article by Sesma & Jordi Isern Salvat, before the book)
-> - https://www.youtube.com/watch?v=xBrQQH16wUY (presentation of both books with Agustín Pániker, País Conscient, Barcelona, 28 Feb 2024; Spanish auto-captions read in full)
-> - https://www.ccma.cat/catradio/alacarta/lofici-de-viure/el-ioga-de-la-relaxacio-profunda/audio/1116848/ (Catalunya Ràdio, *L'ofici de viure*, 4 Dec 2021; audio transcribed by machine, see Confidence)
-> - Radio programme pages read for titles and dates only: https://www.rtve.es/play/audios/radiogramas/mas-yoga-ana-sesma-nuez-radiogramas/6218059/ ; https://www.rtve.es/play/audios/mes-que-esport/ana-sesma-yoga-nidra/6163741/ ; https://www.rtve.es/play/audios/espacios-liminales/espacios-liminales-entre-dos-mundos/16045199/
-> - https://dialnet.unirioja.es/ (searched for a scholarly review; none found)
-> - Tried but blocked or unavailable: cuerpomente.com interview (HTTP 403); YouTube captions for the 2021 Kairós launch talk (https://www.youtube.com/watch?v=UvozuD_V3Yc) and for her free practice videos (bot check); the RNE audio file (403); candrasuryayoganidra.wordpress.com (deleted by its authors).
+> **Basis of this summary:** Table of contents + publisher description + reviews + author interviews/talks (book itself not read).
+> In short: the TOC, synopsis and an erratum on the author's site; the publisher's page; her own web pages on the same topics; interviews; a 2024 talk; and a Catalunya Ràdio walkthrough (Dec 2021) in which short passages were read from the book. Google Books has no preview and I found no sample, so **no page of the book was read**.
+> Read for this summary: the full list is under "Sources read" at the end of the Confidence section.
+
+## In one paragraph
+A Spanish reference manual on yoga nidra by a Catalonia-based teacher trained in a Satyananda-derived school. During the 2020 lockdown she reworked almost six years of notes on her own practice and her workshop participants into this book. It explains, element by element, the classic stage sequence: initial relaxation, sankalpa, rotation of consciousness, breath and counting, pairs of opposites, *chidākāśa*, *saṃskāras*, visualization and the exit. Around that it adds:
+- a chapter on tension, stress and relaxation;
+- a long facilitator chapter on voice, setting, posture, falling asleep, children, therapy and mental illness;
+- a chapter of "biological considerations" on the brain, emotions and the conscious and unconscious minds;
+- eight annexes on Hindu concepts (mantra, cakra, yama/niyama, kośa, Vedānta psychology, samādhi), two Western references (Wilber and Tolle), and one complete practice.
+
+The audience is yoga teachers, beginners in relaxation and meditation, and general readers interested in well-being. The promise is twofold: deep, conscious relaxation that rests and regenerates, and a "journey to the depth of being" ending in the calm centre of oneself. The author calls this book the analytical half of a pair. Its intuitive, lyrical half is *Doce viajes*.
+
+---
 
 **Where to get it:**
 - **Publisher:** Editorial Kairós, Barcelona, series *Sabiduría perenne*, ref. 1052. Paperback with flaps, 13 × 20 cm, ISBN 978-84-9988-910-8 (€18.75 on the publisher's site, Oct 2026). EPUB without DRM, ISBN 978-84-9988-958-0 (€8.64).
-- **Dates and editions:** first edition **29 September 2021** (booksellers' catalogue data, Google Books ebook record, the author's site; Agustín Pániker of Kairós also says "end of 2021" in the 2024 talk). A 2nd edition corrected an error on p. 265 (date not seen; the Google Books print record dated 14 Feb 2022 may be it). The author's site announces a **3rd edition, February 2026**. I could not see whether the 3rd edition is revised. Open Library and Goodreads give 2022, which is why the registry has 2022.
+- **Dates and editions:** first edition **29 September 2021**, according to secondary catalogue data (Agapea and todostuslibros bookseller records, the Google Books ebook record) and the author's site; the publisher's page shows no date. Agustín Pániker of Kairós also says "end of 2021" in the 2024 talk. A 2nd edition corrected an error on p. 265 (date not seen; the Google Books print record dated 14 Feb 2022 may be it). The author's site announces a **3rd edition, February 2026**. I could not see whether the 3rd edition is revised. Open Library and Goodreads give 2022, which is why the registry has 2022.
 - **Name and subtitle check:** the author is **Ana Sesma Nuez** (given name Ana; Spanish double surname Sesma Nuez). Cite as "Sesma Nuez, Ana". Google Books shortens her to "Ana Sesma". The subtitle is **"Una guía para la relajación profunda"** on the publisher's page, Google Books and Open Library. Kairós styles the title *Yoga-nidra*; the author writes *Yoga-Nidra*.
 - **Prologue** by Vicente Merlo (philosopher and scholar of Hindu thought, also one of her teacher-trainers). Bookseller data list him as a co-contributor, probably for this reason.
 - **No free legitimate full text** and no preview found.
@@ -45,18 +37,9 @@
 
 **Length / format:**
 - 352 pp. (catalogue data say 354).
-- Eight chapters plus eight annexes. One annex is a complete sample practice.
+- Six numbered chapters, framed by an opening heading ("Yoga-Nidra, el viaje comienza") and an unnumbered closing section ("El viaje termina hasta la próxima etapa…"), plus eight annexes (one a complete sample practice).
 - She says the annexes also give the Sanskrit mantras for *nyāsa*, which she spent years tracking down.
 - Mostly theory and facilitator guidance. Full scripts are in *Doce viajes*.
-
-## In one paragraph
-A Spanish reference manual on yoga nidra by a Catalonia-based teacher trained in a Satyananda-derived school. During the 2020 lockdown she reworked almost six years of notes on her own practice and her workshop participants into this book. It explains, element by element, the classic stage sequence: initial relaxation, sankalpa, rotation of consciousness, breath and counting, pairs of opposites, *chidākāśa*, *saṃskāras*, visualization and the exit. Around that it adds:
-- a chapter on tension, stress and relaxation;
-- a long facilitator chapter on voice, setting, posture, falling asleep, children, therapy and mental illness;
-- a chapter of "biological considerations" on the brain, emotions and the conscious and unconscious minds;
-- eight annexes on Hindu concepts (mantra, cakra, yama/niyama, kośa, Vedānta psychology, samādhi), two Western references (Wilber and Tolle), and one complete practice.
-
-The audience is yoga teachers, beginners in relaxation and meditation, and general readers interested in well-being. The promise is twofold: deep, conscious relaxation that rests and regenerates, and a "journey to the depth of being" ending in the calm centre of oneself. The author calls this book the analytical half of a pair. Its intuitive, lyrical half is *Doce viajes*.
 
 ## Structure
 The author posted this table of contents on her own site. Chapter titles are translated here; the Spanish wording follows in brackets where useful. I have not seen page numbers.
@@ -68,7 +51,7 @@ The author posted this table of contents on her own site. Chapter titles are tra
   3. **Relaxation:** Tension vs. stress; What relaxation is
   4. **Phases and elements of Yoga-Nidra** (*Fases–elementos*): Initial physical relaxation; Sankalpa; Rotation of consciousness; Breath observation and counting; Pairs of opposites: polarity; *Cidakasa*, the mental screen; The *samskara*; Visualization; How to come out of a Yoga-Nidra
   5. **Practical considerations for the facilitator:** The instructions; The teacher's or facilitator's voice; Place, atmosphere, conditions, clothing, regularity and time of day; Posture; Avoiding falling asleep (*Evitar caer dormido*); Physical discomfort; The breath; Obstacles to practice; Points to remember; Yoga-Nidra and children; Benefits; Yoga-Nidra as therapy; Yoga-Nidra and harmonizing the pranic flow; Yoga-Nidra and mental illness
-  6. **Biological considerations and curiosities:** On the brain, the nervous system and the world of emotions; Psychology in Yoga and Vedānta; Conscious and subconscious; Levels of Yoga-Nidra related to brain activity; The unconscious
+  6. **Biological considerations and curiosities:** On the brain, the nervous system and the world of emotions; Psychology in Yoga and Vedānta / Conscious and subconscious (the author's site runs these together as one entry, "Psicología en el Yoga y Vendanta. Consciente y subconsciente", spelling it *Vendanta*; whether the book has one heading or two is unclear); Levels of Yoga-Nidra related to brain activity; The unconscious
 - **Yoga-Nidra: the journey ends until the next stage of this fascinating voyage**
 - **Annexes:** Mantra; Cakra; Yama and niyama; Sheaths of being (*kośa*); Vedānta psychology; *Samādhi*, the state of supraconsciousness; Two Western references: Wilber and Tolle; Example of a complete practice
 - Bibliography
@@ -93,16 +76,16 @@ The author posted this table of contents on her own site. Chapter titles are tra
   - Swami Sivananda and Swami Satyananda restructured the original practice; she says she comes "from a school of Satyananda's line".
   - Western teachers then dropped the most complex element, a mantra recited at each body part, as impossible for practitioners here, and added other elements.
   - The mantras themselves are in her annex.
-- **Mythology as a frame.** The cover shows Viṣṇu asleep in yoga nidra on the serpent Ananta-Śeṣa (a relief from the Daśāvatāra temple). She tells the myth in interviews, with Brahmā on the lotus from Viṣṇu's navel and Lakṣmī waking him. Her site adds the goddess of the *Devī Māhātmya* watching over Viṣṇu's sleep, and Sheldrake's line that "the world is the dream of Viṣṇu".
+- **Mythology as a frame.** The cover shows Viṣṇu asleep in yoga nidra on the serpent Ananta-Śeṣa (a relief from the Daśāvatāra temple). She tells the myth in interviews, with Brahmā on the lotus from Viṣṇu's navel and Lakṣmī waking him. Her site adds the Supreme Goddess Śrī Nārāyaṇī ("La Diosa Suprema Sri Narayani") at his feet, watching over Viṣṇu's sleep so that it becomes an awakening (the *Devī Māhātmya* figure; my identification, not the site's), and Sheldrake's line that "the world is the dream of Viṣṇu".
 - **Biology and "the subconscious".** Chapter 6 has a section relating "levels of yoga nidra" to brain activity (content not seen; her website talks of alpha, theta and delta). It discusses the conscious and subconscious minds; according to Merlo's endorsement, it also covers "the three brains", neuroplasticity and epigenetics. On the radio she explained her "three brains" as head, heart and gut: a sankalpa should be formulated with all three. That is the popular "heart brain / gut brain" idea, not MacLean's triune brain.
   - **The 20-million-versus-40 claim.** The erratum she published shows the book repeating that the subconscious processes about 20 million stimuli per second and the conscious mind 40. That figure is a popular claim that matches Bruce Lipton's *Biology of Belief*, which is in her bibliography (my identification). On air she linked it to childhood material kept "in the dark" for protection.
   - **Subconscious versus unconscious.** A passage read on air says that in Indian psychology the two are not synonyms: the subconscious sits in the subtle (astral) body and the unconscious in the causal body. She glossed the unconscious as transpersonal: the "memory of all nature" (Sheldrake), of one's family system and of one's people.
   - **Autosuggestion.** The host read a line from p. 86: if we persuade ourselves we can do something, provided it is possible, we will do it however difficult. That is Émile Coué's well-known maxim (my identification; I don't know whether the book credits him; see `coue1922`). She tied it to Dispenza, Lipton, and placebo and nocebo.
 - **Caution and the precautionary principle.**
   - **Avoid** the practice with serious psychiatric disorders (schizophrenia, deep depression), epilepsy or drug use.
-  - **Take care** during grief.
+  - **Grief:** her *saṃskāra* page goes further than "take care": it calls the practice not advisable, even contraindicated, when a person is mentally or emotionally vulnerable, for example during grief (*duelo*), severe mental illness or epilepsy (/samskara/).
   - **Screen** students in a prior interview, and watch them throughout each session.
-  - This comes from her contraindications page, the Diari de Tarragona interview and the radio interview. There she gave her reason for excluding epilepsy: seizures can reportedly come on in deep relaxation. The host noted that the book repeats the call for caution several times, and it has a section on mental illness.
+  - The avoid list and screening come from her contraindications page, the Diari de Tarragona interview and the radio interview (none of these three mentions grief). On the radio she gave her reason for excluding epilepsy: seizures can reportedly come on in deep relaxation. The host noted that the book repeats the call for caution several times, and it has a section on mental illness.
 - **Personal and social transformation.** Her synopsis of the book: collective change in a society "sick with stress" requires individual transformation first. Interviews add a closing invitation to sceptics: believe nothing, explore for yourself.
 
 ## The practice as this book teaches it
@@ -122,7 +105,7 @@ The author posted this table of contents on her own site. Chapter titles are tra
 | 9 | **Sankalpa again** (not a separate TOC heading) | Her image is gardening: the whole session prepares the soil, and at the end you plant the seed. The first repetition, lying down, is just becoming aware of the sankalpa, then letting it "fly". At the end, "when the soil is ready", repeat it again, passing it through body, breath and emotion, and add an image, the subconscious's language. "And here yoga nidra closes" (*radio*). Optionally, begin seated with a guided turn to the heart space to find "what your soul longs for at this moment of your life" (*radio*). | Same as Satyananda's closing sankalpa. She adds the image and the heart-space search. |
 | 10 | **How to come out of a Yoga-Nidra** | Coming out is "part of the journey": you put the layers back on one by one, and slowly, because the sympathetic nervous system has been damped down and must re-engage gradually (*radio*). In the 2024 demonstration: deepen the breath "when it is your moment"; let hearing open to outside sounds, then the other senses one by one (contact, temperature, smells, tastes); cover your face with your hands and blink inside them before opening the eyes; keep the inner space alive. | Satyananda: slow externalization, never abrupt. The hands-over-eyes step is hers (or her school's). |
 
-**Length.** Not seen for the book. Her free seated relaxation is 15 minutes. Her 2024 public demonstration (seated, shortened) lasted about 10 minutes.
+**Length.** The book's own timings are not seen. Her full yoga nidra recordings run about 22–56 minutes; "Automaternaje", which she describes as one of the *Doce viajes* journeys, is 27:29 (see `reading/sesma2024.md`). Shortened formats: her free seated relaxation is 15 minutes, and her 2024 public demonstration (seated, shortened) lasted about 10 minutes.
 
 **Letting go.** She says letting go runs through every stage "from the first sentence": in *śavāsana* the earth holds the body, and there is nothing to do. A Richard Miller line was read on air, apparently from the book: resisting change feeds chronic stress, anxiety and insomnia. She sets acceptance ("not resignation") and welcoming whatever comes against craving and aversion (*rāga* and *dveṣa*) (*radio*).
 
@@ -140,13 +123,17 @@ The author posted this table of contents on her own site. Chapter titles are tra
 - **Ellipses as pauses.** She explains in the 2024 talk that each ellipsis in *Doce viajes* is a reminder to notice where the mind is.
 - **The theory volume** is described by a Goodreads reader as "completely theoretical". Expect explanatory prose, not script.
 
-**How a stage is guided (paraphrase of the 2024 demonstration, heart-space section).** After grounding through the feet and seat, attention slides to the space behind the breastbone. Breathe as if through the sternum straight into the heart, without changing anything. Notice whether the space widens or warms. Then ask what happens if the soul "surrenders" there, and let that feeling spread to every pore and cell, "recorded" as a calm centre you can return to.
+**How a stage is guided: breath and counting (paraphrase of her spoken account on Catalunya Ràdio, Dec 2021; not the printed text).** Having set the body aside like the outer doll of a matryoshka, you "discover" the breath: notice that the body is breathing by itself and feel each inhalation and each exhalation without changing them. She adds that this phase can be guided in many ways. Then the practitioner is invited to count the breaths backwards from a number such as 27, so that the mind is "caught" between watching and counting. Once that has been seen, the breath too is set aside and the pairs of opposites begin. (Whether the book counts each inhalation and exhalation separately, as some Bihar scripts do, is not seen.)
+
+**A second example: closing sankalpa (same radio account).** The whole session prepares the soil; the sankalpa is the seed. At the start it is only noticed and let go; at the end, "when the soil is ready", it is repeated again with body, breath and emotion, plus an image, and the practice closes.
+
+**A third example (paraphrase of the 2024 demonstration, heart-space section; a shortened seated format, not one of the book's ten stages).** After grounding through the feet and seat, attention slides to the space behind the breastbone. Breathe as if through the sternum straight into the heart, without changing anything. Notice whether the space widens or warms. Then ask what happens if the soul "surrenders" there, and let that feeling spread to every pore and cell, "recorded" as a calm centre you can return to.
 
 ## What's distinctive
 - **The fullest Spanish-language synthesis.**
   - It gathers the Bihar, Himalayan, Indian-academic (Panda, Kumar), iRest and French (Riehl, Descamps) strands with Spanish teachers (Blay, Olalla, Blanc, Werlen).
   - The author says she translated much of this from English and French.
-  - Nothing else in the project registry does this for Spanish readers.
+  - It is the only Spanish-language yoga nidra manual in the project registry. Compared with Bonnasse (French) and Dinsmore-Tuli (English), it is unusual in merging Bihar, Himalayan, iRest and Riehl/French sources in one book.
 - **A facilitator's manual inside a general book.** Chapter 5 covers voice, setting, falling asleep, discomfort, obstacles, children, therapy and mental illness, with a precautionary principle and a screening interview. This is closer to a teacher-training handout than most trade books.
 - ***Saṃskāra* as a named phase**, and sankalpa framed as reprogramming "limiting beliefs".
 - **The nyāsa mantras in Sanskrit** (annex), which no other summarized book reports offering.
@@ -177,14 +164,15 @@ The author posted this table of contents on her own site. Chapter titles are tra
   - **US Army research said to "demonstrate effectiveness"** (it was feasibility and pilot work);
   - **the 20-million-versus-40 stimuli claim** (p. 265);
   - **"three brains" (head, heart, gut)**;
-  - **"intention" science** from Dispenza, Lipton and Bonilla.
+  - **"intention" science** from Dispenza, Lipton and Bonilla;
+  - **sleep equivalence:** I did not find the common "1 hour of yoga nidra = 4 hours of sleep" line on the pages and interviews I re-checked (benefits, what-is, research and contraindication pages; *La Revista Integral* interview; my Catalunya Ràdio transcript). Her benefits page does list "reduces the need for sleep". Verify in ch. 5 ("Benefits"), and compare `06` §6.3 and `08` §11 ("What should you promise?").
 
   The 2025–26 meta-analyses suggest "better than nothing, about as good as other relaxation" (`06` §6.0).
 - **The history follows the lineage.** It presents *nyāsa* as the "ancestral origin" and "ancient techniques passed from master to disciple". Nothing I saw cites Birch & Hargreaves, Singleton, Boyes or the Western relaxation roots, although she teaches Jacobson's method herself. Verify in the "Historical introduction".
 - **Eclecticism.** Sheldrake's morphic memory, the Hermetic laws, family-constellation "loyalties" and New Thought-style intention work sit alongside the yoga sources without critical distance. Readers outside the Spanish holistic scene may find this jarring.
 - **Reception is thin and mostly friendly.**
   - **Goodreads:** 4 ratings, average 3.25 (Oct 2026; the brief's 4.67 is out of date).
-  - **Agapea:** four glowing reader reviews in the first weeks. One praises "the reward for 6 years of work", which suggests readers close to the author.
+  - **Agapea:** four short, positive reader reviews (Oct–Nov 2021; 7 ratings in all, plus an entry with no text dated March 2024). One praises "the reward for 6 years of work", which suggests readers close to the author; another is milder ("an interesting book" for practitioners).
   - **Press:** coverage consists of interviews and a local column, with no critical or scholarly review. Dialnet has none.
   - **Steady demand:** three editions in four and a half years points to steady sales in Spain.
 - **Not translated.** It is only useful if you read Spanish.
@@ -195,7 +183,7 @@ The author posted this table of contents on her own site. Chapter titles are tra
 - **Safety practice.**
   - A short intake conversation before the first session.
   - Watching students throughout.
-  - A precautionary list (psychosis, severe depression, epilepsy, drug use, acute grief).
+  - A precautionary list (psychosis, severe depression, epilepsy, drug use, acute grief; on grief see her /samskara/ page).
   - Framing *saṃskāra* material as something to witness, not chase.
 
   Present the list as precaution, not as proven contraindication, and add trauma-sensitive options (`07`).
@@ -213,17 +201,18 @@ The author posted this table of contents on her own site. Chapter titles are tra
 - **Skip the Hindu-concepts annexes and the Wilber and Tolle chapter** as sources. Go to primary or scholarly texts.
 
 ## Short quotes (optional, max 2, each under 25 words, with page if known)
-- "Relajarse conscientemente es ir más allá del cuerpo, de los sentidos, de la mente que parece dominarlo todo…" ["To relax consciously is to go beyond the body, the senses, the mind that seems to rule everything…"] — Sesma Nuez, the synopsis of the book on her own site (not the publisher's blurb; whether it is printed in the book, and where, is not known).
+- "Relajarse conscientemente es ir más allá del cuerpo, de los sentidos, de la mente que parece dominarlo todo…" ["To relax consciously is to go beyond the body, the senses, the mind that seems to rule everything…"] — Sesma Nuez, synopsis of the book on her own website, https://anasesmanuez.com/libro-yoga-nidra-una-guia/ (the sentence continues after the ellipsis). This is website text, not a verified quotation from the book: whether it is printed in the book, and where, is not known.
 - "No creáis nada, nada de lo que os cuento, explorad y sacad vuestro propio criterio de vuestra propia experiencia." ["Believe nothing, nothing I tell you; explore and form your own judgement from your own experience."] — Sesma Nuez, interview with Mireia Recasens, *La Revista Integral*, 31 Dec 2021.
 
 ## Confidence
 - **Certain (seen directly):**
-  - Publication data: ISBNs, series, size, price, first-edition date, a 3rd edition in Feb 2026.
+  - Publication data from the publisher's page: ISBNs, series, size, price. The author's site announces a 3rd edition (Feb 2026).
   - The author's full name and the subtitle.
   - The full table of contents, the acknowledgements and the p. 265 erratum (author's site).
   - The publisher's description; the author's biography and training.
   - The *Doce viajes* data and table of contents.
   - The reader reviews; the 2024 talk.
+- **From secondary catalogue data:** the first-edition date, 29 Sept 2021 (Agapea and todostuslibros records, Google Books ebook record, the author's site); the publisher's page gives no date.
 - **From the author's own web pages, interviews and talks (her views, but not necessarily the book's wording):**
   - the contents of each stage;
   - her sankalpa rules and examples;
@@ -242,3 +231,25 @@ The author posted this table of contents on her own site. Chapter titles are tra
   - **Annexes:** the complete sample practice; the nyāsa mantras.
   - **Third edition:** whether the 2026 edition updates the research.
 - **Registry corrections:** the year should be **2021** (first edition, 29 Sept 2021), not 2022. The full title is *Yoga-nidra: una guía para la relajación profunda*. The prologue is by Vicente Merlo. The lineage is "Satyananda-derived via IYTA Spain", from the author's own statement.
+- **Sources read:**
+  - https://www.editorialkairos.com/catalogo/p/yoga-nidra (publisher page)
+  - https://www.editorialkairos.com/autores/ana-sesma-nuez (publisher author page)
+  - https://www.editorialkairos.com/catalogo/p/doce-viajes and https://www.editorialkairos.com/s/DoceViajes-info.pdf (companion volume; publisher press kit)
+  - https://books.google.com/books?vid=ISBN9788499889580 → https://books.google.com/books?id=YG9CEAAAQBAJ (ebook record, no preview; search-inside returns nothing) and https://books.google.com/books?vid=ISBN9788499889108 (print record)
+  - https://openlibrary.org/works/OL26586023W (and its editions list)
+  - https://www.todostuslibros.com/libros/yoga-nidra_978-84-9988-910-8 (Spanish booksellers' catalogue, fed by publisher data)
+  - https://www.agapea.com/Vicente-Merlo-Lillo/Yoga-nidra-9788499889108-i.htm (bookseller; reader reviews)
+  - https://www.goodreads.com/book/show/59486436-yoga-nidra and https://www.goodreads.com/book/show/199627011-doce-viajes (reception only)
+  - Author's site: https://anasesmanuez.com/ ; /libro-yoga-nidra-una-guia/ (table of contents, synopsis, acknowledgements, erratum) ; /libros-yoga-nidra/ ; /libro-doce-viajes-yoga-nidra/ ; /entre-dos-mundos/ ; /que-es-yoga-nidra/ ; /relajacion/ ; /tension-vs-estres/ ; /estudios-cientificos-yoga-nidra/ ; /sankalpa-el-poder-de-la-intencion/ ; /samskara/ ; /beneficios-practica-yoga-nidra/ ; /contraindicaciones-practica-yoga-nidra/ ; /que-necesitas-practicar-yoga-nidra/ ; /bibliografia-yoga-nidra/ ; /audios-practica-yoga-nidra/ ; /videos-yoga-nidra/ ; /en-prensa/ ; /sobre-mi/ ; /meditacion/ ; /y-mas/
+  - https://anasesmanuez.com/wp-content/uploads/2022/11/Revista-YOGA106-.pdf (AEPY magazine no. 106, her article "Yoga-Nidra, entre dos mundos", printed p. 14 (= PDF p. 13; folio "14 YOGA" checked); same text as the Doce viajes introduction)
+  - https://www.larevistaintegral.net/yoga-nidra/ (interview by Mireia Recasens, 31 Dec 2021)
+  - https://www.sportlife.es/yoga-fit/mundo-yoga/entrevista-ana-sesma-autora-libro-yoga-nidra_250003_102.html (same interview, 24 Jan 2022)
+  - https://www.diaridetarragona.com/reus/Ana-Sesma-La-finalidad-ultima-del-yoga-es-descubrir-quien-soy-yo-20220106-0053.html (interview by Glòria Aznar, 6 Jan 2022; read via a fetch summary, so treat details as secondary)
+  - https://www.elvallenc.cat/opinio/opinio-montse-milian-el-somni-conscient/ (local column, 28 Nov 2021; via a fetch summary)
+  - https://www.yogaenred.com/2016/01/13/yoga-nidra-un-viaje-de-la-piel-al-alma/ (2016 article by Sesma & Jordi Isern Salvat, before the book)
+  - https://www.youtube.com/watch?v=xBrQQH16wUY (presentation of both books with Agustín Pániker, País Conscient, Barcelona, 28 Feb 2024; Spanish auto-captions read in full)
+  - https://www.ccma.cat/catradio/alacarta/lofici-de-viure/el-ioga-de-la-relaxacio-profunda/audio/1116848/ (Catalunya Ràdio, *L'ofici de viure*, 4 Dec 2021; audio transcribed by machine, see Confidence)
+  - Radio programme pages read for titles and dates only: https://www.rtve.es/play/audios/radiogramas/mas-yoga-ana-sesma-nuez-radiogramas/6218059/ ; https://www.rtve.es/play/audios/mes-que-esport/ana-sesma-yoga-nidra/6163741/ ; https://www.rtve.es/play/audios/espacios-liminales/espacios-liminales-entre-dos-mundos/16045199/
+  - https://dialnet.unirioja.es/ (searched for a scholarly review; none found)
+  - Tried but blocked or unavailable: cuerpomente.com interview (HTTP 403); YouTube captions for the 2021 Kairós launch talk (https://www.youtube.com/watch?v=UvozuD_V3Yc) and for her free practice videos (bot check); the RNE audio file (403); candrasuryayoganidra.wordpress.com (deleted by its authors).
+  - Re-checked during revision (Oct 2026): https://anasesmanuez.com/samskara/ (grief wording); /que-es-yoga-nidra/ (Sri Narayani); /libro-yoga-nidra-una-guia/ (TOC layout); /beneficios-practica-yoga-nidra/ ; /contraindicaciones-practica-yoga-nidra/ ; /estudios-cientificos-yoga-nidra/ ; the *La Revista Integral* interview; the Agapea page (review dates and rating count); the AEPY PDF pp. 12–14 (printed folio); my Catalunya Ràdio transcript (breath stage).

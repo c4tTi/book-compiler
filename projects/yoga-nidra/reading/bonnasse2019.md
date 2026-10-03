@@ -2,59 +2,15 @@
 
 *Title spellings vary: "Yoga-nidrā" (BnF), "YOGA-NIDRĀ" (cover), "Yoga-Nidrâ" (Google Books print record), "Yoga-Nidra" (publisher, Sudoc). It is the same book. The subtitle translates as "108 practices to combine in order to awaken to the infinite". It has not been translated; no translation is listed on the author's site.*
 
-> **Basis of this summary:** Secondary only. **The book itself was not read, and I did not see a table of contents.** There is no Google Books preview ("Aucun aperçu disponible"), no Open Library record, and every retailer page that might carry a "look inside" sample blocked automated access. What I did read:
-> - the publisher's description (back-cover text) and product details;
-> - the BnF and Sudoc catalogue records;
-> - the author's own book page and bibliography;
-> - a passage of about 600 words by Bonnasse, posted on 12 June 2019 by his friend José Le Roy on Le Roy's blog with the book's announcement. It is apparently from the book's opening pages, but this is not confirmed;
-> - the author's July 2019 "carte blanche" in *Esprit Yoga* (a scan on his site);
-> - the pages of his school, Rishi Yoga Shala, which uses the book as the main text of its 120-hour training, including the training's detailed programme;
-> - one Goodreads reader review.
->
-> I also re-used my summary of his 2015 book (`reading/bonnasse2015fr.md`) for the comparison.
->
-> Read for this summary:
-> - https://www.nidra-yoga.com/biblio-livres/yoga-nidra-108-pratiques/ → redirects to https://www.pierrebonnasse.com/biblio-livres/yoga-nidra-108-pratiques/ (author's book page: description, press quotes)
-> - https://www.editions-tredaniel.com/yoga-nidra-p-8054.html (publisher's page in the Trédaniel group: description, details, print status, links to ebook retailers, "in the media" tab)
-> - https://www.editions-tredaniel.com/download/pack_imgs_978-2-86681-224-9.zip (publisher's press image pack: front cover only)
-> - https://books.google.com/books?vid=ISBN9782866812249 and https://books.google.com/books?id=AAh0xQEACAAJ (print record, no preview)
-> - https://books.google.com/books?vid=ISBN9782866813024, https://books.google.com/books?id=B8OWDwAAQBAJ (and a search-inside attempt with `&q=sankalpa`) and https://books.google.com/books?id=r_iIEAAAQBAJ (ebook records, no preview, no searchable text)
-> - https://catalogue.bnf.fr/ark:/12148/cb457389817 and the BnF SRU record for ISBN 9782866812249 (UNIMARC)
-> - https://www.sudoc.fr/services/isbn2ppn/9782866812249 and https://www.sudoc.fr/236657062.xml (Sudoc record)
-> - https://openlibrary.org/search.json?q=bonnasse+yoga (no record of this book)
-> - https://www.librest.com/livres/yoga-nidra-108-pratiques-a-conjuguer-pour-s-eveiller-a-l-infini-pierre-bonnasse_0-5634564_9782866812249.html (bookseller: details, availability, author bio)
-> - https://itunes.apple.com/lookup?isbn=9782866813024&country=fr and https://books.apple.com/fr/book/yoga-nidra-108-pratiques-%C3%A0-conjuguer-pour-s%C3%A9veiller/id6443399378 (ebook details)
-> - https://www.goodreads.com/book/show/70782718 and https://www.goodreads.com/book/show/50217289 (reception only)
-> - https://eveilphilosophie.canalblog.com/archives/2019/06/12/37424368.html (José Le Roy, "Yoga-nidra par Pierre Bonnasse", 12 June 2019: announcement plus a long passage by Bonnasse, and two reader comments)
-> - https://www.pierrebonnasse.com/biblio-articles-entretiens/l-acceptation-joyeuse/ (scan of *Esprit Yoga* no. 50, July 2019, p. 82)
-> - https://www.pierrebonnasse.com/publications/livres/ ; https://www.pierrebonnasse.com/publications-de-pierre-bonnasse/ ; https://www.pierrebonnasse.com/publications/articles-and-entretiens/ ; https://www.pierrebonnasse.com/publications/collection-yoga-interieur/ ; https://www.pierrebonnasse.com/biblio-livres/ ; https://www.pierrebonnasse.com/biblio-livres/yoganidra-la-legende-de-la-deesse/ ; https://www.pierrebonnasse.com/formations-de-yoga/ ; https://www.pierrebonnasse.com/yoga-nidra/ ; https://www.pierrebonnasse.com/citations-diverses/ (author's site; /brouillons/ and /nouvelle-page-1/ were also opened and had nothing relevant)
-> - https://www.editions-tredaniel.com/yoganidr257-p-11220.html (publisher's page for his 2023 follow-up book)
-> - https://www.rishiyogashala.com/mediatheque/yoga-nidra-108-pratiques/ ; https://www.rishiyogashala.com/formation-yoga-inde/formation-yoga-nidra-inde-francais/ ; https://www.rishiyogashala.com/formation-yoga-inde/formation-nidra-inde/ (detailed 120-hour programme) ; https://www.rishiyogashala.com/formations-stages-yoga-pyrenees/formation-yoga-nidra-france/ ; https://www.rishiyogashala.com/mediatheque/articles/ ; https://www.rishiyogashala.com/mediatheque/yn-fete-sommeil-article-pb/ (author's school)
-> - https://www.esprityoga.fr/wp-json/wp/v2/posts?search=bonnasse (the magazine's own post listing) and https://www.esprityoga.fr/pierre-bonnasse-le-but-du-yoga-est-de-reconnaitre-cette-conscience-qui-contient-tout/ (2022 interview about the Devī Gītā; nothing on this book)
-> - https://www.inexplore.com/magazines/Inexplore-55 (issue page; the 2022 yoga nidra feature with Bonnasse is summarised in one line only)
-> - **Tried but blocked or unavailable:**
->   - Bot protection (HTTP 403 / 429 / challenge pages): numilog.com, numerique.mollat.com, decitre.fr, placedeslibraires.fr, kobo.com, livre.fnac.com, play.google.com, gibert.com, lalibrairie.com, 7switch.com, amazon.fr.
->   - Babelio and leslibraires.fr: errors.
->   - livresbouddhistes.com, where Zuihô's review appeared: the domain is now parked, and the Wayback Machine index was blocked by the egress policy.
+> **Basis of this summary:** Secondary only. **The book itself and its table of contents were not seen.** Sources: the publisher's description, library catalogues (BnF, Sudoc), a passage of about 600 words by Bonnasse posted on a friend's blog, the programme of the training built on the book, the author's site, and one reader review.
+> Read for this summary: full list of URLs opened, and of sites that blocked access, under **Confidence** at the end.
 
 **Where to get it:**
-- **Print:**
-  - Les Deux Océans, Paris, in the series "Yoga intérieur" (ISSN 2263-9993). Bonnasse created this series in 2012 and directs it (his site; Librest's author note).
-  - Legal deposit 2019; on sale 21 May 2019 (Google Books, Librest). The publisher says "mai 2019".
-  - Paperback, ISBN 978-2-86681-224-9, €18. Printed by Corlet numeric (BnF).
-  - **Print status:** the publisher's page reads "En Rupture… Non disponible (en version papier)", and Librest says "Indisponible". Treat the print edition as out of stock. Find it second-hand or in libraries: the BnF and three Sudoc libraries hold it (OCLC 1105630387).
-- **Ebook:**
-  - ISBN 978-2-86681-302-4, dated 15 May 2019, 399 e-pages. It costs €10.99 on Apple Books (France).
-  - Google Books lists the ebook under the Dervy imprint, a Trédaniel sister imprint, with "Deux Océans" shown as the series.
-  - The publisher links to Kindle (ASIN B07RM1K2DW), Fnac/Kobo, Numilog and Mollat.
-- **Publisher check (as the brief asked):** the publisher is **Les Deux Océans (Paris), confirmed** by the BnF, Sudoc, the publisher's site and Google Books.
-- **Page count check:**
-  - 542 pp. (BnF, Sudoc, Google Books, Librest)
-  - 544 pp. (the publisher's own page)
-  - 533 (Goodreads, unreliable)
-  - Cite **542 pp.**, and use print pagination, not the ebook's 399.
-- **Free full text:** no legitimate free full text exists, and there is no preview.
-- **Audio:** none found.
+- **Print:** Les Deux Océans, Paris, May 2019, series "Yoga intérieur" (which Bonnasse directs). ISBN 978-2-86681-224-9, €18. **Out of stock** at the publisher; look second-hand or in libraries (BnF and Sudoc libraries hold it). Cite **542 pp.** (BnF, Sudoc); the publisher says 544.
+- **Ebook:** ISBN 978-2-86681-302-4, €10.99 (Apple Books France). The publisher links to Kindle (ASIN B07RM1K2DW), Fnac, Numilog and Mollat.
+- **Free full text:** none legitimate; no Google Books preview.
+- **Audio:** no companion audio, and no recorded yoga nidra sessions by Bonnasse found (see Tradition / lineage).
+- **Translations:** none.
 
 **Tradition / lineage:** Independent, French-language, and non-dual. It is not Bihar-affiliated. The publisher says the 108 practices come from "yoga, vedanta, tantra et bouddhisme". The author's wider work and school point to these sources:
 - **Advaita Vedānta.** His series publishes Siddharameshwar, Nisargadatta and Ganapatrao Maharaj, and he names Ramana Maharshi.
@@ -62,10 +18,12 @@
 - **The Himalayan tradition.** His series published Swami Rama's autobiography in French in 2021.
 - **Sri Anirvan:** his *Antara Yoga* is one of the three favourite books Bonnasse names in *Esprit Yoga* 2019.
 
-He co-founded Rishi Yoga Shala (Rishikesh and the Pyrenees). The school says its yoga nidra training is validated by the Fédération Française des Écoles de Yoga.
+**About the author** (his own site's bio; no independent check): essayist, poet and translator from English and Sanskrit; zazen from adolescence via martial arts; studied Lettres and taught poetry at the Sorbonne; then several years as trainer and director of studies at a **sophrology school**; studied with "various masters and teachers" (none named in the bio), visiting India yearly and settling there in 2015. He co-founded Rishi Yoga Shala (Rishikesh, with Karina Bharucha, 2015; also teaching April–September in the Pyrenees). The school says its yoga nidra training is validated by the Fédération Française des Écoles de Yoga. He directs the Les Deux Océans series and advises the Trédaniel group on India titles. No formal teaching credentials beyond these are stated.
+
+**Hearing his voice:** I found **no guided yoga nidra recordings** by Bonnasse on his site (pierrebonnasse.com), on Rishi Yoga Shala's *médiathèque* page, or in a YouTube search for his name with "yoga nidra" (October 2026). The *médiathèque* offers only (a) *Śrī Yoganidrā Stotram* (2020), a devotional album of Sanskrit hymns he compiled, sung by Amit Dhiman and on the usual streaming platforms, and (b) an embedded video report ("Reportage"), "La mystique du 108", hosted on another person's YouTube channel, in which he discusses the number 108 (not watched). Neither is a sample of how he guides a session.
 
 **Length / format:**
-- 542 pp. paperback, 19 cm (124 × 188 mm per the publisher).
+- 542 pp. paperback, 19 cm (124 × 188 mm per the publisher); ebook 399 e-pages, so use print pagination.
 - The BnF records "ill." (illustrations); Sudoc records only a colour-illustrated cover.
 - Bibliography at pp. 521–534 (BnF), or pp. [521]–529 (Sudoc), plus a glossary.
 - 108 practices "in the form of guided meditations", plus contextual and theoretical chapters.
@@ -76,7 +34,7 @@ The publisher calls this "the most complete work to date" on yoga nidra; treat t
 - **The library:** 108 short exercises written as guided meditations and drawn from yoga, Vedānta, tantra and Buddhism. Each can be practised **on its own**, sitting or lying, at any time of day or night. They are also meant to be **"conjugated"**: combined, by a method the book explains, into one's own yoga nidra sessions, with "an infinity" of possible combinations.
 - **The theory:** the book places yoga nidra in its traditional, mythological and philosophical setting, drawing on ancient texts, "modern research" and the author's own experience.
 - **Readers:** it is written for yoga and meditation practitioners. It is also the main study text of the author's 120-hour yoga nidra teacher training, so in practice it is a **teacher's manual**.
-- **The promise is spiritual, not clinical:**
+- **The promise, as the publisher states it, is spiritual rather than clinical** (but see Strengths: the school's training built on the book also covers therapeutic uses):
   - The book claims that cultivating deep relaxation, "attention without tension", discernment, letting go and detachment leads to effortless acceptance of whatever happens.
   - It also claims to lead beyond suffering, and to recognition of the unchanging Self that pervades and transcends waking, dreaming and deep sleep.
   - Death is then no longer feared as an end, but felt as a reminder of the joy of being alive.
@@ -100,6 +58,8 @@ The publisher calls this "the most complete work to date" on yoga nidra; treat t
   - Preparing for sleep and death; śavāsana/mṛtāsana.
   - "Passages, gaps & in-betweens" (sexual ecstasy, fainting, falling asleep, waking).
   - "Micro-practices, creativity & building sessions".
+  - "Yoga-Nidrā appliqué à la thérapeutique & à la prévention" (yoga nidra applied to therapy and prevention), next to an item on Himalayan "dynamic meditation" described as a source of sophrology.
+  - The French-language training page adds a "Champs d'application" paragraph: therapeutic prevention, support for physical and mental disorders (stress, pain, illness, sleep disorders) and preparation for death.
   - The 112 practices of the *Vijñāna Bhairava Tantra*.
   - Texts studied: the Māṇḍūkya Upaniṣad (with *asparśa-yoga*), the Yogasūtra, the Gorakṣa-śataka and the Devī Gītā.
 
@@ -122,6 +82,12 @@ Sources for this section: the publisher's text, Le Roy's posted passage, the *Es
 - **Sources across traditions** (publisher, school). Vedānta and tantra sit next to Buddhist meditation (Vipassana, Zazen, Dzogchen in the training). Medieval yoga texts appear too: his site gives French translations, unattributed and presumably his own, of *Yogatārāvalī* 25–26 (yoganidrā as a concept-free, blissful sleep in the "fourth") and *Vijñāna Bhairava Tantra* 75 (awareness at the onset of sleep). Whether these verses appear in the book is likely but not verified.
 
 ## The practice as this book teaches it
+**No practice text seen; the stage table is inference.**
+
+**How to close this gap (for you, in a normal browser):** the retail "look inside" / sample pages for the ebook (Amazon Kindle ASIN B07RM1K2DW, Numilog, Apple Books) blocked automated access, so I could not see them; a human visitor normally can. Look first for (1) the chapter explaining the combining method (slots, order, timings), and (2) one complete practice, ideally the dissolution of the elements or listening to the inner sound, to judge his script voice and pacing against Satyananda, Lusk or Dinsmore-Tuli. If the sample stops before the practices, a library copy (BnF, Sudoc libraries) is the next route.
+
+**The only sample of his guiding language (Le Roy's posted passage, paraphrased):** it is teaching prose, not a script. It moves the reader from technique to recognition: first, true meditation is resting as open awareness, and body-scanning is only a stage most people pass through. Then it offers watching oneself fall asleep as the best setting, warns that trying to keep part of the mind awake is the ego at work and will fail, and closes by inviting the reader to notice that the awareness witnessing the body-mind fall asleep, dream or wake does not itself disappear. The tone is calm, second-person and expository, with no step numbering or timings.
+
 **Caution:** I have not seen a single practice or the combination method. This section separates what is **confirmed**, what is **reported** by the school or a reader, and what is my **inference** from the 2015 book.
 
 **The unit and the assembly (confirmed, publisher):**
@@ -164,6 +130,8 @@ Sources for this section: the publisher's text, Le Roy's posted passage, the *Es
 
 Together they *suggest*, but do not prove, that sankalpa is now optional or variable. The excerpt's "nothing to attain" stance also sits uneasily with a goal-type resolve. Check this in the book.
 
+If confirmed, his probable move to an optional or variable resolve places him on the "optional" side of debate 8 (`08` §8, "Sankalpa: necessary, optional or harmful?").
+
 **Sleep guidance.** This is the clearest thing known about the 2019 book:
 - falling asleep is welcomed as a field of observation;
 - effortful wakefulness is rejected as the ego trying;
@@ -201,7 +169,7 @@ Compare Miller's "awareness is present anyway" position (`08` §3). It is closer
 - **Grounded in texts.** A bibliography of about 9–14 pages and a glossary. The author translates Sanskrit himself (Devī Gītā 2021).
 - **Tested in teaching.** It is currently the core text of a 120-hour training. I did not find when that started.
 - **A more forgiving view of sleep than his 2015 book.** It answers the "I always fall asleep" problem philosophically, without abandoning the contemplative aim.
-- **Spiritual rather than clinical claims** (from what I could see), so it largely avoids the health overclaiming criticised in `06` §6.3.
+- **Mainly spiritual rather than clinical claims in the publisher's description**, which may help it avoid the health overclaiming criticised in `06` §6.3. But the school's training built on the book does cover therapeutic applications (a module on yoga nidra "applied to therapy & prevention"; stress, pain, illness, sleep disorders), and the author trained sophrologists, so clinical claims in the book itself **cannot be ruled out**.
 
 **Limitations / critiques**
 - **No independent critical review found.** The reception I could find:
@@ -239,7 +207,8 @@ Compare Miller's "awareness is present anyway" position (`08` §3). It is closer
 - **Don't promise "infinite combinations".** Give rules instead: which slots are required, which are optional, maximum lengths, and what never to combine (e.g. no death contemplation in a 10-minute bedtime practice; no breath retention for anxious, pregnant or cardiac students).
 - **Frame the non-dual metaphysics as one option.** If your readers include secular or clinical students, offer the "recognise awareness" language as one way of putting it, alongside rest-based and body-based language (`08` §4).
 - **Death and dissolution practices** need an explicit opt-out, grief and trauma notes, and should not be the default (`07`).
-- **Don't use it as a source for history or research** until you have read those chapters and checked them against `01` and `06`. Treat any "ancient" or "proven" claim as a claim.
+- **Don't use it as a source for history or research** until you have read those chapters and checked them against `01` and `06`. Treat any "ancient" or "proven" claim as a claim. Its "ancient texts" and "traditional, mythological" framing should be read against `08` §1 ("Is yoga nidra ancient?"): the solid pre-modern evidence is texts such as the *Yogatārāvalī* (which his own site translates) as read by Birch & Hargreaves [@birch2015], where *yoganidrā* names an absorption state, not the modern guided technique.
+- **Check his big promises against `08` §11 ("What should you promise?").** Going "beyond suffering", effortless acceptance of all events and no longer fearing death are strong outcome claims. In your own book, frame such aims as a tradition's stated goals, not as results a reader can expect.
 - **Practicalities.** If you quote it, cite the 542-page print edition (BnF) and check the page numbers yourself. Borrow nothing verbatim: it is in copyright, untranslated, and any English rendering would be your own translation.
 - **Is it worth buying?** If you read French and are designing modular scripts, yes: it is the closest model of what you may be building. If not, the 2015/2017 book gives you the protocol, and this summary gives you the architecture.
 
@@ -249,13 +218,15 @@ Compare Miller's "awareness is present anyway" position (`08` §3). It is closer
 
 ## Confidence
 - **Certain (seen directly):**
-  - **Bibliographic data:** publisher (Les Deux Océans, Paris; series "Yoga intérieur"), ISBNs for print and ebook, dates (21 May 2019 print; 15 May 2019 ebook), 542 pp. (the publisher says 544), the bibliography pages and glossary, the price, the print being out of stock, and the ebook's 399 e-pages.
-  - The publisher's description.
-  - The author's press quotes as he presents them.
-  - Use as the main study text of Rishi Yoga Shala's 120-hour training, and that training's programme.
+  - **Bibliographic data:** publisher (Les Deux Océans, Paris; series "Yoga intérieur", ISSN 2263-9993), print ISBN 978-2-86681-224-9 and ebook ISBN 978-2-86681-302-4; on sale 21 May 2019 (Google Books, Librest; the publisher says "mai 2019"); ebook dated 15 May 2019, 399 e-pages; printed by Corlet numeric (BnF); 542 pp. (BnF, Sudoc, Google Books, Librest; the publisher says 544); the bibliography pages and glossary; €18 print, €10.99 ebook; print out of stock ("En Rupture… Non disponible", publisher; "Indisponible", Librest); OCLC 1105630387. Google Books lists the ebook under the Dervy imprint (a Trédaniel sister imprint) with "Deux Océans" as series. Open Library has no record; the data were checked against Sudoc instead, and agree.
+  - **Page counts that disagree:** 542 (catalogues), 544 (publisher), and 533 or 489 (two Goodreads records, /show/70782718 and /show/50217289; unreliable).
+  - The publisher's description and its ebook retailer links (Kindle, Fnac, Numilog, Mollat).
+  - The author's press quotes as he presents them, and his own bio.
+  - Use as the main study text of Rishi Yoga Shala's 120-hour training, and that training's programme, including its therapy-and-prevention module and "Champs d'application" paragraph.
   - The *Esprit Yoga* carte blanche.
   - Goodreads data.
   - The existence and wording of the passage on Le Roy's blog.
+  - That no guided recordings by Bonnasse turned up on his site, his school's *médiathèque* or a YouTube search.
   - The 2023 follow-up book's details (Almora, Oct 2023, 608 pp., ISBN 978-2-35118-624-4).
 - **Secondary or inferred:**
   - That Le Roy's passage comes from the book's opening pages. It is attributed to Bonnasse and posted with the book's announcement, but no page is given.
@@ -263,16 +234,46 @@ Compare Miller's "awareness is present anyway" position (`08` §3). It is closer
   - The book's contents, inferred from the training programme and one reader review.
   - The stage-by-stage column for 2019, which is mostly inference from the 2015 protocol plus training headings.
   - That the 2019 book represents a shift on falling asleep. This rests on one passage; the book may also keep vigilance exercises.
+  - Whether the book itself makes therapeutic claims (the training does; the book's description does not).
 - **Verify in the book:**
   - The real table of contents.
   - The combining method: its rules, slots and timings.
+  - The script voice and pacing of at least one practice (see "How to close this gap").
   - Whether the nine-phase 2015 protocol, the "heart" phase and the breath-retention sankalpa survive.
   - How many of the 108 adapt *Vijñāna Bhairava Tantra* dhāraṇās.
   - How history is told (Satyananda chronology, Boyes, the "ancient" claim) and which "modern research" is cited (Swami Rama's delta, sophrology).
-  - Any safety or contraindication guidance.
+  - Any therapeutic claims, and any safety or contraindication guidance.
   - The goddess and mythology material.
   - The bibliography's actual extent (BnF pp. 521–534 vs Sudoc pp. [521]–529).
   - Page numbers for both quotes.
 - **For the compiler:**
   - `02` and `11` §11.2 mention only the 2015/2017 book. This 2019 book and the 2023 *Yoganidrā, la légende de la Déesse* belong in the French list.
   - The `02` entry for bonnasse2017 could add that his mature method is the untranslated 2019 book.
+
+### Sources opened for this summary
+I also re-used my summary of his 2015 book (`reading/bonnasse2015fr.md`) for the comparison.
+
+- https://www.nidra-yoga.com/biblio-livres/yoga-nidra-108-pratiques/ → redirects to https://www.pierrebonnasse.com/biblio-livres/yoga-nidra-108-pratiques/ (author's book page: description, press quotes)
+- https://www.editions-tredaniel.com/yoga-nidra-p-8054.html (publisher's page in the Trédaniel group: description, details, print status, links to ebook retailers, "in the media" tab)
+- https://www.editions-tredaniel.com/download/pack_imgs_978-2-86681-224-9.zip (publisher's press image pack: front cover only)
+- https://books.google.com/books?vid=ISBN9782866812249 and https://books.google.com/books?id=AAh0xQEACAAJ (print record, no preview)
+- https://books.google.com/books?vid=ISBN9782866813024, https://books.google.com/books?id=B8OWDwAAQBAJ (and a search-inside attempt with `&q=sankalpa`) and https://books.google.com/books?id=r_iIEAAAQBAJ (ebook records, no preview, no searchable text)
+- https://catalogue.bnf.fr/ark:/12148/cb457389817 and the BnF SRU record for ISBN 9782866812249 (UNIMARC)
+- https://www.sudoc.fr/services/isbn2ppn/9782866812249 and https://www.sudoc.fr/236657062.xml (Sudoc record)
+- https://openlibrary.org/search.json?q=bonnasse+yoga (no record of this book)
+- https://www.librest.com/livres/yoga-nidra-108-pratiques-a-conjuguer-pour-s-eveiller-a-l-infini-pierre-bonnasse_0-5634564_9782866812249.html (bookseller: details, availability, author bio)
+- https://itunes.apple.com/lookup?isbn=9782866813024&country=fr and https://books.apple.com/fr/book/yoga-nidra-108-pratiques-%C3%A0-conjuguer-pour-s%C3%A9veiller/id6443399378 (ebook details)
+- https://www.goodreads.com/book/show/70782718 and https://www.goodreads.com/book/show/50217289 (reception only)
+- https://eveilphilosophie.canalblog.com/archives/2019/06/12/37424368.html (José Le Roy, "Yoga-nidra par Pierre Bonnasse", 12 June 2019: announcement plus a passage of about 600 words by Bonnasse, and two reader comments). Posted by the author's friend with the book's announcement; no permission statement seen. Only the two short quotes below are taken from it
+- https://www.pierrebonnasse.com/biblio-articles-entretiens/l-acceptation-joyeuse/ (scan of *Esprit Yoga* no. 50, July 2019, p. 82)
+- https://www.pierrebonnasse.com/publications/livres/ ; https://www.pierrebonnasse.com/publications-de-pierre-bonnasse/ ; https://www.pierrebonnasse.com/publications/articles-and-entretiens/ ; https://www.pierrebonnasse.com/publications/collection-yoga-interieur/ ; https://www.pierrebonnasse.com/biblio-livres/ ; https://www.pierrebonnasse.com/biblio-livres/yoganidra-la-legende-de-la-deesse/ ; https://www.pierrebonnasse.com/formations-de-yoga/ ; https://www.pierrebonnasse.com/yoga-nidra/ ; https://www.pierrebonnasse.com/citations-diverses/ ; https://www.pierrebonnasse.com/ (home page bio) ; https://www.pierrebonnasse.com/yoga-nidra-meditation/ ; https://www.pierrebonnasse.com/rishi-yoga-meditation/ ; https://www.pierrebonnasse.com/agenda-1/ (author's site; /brouillons/ and /nouvelle-page-1/ were also opened and had nothing relevant)
+- https://www.editions-tredaniel.com/yoganidr257-p-11220.html (publisher's page for his 2023 follow-up book)
+- https://www.rishiyogashala.com/mediatheque/ (checked for recordings: none of guided sessions) ; https://www.rishiyogashala.com/mediatheque/yoga-nidra-108-pratiques/ ; https://www.rishiyogashala.com/formation-yoga-inde/formation-yoga-nidra-inde-francais/ ; https://www.rishiyogashala.com/formation-yoga-inde/formation-nidra-inde/ (detailed 120-hour programme) ; https://www.rishiyogashala.com/formations-stages-yoga-pyrenees/formation-yoga-nidra-france/ ; https://www.rishiyogashala.com/mediatheque/articles/ ; https://www.rishiyogashala.com/mediatheque/yn-fete-sommeil-article-pb/ (author's school)
+- https://www.esprityoga.fr/wp-json/wp/v2/posts?search=bonnasse (the magazine's own post listing) and https://www.esprityoga.fr/pierre-bonnasse-le-but-du-yoga-est-de-reconnaitre-cette-conscience-qui-contient-tout/ (2022 interview about the Devī Gītā; nothing on this book)
+- https://www.inexplore.com/magazines/Inexplore-55 (issue page; the 2022 yoga nidra feature with Bonnasse is summarised in one line only)
+- https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=xxflBfky7o4 (metadata of the "La mystique du 108" video embedded by the school; video not watched)
+- YouTube search results page for "Pierre Bonnasse yoga nidra" and a web search for his guided sessions (October 2026): no recordings by him found
+- **Tried but blocked or unavailable:**
+  - Bot protection (HTTP 403 / 429 / challenge pages): numilog.com, numerique.mollat.com, decitre.fr, placedeslibraires.fr, kobo.com, livre.fnac.com, play.google.com, gibert.com, lalibrairie.com, 7switch.com, amazon.fr.
+  - Babelio and leslibraires.fr: errors.
+  - livresbouddhistes.com, where Zuihô's review appeared: the domain is now parked, and the Wayback Machine index was blocked by the egress policy.

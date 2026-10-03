@@ -2,7 +2,7 @@
 
 *English translation:* ***Yoga Nidra Meditation: The Sleep of the Sages*** (Inner Traditions, 2017) [@bonnasse2017]. This is the same work. The English copyright page states it was "originally published in 2015 in French" under the Almora title. Cite them as original and translation, not as two books.
 
-> **Basis of this summary:** Sample chapters / preview read. That means: (1) the publisher's online excerpt, which is the whole closing section of Part II, "The Ultimate Surrender", in the English edition; (2) the complete table of contents, read on the contents pages of the Google Books preview of the English ebook and checked against the author's own site, which adds the session titles; (3) short keyword snippets from Google Books "search inside" for the English edition, covering sankalpa, rotation, falling asleep, minutes/hours, Satyananda, Swami Rama, Boyes, sophrology, hypnosis, the Vijñāna Bhairava Tantra, "ancient", and the copyright and translator lines. Of the French original I saw only catalogue records. I did **not** read Part I, most of Part II, or the four session scripts.
+> **Basis of this summary:** Sample chapters / preview read. That means: (1) the publisher's online excerpt, which is the whole closing section of Part II, "The Ultimate Surrender", in the English edition; (2) the table of contents, read on the contents pages of the Google Books preview of the English ebook and checked against the TOC on the author's "Excerpt Light of Consciousness" page, which adds the session titles and two Part III headings; (3) short keyword snippets from Google Books "search inside" for the English edition, covering sankalpa, rotation, falling asleep, minutes/hours, Satyananda, Swami Rama, Boyes, sophrology, hypnosis, the Vijñāna Bhairava Tantra, "ancient", and the copyright and translator lines. A second round of search-inside queries (revision) covered Osuna, "radiant", countdown, "108", purify, "hold your breath", retention, "Blue Star", "five minutes", "twenty years", and sleep-equivalence and safety terms ("hours of sleep", "four hours", "hour of yoga nidra", "equivalent", "equal", contraindic-, caution, pregnant, trauma, danger). Of the French original I saw only catalogue records. I did **not** read Part I, most of Part II, or the four session scripts. I saw only fragments of the scripts, as search-inside snippets.
 > Read for this summary:
 > - https://www.almora.fr/product/show/9782351182383/yoganidra-la-pratique-du-sommeil-conscient (French publisher page)
 > - https://www.simonandschuster.net/books/Yoga-Nidra-Meditation/Pierre-Bonnasse/9781620556771 (distributor page: description, excerpt "The Ultimate Surrender", blurbs, product details)
@@ -11,7 +11,9 @@
 > - https://books.google.com/books?vid=ISBN9782351182383 (French print record) and https://books.google.com/books?id=s1qbDgAAQBAJ (French ebook record)
 > - https://bookshare.org/browse/book/1791587
 > - https://openlibrary.org/works/OL19722408W (and its editions list)
-> - https://www.nidra-yoga.com/ ; https://www.nidra-yoga.com/yoga-nidra/ ; https://www.nidra-yoga.com/yoga-nidra-meditation/ ; https://www.nidra-yoga.com/excerpt-pierre-bonnasse-light-consciousness/ ; https://www.nidra-yoga.com/publications/livres/ ; https://www.nidra-yoga.com/biblio-livres/yoga-nidra-108-pratiques/ ; https://www.nidra-yoga.com/publications/articles-and-entretiens/ (author's site)
+> - https://books.google.com/books?id=2mIoDwAAQBAJ&jscmd=SearchWithinVolume2&q=… (the search-inside results for the queries above, read as returned snippets with page IDs)
+> - https://openlibrary.org/works/OL19722408W/editions.json (page counts per edition)
+> - https://www.nidra-yoga.com/ ; https://www.nidra-yoga.com/yoga-nidra/ ; https://www.nidra-yoga.com/yoga-nidra-meditation/ ; https://www.nidra-yoga.com/excerpt-pierre-bonnasse-light-consciousness/ (redirects to pierrebonnasse.com; carries the full English TOC) ; https://www.nidra-yoga.com/publications/livres/ ; https://www.nidra-yoga.com/biblio-livres/yoga-nidra-108-pratiques/ ; https://www.nidra-yoga.com/publications/articles-and-entretiens/ (author's site)
 > - https://www.spiralnature.com/reviews/what-is-mindfulness-five-book-reviews/ (review, Donyae Coles, 2018)
 > - http://intuitive-connections.net/2017/book-yoga-nidra.html (review, Henry Reed, 2017)
 > - https://www.rishiyogashala.com/ ; https://www.rishiyogashala.com/formation-yoga-inde/formation-yoga-nidra-inde-francais/ ; https://www.rishiyogashala.com/mediatheque/yn-fete-sommeil-article-pb/ (author's school)
@@ -27,7 +29,7 @@
 - **No free legitimate full text** found. Google Books has a limited preview of the English ebook. Open Library lists two English editions and no lending scan.
 - **No companion audio** found.
 
-**Tradition / lineage:** Independent French teacher, not Bihar-affiliated.
+**Tradition / lineage:** Independent French teacher. No Bihar School affiliation is stated in the sources I read; he cites the Himalayan tradition (Swami Rama, Swami Veda Bharati) and Advaita among his influences.
 - **Background:** poet and essayist; formerly a sophrology trainer and director of studies at a sophrology school. He has lived in Rishikesh since 2015 and co-founded Rishi Yoga Shala there, a French-language school that also runs courses in the Pyrenees.
 - **Sources he draws on:**
   - Advaita Vedānta: Ramana Maharshi, Nisargadatta, Śaṅkara's *Upadeśa Sāhasrī*.
@@ -37,8 +39,8 @@
   - The Himalayan tradition: Swami Rama and Swami Veda Bharati.
 
 **Length / format:**
-- **French:** 206 pp. in the print record, pocket format (176 × 111 mm); 133 pp. in the ebook record.
-- **English:** 160 pp.
+- **French:** 206 pp. (Google Books print record; Almora's page gives no page count), pocket format (176 × 111 mm, per Almora); 133 pp. in the Google Books ebook record.
+- **English:** 160 pp. (Simon & Schuster; Open Library's ebook record, ISBN 9781620556788). Open Library records "ix, 149 pages" for the print first US edition (ISBN 9781620556771).
 - **Contents:** about half philosophy, half practice manual. It has four complete written sessions and "115 Practices to Inspire and Create Your Sessions". There is no audio.
 
 ## In one paragraph
@@ -53,7 +55,7 @@ A compact, contemplative handbook. It presents yoga nidra as "conscious sleep": 
 It is written for practising yogis and meditators, not for clinicians or exhausted beginners. Its central promise is spiritual: the practice can make you available to recognising what you already are. Relief from stress and anxiety is presented as a by-product.
 
 ## Structure
-The table of contents below is from the English edition (2017). I read it on the Google Books preview contents pages. The session titles come from the TOC on the author's site, because the Google Books contents page lists only "Session 1–4". I did not see the French TOC.
+The table of contents below is from the English edition (2017). I read it on the Google Books preview contents pages. The session titles and the two headings "Four Practice Sessions" and "Micro-Practices" come from the TOC on the author's excerpt page (https://www.nidra-yoga.com/excerpt-pierre-bonnasse-light-consciousness/), because the Google Books contents page lists only "Session 1–4". I did not see the French TOC. Sub-headings below the chapter level (e.g. inside the Protocol) come from the Google Books contents pages and index, and I may not have seen every one.
 
 - **Preface.** Yoga Nidra: A Journey into the States of Matter, Consciousness, and the Joy of Being
 - **Introduction.** Indian Philosophy and the Limbs and Paths of Yoga (Perspectives on Indian Philosophy; The Limbs and Paths of Yoga)
@@ -65,6 +67,7 @@ The table of contents below is from the English edition (2017). I read it on the
   - **Protocol for Yoga Nidra:** Organizing and Creating Practice Sessions for Oneself or for Others; Preparation (*prastuti*); Deep Relaxation (*shithilikarana*); The Force of Intention (*sankalpa*); Rotation of Consciousness (*chetana sancharana*); The Countdown; Working with Themes; Visualizations; Merging with the Heart; Resolve (*sankalpa*) and Final Phase (*samapti*)
   - The Art of Living in Total Awareness (Electricity Does Not Die When the Bulb Is Broken); Fields of Application for Yoga Nidra; The Ultimate Surrender
 - **Part III: Putting Yoga Nidra into Practice.**
+  - Four Practice Sessions; Micro-Practices (section headings on the author's TOC)
   - Session 1: Blue Star (*Nilatara Yoga Nidra*)
   - Session 2: Contemplation of the Elements (*Mahabhuta Visarga Yoga Nidra*)
   - Session 3: From the Sound AUM to Non-contact (*Pranava Asparsha Yoga Nidra*)
@@ -79,6 +82,10 @@ Index page references (English print pagination, seen in snippets) help with che
 - visualizations: pp. 86–87
 - *samapti*: pp. 88–89
 - falling-asleep exercises: pp. 63–69
+- countdown: pp. 82–83
+- Session 1, "Blue Star": pp. 100–108; Session 2: pp. 108–14; Session 3: pp. 115–18
+- micro-practices: pp. 122–32
+- Osuna, Fray Francisco de: p. 69
 
 🔎 **Probable origins of two parts (my inference from matching titles, not verified):**
 - The appendix is probably a translation of the interview "Saveur du sommeil yogique" (with P. Lorenceau, *Le Journal du Yoga* no. 160, April 2015).
@@ -112,14 +119,14 @@ Both are listed on the author's site.
 | 2 | **Deep relaxation** (*shithilikarana*) | A separate relaxation phase **before** the resolve. | No separate phase; relaxation is part of preparation. |
 | 3 | **Sankalpa** ("The Force of Intention") | Made once the body is relaxed and receptive. Formulate a short, positive wish; inhale, **repeat it three times while holding the breath**, and let it go on the exhalation. | Short positive resolve, three times, with no breath retention. |
 | 4 | **Rotation of consciousness** (*chetana sancharana*) | Called an essential phase that strengthens self-awareness and presence to the body's structures. Attention can follow a **codified or a spontaneous** route. A note discusses starting with the right thumb, Satyananda's convention. | Fixed rapid route, right thumb first. |
-| 5 | **The countdown** | A threshold phase: you may slip toward sleep without losing all awareness, or fall fully asleep, so alertness is needed. He also presents it as a chance to "purify" a space (rest of snippet unseen). Exact method not seen. | Backward breath counting. |
+| 5 | **The countdown** | Backward breath count from the 108th, 54th or 27th breath, inhale and exhale each counted, down to zero (pp. 82–83; scripted in Session 2 as "breathe in, 108 … breathe out, 108 … breathe in, 107"). A threshold phase: you may slip toward sleep without losing all awareness, or fall fully asleep, so alertness is needed. A snippet on the same page also offers a way to "purify the space of the mind" by alternate-nostril breathing without closing the nostrils with the fingers (how it fits with the count is not seen). | Backward breath counting. Close match. |
 | 6 | **Working with themes** | Content not seen. The publisher says sessions can explore states of consciousness, the senses, desires and fears. | Pairs of opposites. |
 | 7 | **Visualizations** | Content not seen. | Rapid images, *chidākāśa*. |
 | 8 | **Merging with the heart** | Not in Satyananda's sequence. Its content is not seen, but related snippets describe falling asleep "in the heart centre" (a VBT practice) and the empty space of heart and head becoming one. | No equivalent. |
 | 9 | **Resolve and final phase** (*sankalpa*, *samapti*) | From the formless, blissful state, you **hear** the same resolve three times, the one made at the start, then come back. | Sankalpa repeated, then slow externalisation. |
 
 **The four sessions.** Only titles and fragments were seen:
-- **Session 1, "Blue Star" (*Nīlatārā*).** In Sanskrit, *tārā* means both "star" and the goddess Tārā. (Elsewhere in Part III, in a session not identified, a snippet shows a breathing exercise practised "about five minutes" or until abdominal breathing sets in.)
+- **Session 1, "Blue Star" (*Nīlatārā*).** In Sanskrit, *tārā* means both "star" and the goddess Tārā. Its introduction says the practice aims to purify the energy centres through sixty-one points (snippet). A bracketed teacher note inside Session 1 (pp. 100–108) asks for a breathing exercise practised "about five minutes" or until abdominal breathing sets in.
 - **Session 2, "Contemplation of the Elements".** A contemplation through the five *mahābhūtas*.
 - **Session 3, "From the Sound AUM to Non-contact".** It moves from AUM to silence and void. *Asparśa* ("non-contact") echoes Gauḍapāda's *asparśa-yoga* in the Māṇḍūkya Kārikā (my identification). The book says the session is inspired by a very old source.
 - **Session 4, "The Art of Dying".** It opens with a VBT verse: picture the body consumed by the fire of time, rising from the feet.
@@ -130,7 +137,7 @@ Both are listed on the author's site.
 - Sit in the diamond pose (*vajrāsana*) and let sleep come, to study the slide from one state to the other.
 - Fall asleep with attention on the feel or the sound of the breath, so that you remember it the moment you wake.
 - On waking, at dawn or dusk, watch the process in reverse. The interval offers the same chance to recognise one's nature.
-- Babies who feed, doze and wake again are used as an image of "radiant intervals".
+- He quotes Fray Francisco de Osuna on contemplatives who pray before sleeping and on waking, spending their "radiant intervals" in prayer and resting like children who fall asleep at their mother's breast (p. 69). The image and the words are Osuna's, quoted by Bonnasse.
 - A sleep-cycle map (about four cycles per six-hour night) frames night practice.
 
 **Posture.**
@@ -149,19 +156,26 @@ Both are listed on the author's site.
 
 **Language style.**
 - **Theory chapters:** first person singular, meditative and philosophical ("I relax… I observe… who am I?"). They often read like a practice in themselves; Goldberg's blurb says so.
-- **Scripts:** second-person present-tense instructions with soft verbs ("allow the body to relax", "be totally aware of your breath"), ellipses for pauses, and bracketed teacher notes on timing.
+- **Scripts:** second-person present-tense instructions with soft verbs ("allow the body to relax", "be totally aware of your breath", both from a Session 1 snippet), ellipses for pauses, and bracketed teacher notes on timing (Session 1).
 - **Overall:** directive in structure, invitational in tone, with a recurring call to stay alert. One snippet closes a practice with AUM and a wish that all beings be peaceful and happy.
 
+**Example: how the sankalpa phase is guided (my paraphrase of snippets).** Only fragments were seen, so this is a reconstruction, not a transcript.
+1. The body is already relaxed; the student formulates one short, positive wish (protocol section; index: sankalpa pp. 78–79).
+2. Breathe in and hold the breath; silently repeat the wish three times (Session 2 snippet: "hold your breath and repeat your wish three times then forget it").
+3. Let the wish go with the exhalation and simply witness the body breathing, with *so'ham* (same Session 2 snippet), before attention moves to the right thumb for the rotation.
+4. In the protocol section (Google Books page PT99; printed page not known) the first-person version adds the traditional reason for three repetitions: prayers are said "at least thrice" to be heard.
+5. At the end of a session the same wish returns in the same breath-held form before the final phase (snippets from later sessions; which session is not certain).
+
 ## What's distinctive
-- **Sleep itself is the field of practice.** It gives bedtime, night-time, waking and dream practice, not just a daytime lying-down session. Among the books in `02`, only Stanley's "gateways" (2021) come close, and Bonnasse's English edition predates hers.
+- **Sleep itself is the field of practice, as a training regime.** Bonnasse turns the threshold into a discipline: night practice across sleep cycles, sleep onset studied while sitting in *vajrāsana*, the "sleeper's breath", dream yoga. Stanley (2021, `reading/stanley2021.md`) works from a similar Kashmir Śaiva "junction" theory (via Lakshmanjoo) but offers short bedtime and wake-up rituals inside a gentler programme. Swami Rama (`reading/rama1988.md`) is the strict stay-awake counterpoint: conscious sleep as a graded advanced exercise, not night-long practice. Bonnasse's French original (2015) and English edition (2017) both predate Stanley's book.
 - **A Satyananda skeleton with non-dual and tantric flesh.** It keeps sankalpa, rotation, counting, visualisation and closing sankalpa, but adds a separate deep-relaxation phase, a "merging with the heart" phase and Advaita self-inquiry. The VBT serves as a library of micro-practices.
-- **A modular "compose your own session" method based on the VBT.** He later expanded this into a 542-page French book, *Yoga-Nidrā, 108 pratiques à conjuguer pour s'éveiller à l'infini* (Les Deux Océans, 2019; the page count is from a press quote on the author's site). That book, not this one, is now the manual for his 120-hour teacher training at Rishi Yoga Shala. Read the 2015 book as the compact first statement of a method he later developed fully.
+- **A modular "compose your own session" method based on the VBT.** He later expanded this into a 542-page French book, *Yoga-Nidrā, 108 pratiques à conjuguer pour s'éveiller à l'infini* (Les Deux Océans, 2019; the page count is from a press quote on the author's site). Rishi Yoga Shala names that book as the main study text ("support d'étude principal") for its 120-hour Yoga-Nidra teacher training, alongside a separate training manual handed out at the start. See `reading/bonnasse2019.md`. Read the 2015 book as the compact first statement of a method he later developed fully.
 - **A death-contemplation session** (*Marana Yoga Nidra*).
 - **Sankalpa with breath retention**, heard rather than repeated at the end.
 - **A French and sophrology angle.**
   - The author trained sophrologists. The book explains sophrology in a note: Caycedo, 1960, "Caycedian Sophrology".
   - It repeats the claim that yoga nidra inspired sophrology, and also names hypnosis, phenomenology, yoga and Zen as sophrology's sources.
-  - This is the only book in the set written from inside that culture.
+  - This is the only yoga nidra book in the set by a former sophrology trainer. For sophrology itself, see Chéné & Caycedo (`reading/caycedo1998.md`).
 - **An unusual set of influences:** Anirvan, Henri Tracol (Gurdjieff Work) and André Riehl's 2006 lecture "Le Sommeil et le Regard de Shiva". The author also reports meeting a direct disciple of Swami Veda Bharati.
 - **A historian's endorsement.** Elliott Goldberg (*The Path of Modern Yoga*) explicitly calls it a presentation of *modern* yoga nidra, and praises it as no "glib self-help book".
 
@@ -175,14 +189,15 @@ Both are listed on the author's site.
 **Limitations and critiques**
 - **Dense, and front-loaded with general Indian philosophy.** Donyae Coles (*Spiral Nature*, 2018) notes many pages on Hindu belief before the practice. She finds the practice "many, many steps" long and probably best guided by someone else; she suggests recording yourself. She calls it advanced, "not something that should be taken on lightly".
 - **Strong on vigilance.** The ideal of effortful alertness ("friction", "conscious effort") may breed striving or guilt in tired or anxious students. Compare the rest-first approach of Dinsmore-Tuli and Brody (`08` §3).
-- **Little on safety** (not seen, at least): no visible trauma-sensitive or accessibility guidance. Breath retention in the sankalpa and a death-contemplation session both need care.
+- **Little on safety, as far as searchable:** search-inside for contraindic-, caution, pregnant, trauma and danger returned nothing, and I saw no trauma-sensitive or accessibility guidance. The session scripts were not read, so a safety note there cannot be ruled out. Breath retention in the sankalpa and a death-contemplation session both need care.
 - **History is partly loose:**
-  - The publisher's copy calls it "an ancient Indian practice". The text credits Satyananda with systematising it.
-  - The text says Satyananda began teaching his method in the early 1960s and that his first books came "twenty years later". That does not fit the usual record (*Yoga Nidra*, 1976). Check it.
+  - The publisher's copy calls it "an ancient Indian practice". The text credits Satyananda with systematising it, and calls the practice one "whose source is lost in the dawn of time" (Google Books page PT95; printed page not known). Compare `08` §1 (is yoga nidra ancient?): "ancient roots, modern form".
+  - The text says Satyananda began teaching his method in the early 1960s and that his first books came "twenty years later" (same snippet, PT95). The compendium's record is shorter: Satyananda was speaking about yoga nidra by November 1964 (Munger convention talk, printed in *YOGA* in 1965 [@satyananda1965], second-hand and unverified, `08` §1, `01`) and his book *Yoga Nidra* appeared in 1976 [@satyananda1976]. That is about 12 years, not 20. For the longer history, see `01` and Birch & Hargreaves [@birch2015].
   - Searches inside the English edition for "Boyes" and "Dennis" found nothing. The book apparently does not credit Dennis Boyes's French book of 1973 [@boyes1973]. The French original was not checked.
 - **Claims that go beyond the evidence (`06`):**
   - He states that Swami Rama "proved" yoga nidra lets one stabilise consciously in delta waves. That was a single-subject demonstration, historically interesting but anecdotal (`06` §6.1, §6.3).
-  - The publisher calls it "the ideal practice" for stress, anxiety and the fear of death. The 2025–26 meta-analyses suggest benefits similar to other relaxation methods (`06` §6.0).
+  - The publisher calls it "the ideal practice" for stress, anxiety and the fear of death. `06` §6.0: the meta-analyses report moderate-to-large effects, but on low-quality studies that probably inflate them. For pain there was no difference from active controls. Nothing supports calling it "the ideal practice".
+  - No "1 hour of yoga nidra = 4 hours of sleep" claim found: search-inside for "hours of sleep", "four hours", "hour of yoga nidra", "equivalent" and "equal" returned no such line (`06` §6.3 lists the claim as having no evidence). Search-inside can miss wording, so this is "not found", not "absent".
   - The claim that yoga nidra inspired sophrology is plausible but undocumented (`11` §11.2; `01`).
 - **Research coverage:** in what I saw, it engages little with clinical research.
 - **Small reception:**
@@ -206,8 +221,9 @@ Both are listed on the author's site.
 
 **Skip or treat critically**
 - Don't repeat "Swami Rama proved conscious delta" or "yoga nidra inspired sophrology" as fact. Say "reported" or "claimed", and cite `06`/`11`.
-- Don't adopt the "ancient practice" marketing line. His own text supports "ancient roots, modern systematisation". Use that.
-- Give a no-retention option if you adopt the breath-hold sankalpa. It does not suit everyone, especially anxious or pregnant students or those with cardiovascular issues. Don't present it as standard.
+- Don't adopt the "ancient practice" marketing line. His own text supports "ancient roots, modern systematisation"; `08` §1 sets out the positions and sources. Use that, and correct his "twenty years" gap to about 12 (1964 to 1976).
+- Give a no-retention option if you adopt the breath-hold sankalpa, and don't present it as standard. (The caution that breath-holding may not suit anxious or pregnant students or people with cardiovascular conditions is a general prāṇāyāma caution, not from this book; the compendium's safety chapter, `07` §7.1, does not cover breath retention, so source it separately if you print it.)
+- Check the session scripts for safety notes before relying on this summary's "little on safety" verdict.
 - Handle death contemplation (*marana*) with grief- and trauma-aware framing and an explicit opt-out.
 - Read the vigilance ethos against your own position on debate 3 (`08`). If your book is rest-first, borrow his threshold exercises but not his tone of effortful alertness.
 - Skip the general Indian-philosophy primer in the Introduction and Part I as a source for your own history or philosophy chapters. Use scholarly sources (Birch & Hargreaves, Mallinson & Singleton) instead.
@@ -221,20 +237,25 @@ Both are listed on the author's site.
 - **Certain (seen directly):**
   - Bibliographic data for the French and English editions.
   - The relationship between them: the English copyright page names the 2015 Almora original and the translator, Karina Bharucha.
-  - The full English table of contents and the four session titles.
+  - The English table of contents (Google Books contents pages plus the author's excerpt-page TOC) and the four session titles.
   - The "Ultimate Surrender" section in full.
   - The publisher's descriptions and blurbs; the two reviews; the author's biography and school.
 - **From short search-inside snippets (wording seen, context not):**
   - the sankalpa method (breath retention; "hearing" it at the end);
   - rotation by "codified or spontaneous itinerary";
-  - the countdown as a sleep-risk phase;
+  - the countdown as backward breath counting from 108, 54 or 27 (pp. 82–83, and scripted in Session 2) and as a sleep-risk phase;
+  - the Osuna quotation on "radiant intervals" (p. 69);
+  - the sankalpa wording in Session 2 ("hold your breath and repeat your wish three times");
+  - the "about five minutes" teacher note in Session 1 (pp. 100–108);
+  - the absence, in search-inside, of a "1 hour = 4 hours of sleep" claim and of the safety terms searched;
   - the falling-asleep exercises; posture remarks; "an hour or more";
   - the Satyananda chronology; the Swami Rama "proof";
   - the sophrology note; the VBT 112/115 link;
   - the absence of "Boyes" in the searchable English text.
 - **Not seen; verify in the book:**
   - Part I in full, including how "The Origins of Yoga Nidra" tells the history, and whether the Upanishads, VBT, tantra and Satyananda are its only anchors.
-  - The contents of "themes", "visualizations" and "merging with the heart".
+  - The contents of "themes", "visualizations" and "merging with the heart", and how the countdown's fingers-free alternate-nostril option fits with the count.
+  - Whether any session script carries safety notes.
   - The full text and timing of the four sessions.
   - Whether the French original differs: 206 pocket pages against 160 English pages could be typesetting or abridgement, and the French may mention Boyes.
   - Whether the 2016 Zen Publications edition uses the same translation.

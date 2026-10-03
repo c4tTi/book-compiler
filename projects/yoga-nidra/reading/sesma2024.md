@@ -1,7 +1,7 @@
 # Doce viajes: Yoga-Nidra — Ana Sesma Nuez (2023)
 
 *Twelve Journeys: Yoga-Nidra.* This is the practice companion to her theory book *Yoga-nidra. Una guía para la relajación profunda* (Kairós, 2021/22) [@sesma2022]. The project files it as **sesma2024** under the title "Doce viajes: sesiones de Yoga-Nidra". Two corrections:
-- **Year.** The copyright page (Google Books preview) gives "Primera edición en papel: Noviembre 2023" and the same for the digital edition. Kairós's press sheet says "noviembre 2023, 1ª quincena", and Google Books, Todostuslibros and Goodreads give 8 Nov 2023. The public launch was on 28 February 2024, and Google Books also has a paperback record dated 27 Feb 2024, which probably explains the 2024 date.
+- **Year.** The copyright page (Google Books preview) gives "Primera edición en papel: Noviembre 2023" and the same for the digital edition. Kairós's press sheet says "noviembre 2023, 1ª quincena", and Google Books, Todostuslibros and Goodreads give 8 Nov 2023. The public launch was on 28 February 2024: Kairós's own catalogue page for the book carries a button "Presentación 28/02/2024" linking to the launch video (it labels this as the presentation, not as a publication date). Google Books also has a print record dated 27 Feb 2024. The launch date, and that record, likely explain sesma2024.
 - **Subtitle.** Every record I saw gives the title as *Doce viajes* with the subtitle *Yoga-Nidra*. None shows "sesiones de".
 
 **Bottom line for your book:** *Take* the five-elements ladder (earth → ether) as a ready module, her facilitator cautions and set-up guidance, and the idea of changing the theme while keeping the stage structure stable (her stated principle; the scripts themselves were not seen). *Skip* the family-constellation, *Kybalion*, Sheldrake and Dispenza framing as presented, and her website's health claims. *Verify in the book* where and how she places the sankalpa and runs the rotation: the preview stops before the first script.
@@ -13,10 +13,10 @@
 - **Ebook:** EPUB without DRM, ISBN 978-84-1121-220-5, €6.72 on Kairós's site. The copyright page also lists a Kindle ISBN, 978-84-1121-221-2.
 - **No free full text.** Google Books shows a preview of the front matter (see Basis). The author publishes the introductory chapter "Entre dos mundos" on her site, in a slightly different wording from the printed one; the same text appeared in the magazine of the Spanish yoga association AEPY.
 - **Translations:** none found (Spanish only) in the records I consulted (Kairós, Google Books, Goodreads, Todostuslibros, the author's site).
-- **Editions:** only the first (November 2023, print and digital) found as of October 2026. The Google Books paperback record dated 27 Feb 2024 shows the same 144 pages; I could not tell whether it is a reprint.
+- **Editions:** only the first (November 2023, print and digital) found as of October 2026. A Google Books print record dated 27 Feb 2024 shows the same 144 pages (no binding type given); I could not tell whether it is a reprint.
 - **Libraries:** not checked (Google Books links to WorldCat, which I did not open).
 - **Audio:** I found no audiobook. Kairós's audiobook page lists a "Yoga-nidra Audiolibro" (presumably the 2022 guide; I saw only the title) and nothing for this book. The author's YouTube channel has free recordings, which she says may be downloaded for personal use under a Creative Commons licence:
-  - **"Yoga Nidra AUTOMATERNAJE"** (27:29, Aug 2025). The description says it is "one of the Doce Viajes".
+  - **"Yoga Nidra AUTOMATERNAJE"** (about 27 minutes per the channel listing, 31 Aug 2025). The description says it is "one of the Doce Viajes".
   - **"Yoga-Nidra: ENTRETEJER"** (recorded for the Slow Summit 2023, duration not seen), linked from the book page.
   - **"El viaje – extracto del libro"** (3:16), a reading from the book.
 
@@ -34,7 +34,7 @@
 *Doce viajes* is a small book of thirteen written yoga nidra sessions, which the author calls "journeys". She presents it as the lyrical, practical half of a pair, with her 352-page guide (Kairós product page) as the theoretical half. On her site she calls the two a yin-yang duet: the guide supplies structure, science, mythology and philosophy; *Doce viajes* offers "meditative inspiration".
 - **Two uses.** The texts are scripts for a facilitator. They are also meant to be read slowly by oneself; the preface to the journeys asks the reader to take in the written word and the sensation it wakes in the body and breath at the same time.
 - **The promise** (publisher and Introducción): the sessions are arranged to lead progressively into "the art of conscious sleep", "from less to more practice", from bodily, "near" places to lighter, subtler ones. The publisher adds that they end in a glimpse that "you are consciousness".
-- **Audience:** Spanish-speaking yoga teachers and facilitators, and practitioners who already know the basic method. The Introducción says the group attending her in-person sessions is made up entirely of women, whom she calls her "laboratory" of inquiry. She thanks the women who have been making this journey with her in recent years, and adds that the door is open to men too.
+- **Audience:** Spanish-speaking yoga teachers and facilitators, and practitioners who already know the basic method. The Introducción says the group attending her in-person sessions is made up entirely of women, who she says made it possible for her to set up a "laboratory of inquiry" (PT7). She thanks the women who have been making this journey with her in recent years, and adds that the door is open to men too.
 
 ## Structure
 I saw the contents page ("Sumario") in the Google Books preview. It differs in two places from the index on the author's website, which gives "Auto-maternaje" and "y uno más: Viaje al vacío". English glosses are mine.
@@ -75,7 +75,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 ## Core ideas
 - **Yoga nidra as a liminal state.** It is pictured as walking "between two worlds", awake and asleep at once. The sessions are journeys toward that state, not just a relaxation routine.
 - **Gross to subtle, then dissolution.** The sequence starts with the five elements from densest to subtlest, moves through speech and silence and through relational and psychological themes, reaches "Hermetic laws", and ends in "Dissolution". The Introducción describes the same arc and compares it to not trying to climb the Himalayas on the first walk.
-- **Elements mapped to chakras and life themes.** The preface links Earth (*Prithivi*) to trust, security, nourishment, the mother and the tribe, and to feet, legs and adrenal glands, with "the right to have"; Fire to adolescence and the third *cakra*. So the element–chakra link is explicit, at least for these two.
+- **Elements mapped to life themes (and, for Fire, a chakra).** The preface links Earth (*Prithivi*) to trust, security, nourishment, the mother and the tribe, and to feet, legs and adrenal glands, with "the right to have"; Fire to adolescence and the third *cakra*. Only Fire is explicitly tied to a chakra on the pages I saw ("el tercer cakra", PT22). Earth's body correspondences (feet, legs, adrenal glands) and "the right to have" match root-chakra schemes (my inference), but no chakra is named for Earth on the pages seen.
 - **One structure, used "absolutely versatilely".** Her words (Introducción, and her site). The theme changes with the goal; the structure is kept. She says rotation "admits a relative versatility" in these twelve journeys.
 - **Words as a practice tool.** A chapter on "the power of the word" treats each word as a spell and asks facilitators to choose words with care. On her site she quotes Alan Watts on hypnotising with words (compare `08` §10).
 - **Reading as practice.** The book is meant to be breathed and felt while reading, not only performed for others.
@@ -114,17 +114,17 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 
 | # | Journey | What it covers | Basis |
 |---|---|---|---|
-| 1–5 | Earth, Water, Fire, Air, Ether | The five elements (*pañca mahābhūta*) from dense to subtle, each linked to life themes and body areas; Earth and Fire are explicitly tied to chakras. "The right to have" for Earth matches the chakra "rights" scheme popularised by Anodea Judith (my identification) | **Book** preface (PT22) for Earth and Fire; others inferred |
+| 1–5 | Earth, Water, Fire, Air, Ether | The five elements (*pañca mahābhūta*) from dense to subtle, each linked to life themes and body areas. Only Fire is explicitly tied to a chakra (the third *cakra*, PT22). Earth gets body correspondences (feet, legs, adrenal glands) and "the right to have", which match root-chakra schemes such as the chakra "rights" popularised by Anodea Judith (my inference); no chakra is named for Earth on the pages seen | **Book** preface (PT22) for Earth and Fire; others inferred |
 | 6 | Word and silence | "The word that emerges from silence"; introduced with a poem on words by José Pazó Espinosa | **Book** (PT24) |
 | 7 | Loyalties | Hellinger's systemic "loyalty": the child stays bound to the family by unconsciously repeating its fate | **Book** (PT24) |
-| 8 | Self-mothering | Giving oneself the mothering one needs; a 27½-minute recording is free online | Title seen; recording exists (not heard); description on a page not shown |
+| 8 | Self-mothering | Giving oneself the mothering one needs; a recording of about 27 minutes is free online | Title seen; recording exists (not heard); description on a page not shown |
 | 9 | Interweaving | Free recording from the Slow Summit 2023 | Title seen |
 | 10 | Become… | Probably the dis-identification passage followed by Sheldrake's "collective memory" quote | **Book** (PT26), but the journey number is on a page not shown |
 | 11 | E-motions | Evoking, holding and modifying emotions as "energy in motion" | **Book** (PT26) |
 | 12 | Hermetic laws | Probably the seven "Hermetic principles" popularised by *The Kybalion* (1908); "fractal" in the term list fits "as above, so below" | Inferred; description not seen |
 | last | Dissolution | Resting in emptiness or pure awareness | Title seen |
 
-- **Length.** Not stated in the pages I saw. The one recording she says is a book journey ("Automaternaje") runs 27:29; her other recordings run about 22–56 minutes. With 144 small pages, each written session must be short (my estimate: about 8–10 pages at most).
+- **Length.** Not stated in the pages I saw. The one recording she says is a book journey ("Automaternaje") runs about 27 minutes (channel listing); her other recordings run about 22–56 minutes. With 144 small pages, each written session must be short (my estimate: about 8–10 pages at most).
 - **Sleep stance:** stay awake, from her other material; not stated in the pages I saw (`08` §3 places her with the "stay awake" side):
   - the 2016 article says the participant makes "the resolve not to fall asleep";
   - her guide has a section "avoiding falling asleep";
@@ -188,7 +188,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 - **Language.** If you write in English, don't try to carry over the Spanish wordplay. Borrow structures, not phrasing.
 
 ## Short quotes (optional, max 2, each under 25 words, with page if known)
-- "En estos doce viajes, la fase de la rotación de la consciencia por el cuerpo (saltar con la atención de un lugar a otro del cuerpo) admite una versatilidad relativa." (*In these twelve journeys, the phase of rotating awareness through the body (jumping with the attention from one place in the body to another) allows a relative versatility.*) — Sesma Nuez, *Doce viajes*, "Doce y uno más" (Google Books ebook preview, page PT20; printed page not shown).
+- "En estos doce viajes, la fase de la rotación de la consciencia por el cuerpo […] admite una versatilidad relativa." (*In these twelve journeys, the phase of rotating awareness through the body, which she glosses as jumping with the attention from one place in the body to another, allows a relative versatility.*) — Sesma Nuez, *Doce viajes*, "Doce y uno más" (Google Books ebook preview, page PT20; printed page not shown).
 - "Lee. Cierra los ojos. Respira. Respíralo. Respírate." (*Read. Close your eyes. Breathe. Breathe it. Breathe yourself.*) — Sesma Nuez, *Doce viajes*, end of the preface to the journeys (Google Books ebook preview, page PT28).
 
 ## Confidence
@@ -196,15 +196,16 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
   - bibliographic data: copyright page (first edition November 2023, print and digital; three ISBNs), Kairós page (144 pp., prices, collection), Google Books records;
   - the launch on 28 Feb 2024 with Agustín Pániker;
   - the contents page (book) and the differences from the website's index;
-  - the Introducción in full; "Entre dos mundos" in full (site version) and partly in print; one page each of "El poder de la palabra" and "El viaje"; alternate pages of the preface to the journeys (Earth/Fire–chakra link, journeys 6, 7, 11, the Sheldrake and Dispenza references, the ISR breathing technique, the sankalpa approach, the short set-up note);
+  - the Introducción in full; "Entre dos mundos" in full (site version) and partly in print; one page each of "El poder de la palabra" and "El viaje"; alternate pages of the preface to the journeys (Earth's life themes and body correspondences, Fire's link to the third chakra, journeys 6, 7, 11, the Sheldrake and Dispenza references, the ISR breathing technique, the sankalpa approach, the short set-up note);
   - the facilitator advice in the Introducción;
   - the author's biography and training, and her rules for sankalpa, posture and contraindications (her website, not the book);
-  - that "Automaternaje" (27:29) is, in her words, one of the twelve journeys;
+  - that "Automaternaje" (about 27 minutes per the channel listing; exact duration not re-confirmed) is, in her words, one of the twelve journeys;
   - the small Goodreads reception.
 - **Weak evidence (Google Books "common terms and phrases"):** a detailed digit-by-digit rotation, the imperative verbs, Ramana Maharshi, the *Tao Te Ching*.
 - **Inferred, not verified:**
   - the stage order inside each journey and whether each journey has the full structure;
   - what each session adds over the previous one;
+  - that Earth's correspondences amount to a root-chakra link (no chakra named for Earth on the pages seen);
   - that journey 10 is the dis-identification passage, and that "Hermetic laws" means the *Kybalion* principles;
   - session lengths;
   - whether the book states her stay-awake stance and her contraindications.
@@ -224,7 +225,7 @@ I saw the contents page ("Sumario") in the Google Books preview. It differs in t
 ## Sources consulted
 - Google Books ebook record and preview, id 6ePeEAAAQBAJ: https://books.google.com/books?id=6ePeEAAAQBAJ&printsec=frontcover (pages PT2, PT5–PT10, PT12, PT14, PT16, PT18, PT20, PT22, PT24, PT26, PT28 read; odd pages from PT11 on and everything after PT29 not shown) · edition page: https://www.google.com/books/edition/_/6ePeEAAAQBAJ (16-page preview, common terms, other editions)
 - Google Books print record: https://books.google.com/books?vid=ISBN9788411211994 · ebook record: https://books.google.com/books?vid=ISBN9788411212205
-- Publisher: https://www.editorialkairos.com/catalogo/p/doce-viajes · press sheet (PDF) https://www.editorialkairos.com/s/DoceViajes-info.pdf · author page https://www.editorialkairos.com/autores/ana-sesma-nuez · launch https://www.editorialkairos.com/actualidad/presentacion-febrero · https://www.editorialkairos.com/agenda/doce-viajes · audiobooks https://www.editorialkairos.com/audiolibros · the 2022 guide https://www.editorialkairos.com/catalogo/p/yoga-nidra
+- Publisher: https://www.editorialkairos.com/catalogo/p/doce-viajes (incl. the "Presentación 28/02/2024" button) · press sheet (PDF) https://www.editorialkairos.com/s/DoceViajes-info.pdf · author page https://www.editorialkairos.com/autores/ana-sesma-nuez · launch https://www.editorialkairos.com/actualidad/presentacion-febrero · https://www.editorialkairos.com/agenda/doce-viajes · audiobooks https://www.editorialkairos.com/audiolibros · the 2022 guide https://www.editorialkairos.com/catalogo/p/yoga-nidra
 - Todostuslibros: https://www.todostuslibros.com/libros/doce-viajes_978-84-1121-199-4
 - Goodreads: https://www.goodreads.com/search?q=sesma+nuez · https://www.goodreads.com/book/show/199627011-doce-viajes
 - Open Library search (no record): https://openlibrary.org/search.json?q=doce+viajes+sesma
