@@ -1,6 +1,6 @@
 # Yoga nidra books: reading summaries
 
-Personal study notes on 64 books, written from legitimate sources only: free full texts where they exist, publisher samples and previews, tables of contents, reviews and author interviews. No pirated copies were used. Each summary says at the top what it is based on; many recent books could only be summarized from previews and secondary sources, so check details against the book before quoting.
+Personal study notes on 65 books, written from legitimate sources only: free full texts where they exist, publisher samples and previews, tables of contents, reviews and author interviews. No pirated copies were used. Each summary says at the top what it is based on; many recent books could only be summarized from previews and secondary sources, so check details against the book before quoting.
 
 Each summary was researched, then checked by three independent reviewers (facts, legitimacy, usefulness) and corrected. Where something could not be confirmed, the file says so, usually under **Confidence** or **Reviewer notes** at the end.
 
@@ -44,6 +44,7 @@ Suggested order after that: the early sources (Boyes 1973, Satyananda 1974, Jana
 |---|---|
 | [Yoga Nidra — Swami Satyananda Saraswati (1976)](satyananda1976.md) | Sample chapters / preview read, partial only, and thin for a core book |
 | [Meditations from the Tantras, with Live Class Transcriptions — Swami Satyananda Saraswati (1974)](satyananda1974.md) | Sample chapters / preview read |
+| [The Effects of Yoga on Hypertension — Swami Shankardevananda Saraswati (1978)](shankardevananda1978.md) | Sample chapters / preview, plus the author's magazine articles |
 | [Nawa Yogini Tantra: Yoga for Women — Swami Muktananda Saraswati (1977)](muktananda1977.md) | Table of contents + publisher description + reviews |
 | [Yoga, Tantra and Meditation in Daily Life — Swami Janakananda Saraswati (1975)](janakananda1975.md) | Table of contents + publisher description + reviews |
 | [Experience Yoga Nidra: Guided Deep Relaxation (CD + booklet) — Swami Janakananda Saraswati (English release 1983 per the school, format probably cassette; earliest English CD record found May 1997; remastered 2012)](janakananda1997.md) | Table of contents + publisher description + reviews + author interview |
@@ -152,4 +153,3 @@ Suggested order after that: the early sources (Boyes 1973, Satyananda 1974, Jana
 - About half of the summaries rest on previews and secondary sources, not the whole book; the **Based on** column shows the first words of each file's basis statement.
 - Page numbers taken from Google Books search snippets often could not be re-checked (Google blocked repeated searches). Files that rely on them say so; Desai 2017 has a warning at the top.
 - Several summaries suggest corrections or additions to the compendium chapters under **Reviewer notes**; those suggestions have not yet been applied to `compendium/`.
-- One planned summary, Swami Shankardevananda's *The Effects of Yoga on Hypertension* (Bihar School of Yoga, 1978), was not written because the run hit a usage limit.
