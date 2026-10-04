@@ -210,11 +210,19 @@ method as a synthesis of tantric sources with his own experimentation.
   Meditation* (2015) [@miller2015b].
 
 ### Amrit Yoga Nidra: Yogi Amrit Desai & Kamini Desai ✅
-- From the Kripalu/Amrit lineage. Emphasizes **witnessing without effort**,
-  "releasing the doer", and working with the energy body.
-- Kamini Desai, *Yoga Nidra: The Art of Transformational Sleep* (2017).
+- From the Kripalu/Amrit lineage. Emphasizes **non-doing**, resting as the
+  witness, and above all the **energy body**: the 2017 book calls the
+  method prana-based and names the Energy body as its main focus
+  [@desai2017] (PDF p. 74 of the Lotus ebook). The book calls it the
+  "Integrative Amrit Method" with Yogi Amrit Desai as founder (PDF p. 26);
+  the brand "I AM Yoga Nidra" is later and does not appear in the book.
+- Kamini Desai, *Yoga Nidra: The Art of Transformational Sleep* (2017). Its
+  history section (yoga nidra arising in tantra c. 500–600 CE; *nyāsa* in the
+  *Mahānirvāṇa Tantra* as the basis of the 61-point technique, PDF pp.
+  21–22) is unsourced; see `08` §1.
 - ⚠️ Amrit Desai resigned from Kripalu in 1994 after sexual misconduct
   allegations. This is the same kind of lineage-authority question as above.
+  The 2017 book does not mention it [@desai2017].
 
 ### Total Yoga Nidra / Yoga Nidra Network: Uma Dinsmore-Tuli & Nirlipta Tuli ✅
 - British teachers, often described as Satyananda-trained teachers who

@@ -27,9 +27,11 @@ note.
   - *Hypnagogic view:* stay on the threshold between waking and sleep,
     where the mind is suggestible and imagery arises [@satyananda1976; @desai2017].
   - *Turīya view:* recognize the awareness that stays constant as states
-    change [@miller2005; @stanley2021].
+    change [@miller2005; @stanley2021]. Desai combines the two: theta/dream
+    states give access to unconscious patterns, but the stated final
+    aim is resting in turīya [@desai2017] (PDF pp. 21, 53, 60).
 - **Brainwave shorthand** (beta → alpha → theta → delta) is common in
-  popular books [@desai2017], and German-market books build whole methods
+  popular books [@desai2017] (Ch. 4, PDF pp. 46–62, with Hz ranges per band), and German-market books build whole methods
   on the "alpha state" [@roecker]. ⚠️ It is a simplification (see `06`).
   A 2025 systematic review of EEG studies found the most consistent change
   was **more theta in experienced practitioners**; alpha, delta and other
@@ -146,7 +148,10 @@ iRest is built directly on this sequence [@miller2005].
 - Many practitioners fall asleep. Positions range from "it still works" to
   "it defeats the purpose".
 - Satyananda: stay awake. Dinsmore-Tuli: sleep is fine if the body needs it.
-  Miller: awareness is present even in sleep.
+  Miller: awareness is present even in sleep. Desai: train wakefulness
+  (resolve three times to stay awake, raised hand, propped upper body), but
+  early sleep is natural and an exhausted body should be allowed to sleep
+  [@desai2017] (PDF pp. 328–329).
 - The popular claim that "**1 hour of yoga nidra = 4 hours of sleep**" is
   unsupported ⚠️ (see `06`, `08`).
 

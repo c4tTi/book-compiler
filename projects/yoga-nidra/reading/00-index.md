@@ -82,7 +82,7 @@ Suggested order after that: the early sources (Boyes 1973, Satyananda 1974, Jana
 | Summary | Based on |
 |---|---|
 | [Radiant Rest: Yoga Nidra for Deep Relaxation and Awakened Clarity — Tracee Stanley (2021)](stanley2021.md) | Sample chapters / preview read |
-| [Yoga Nidra: The Art of Transformational Sleep — Kamini Desai (2017)](desai2017.md) | Sample chapters / preview read, partial only |
+| [Yoga Nidra: The Art of Transformational Sleep — Kamini Desai (2017)](desai2017.md) | Full text read (the user's own copy; PDF page numbers) |
 | [My Experiments With Yoga Nidra — Swami Veda Bharati (Usharbudh Arya) (2015)](vedabharati2015.md) | Sample chapters / preview read |
 | [Path of Fire and Light, Vol. 2: A Practical Companion to Volume One — Swami Rama (1988)](rama1988.md) | Search-inside snippets + contents/copyright pages only |
 | [Fundamentals of Yoga: A Handbook of Theory, Practice, and Application — Rammurti S. Mishra (Shri Brahmananda Sarasvati) (1959)](mishra1959.md) | Sample chapters / preview read, at snippet level only |

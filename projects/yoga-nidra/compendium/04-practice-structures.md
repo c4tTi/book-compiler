@@ -43,14 +43,33 @@ The ten-step protocol:
     daily life).
 
 ## 4.3 Amrit Yoga Nidra [@desai2017]
-- Arrival and body relaxation, framed as moving down through brainwave
-  states.
-- Sankalpa.
-- Body rotation, breath, opposites (similar to Satyananda).
-- Emphasis on **releasing the doer** and resting in the witness; letting
-  energy move.
-- Longer silences.
-- Gradual return.
+The book's model (Ch. 7) follows the koshas inward and back out, with a
+"second half" (an absorption pause) after every technique. Its one printed
+script, "for Health and Healing" by Yogi Amrit Desai (PDF pp. 333–343), runs:
+1. Closing the eyes, surrender to a higher power, two sighing breaths.
+2. **Deliberate tension and relaxation** (arms, legs, whole body), with a
+   caution for cardiac disease, hypertension and glaucoma.
+3. **Bumblebee breath** (thumbs closing the ears, up to 7 breaths), then
+   attention at the eyebrow centre.
+4. Universal instructions: stay still, resolve to stay awake, respond
+   non-mentally, do nothing from now on; rest at the third eye.
+5. Complete yogic (three-part) breath, uncounted.
+6. Integrate (pause).
+7. **Heavy and light**, part by part.
+8. Optional "energy body": floating out of the physical body.
+9. **Resting in awareness at the third eye**: silence between lines,
+   8–10 breaths at the deepest point.
+10. **Intention, repeated silently three times** (placed late, after the
+    deepest integration; no intention is set at the start of the script).
+11. Up to three spoken affirmations.
+12. Presence of the higher Self, guides and family members.
+13. Externalize: breath, body, rock, **roll onto the right side** and recall
+    the Intention, sit up with eyes closed, open the eyes.
+
+No body rotation, 61 points or counted breath appear in the script, though
+the book names 61 points, opposites, rapid images and visualisation among
+the method's techniques (PDF pp. 89–91, 325). Length 20–45 min; 12–15 min
+at the end of a class (PDF p. 327). The voice is directive and devotional.
 
 ## 4.4 Total Yoga Nidra (Dinsmore-Tuli & Tuli) [@dinsmoretuli2020; @dinsmoretuli2022]
 Uses the same elements with much variation. 🔎 *Yoga Nidra Made Easy*

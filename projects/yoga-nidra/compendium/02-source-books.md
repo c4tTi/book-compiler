@@ -127,12 +127,23 @@ Hay House UK, 2022 (about 257 pp.). ★★
 
 ### [@desai2017] Kamini Desai, *Yoga Nidra: The Art of Transformational Sleep*
 Lotus Press, 2017. ★★
-- **Amrit Yoga Nidra.** Explains the method through **brainwave states**
-  (beta → alpha → theta → delta) and "releasing the doer". The witness is
-  central.
+- **Amrit Yoga Nidra.** Organised around **Six Tools** (Realization,
+  Integration, Dis-identification, Intention, Relaxation, Restoration) and
+  explained through three maps: **brainwaves** (beta → alpha → theta → delta
+  → turīya), the **koshas** (a session goes in through them and back out)
+  and **samskāras**. The method is energy-first; the witness
+  (Dis-identification) is one tool among six [@desai2017].
 - **Unique contributions:** an accessible explanation of *why* each stage
-  exists; practices for specific life issues.
-- ⚠️ Its brainwave explanations simplify the neuroscience (see `06`).
+  exists (Ch. 7); the "second half" (a pause after every technique to absorb
+  its effect); a detailed craft of **intention** (primary vs. secondary,
+  five qualities, daily-life protocol, Chs. 10–11); five condition chapters
+  (health, depression/anxiety, insomnia, addiction, trauma). **One** printed
+  script (by Yogi Amrit Desai, PDF pp. 333–343); the condition chapters give
+  intentions and tips, not separate practices.
+- ⚠️ Its brainwave explanations simplify the neuroscience, and most of its
+  evidence is general meditation/MBSR/TM or iRest research restated as
+  yoga nidra effects, as the author partly admits (PDF p. 196) (see `06`;
+  `reading/desai2017.md`).
 
 ### [@stanley2021] Tracee Stanley, *Radiant Rest: Yoga Nidra for Deep Relaxation and Awakened Clarity*
 Shambhala, 2021. ★★

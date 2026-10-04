@@ -61,8 +61,9 @@ your book.
 
 ## 6. What about the teachers' misconduct?
 - Satyananda's lineage (Royal Commission hearing 2014, report 2016, Case
-  Study 21) and Amrit Desai (1994) both have documented misconduct
-  histories [@rc2016]. Scholars close to the field argue the Satyananda
+  Study 21) [@rc2016] and Amrit Desai (1994) [@goldberg2013] both have
+  documented misconduct histories. Kamini Desai's 2017 book does not mention the 1994
+  events [@desai2017]. Scholars close to the field argue the Satyananda
   institution has not reformed [@pankhania2017].
 - **Swami Rama / Himalayan Institute:** in September 1997 a Pennsylvania
   jury awarded US$1.9 million to a woman who said he had sexually
