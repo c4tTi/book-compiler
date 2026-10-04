@@ -40,7 +40,7 @@ wellness industry sells it.
 | Type | Top pick | Why |
 |---|---|---|
 | Book (practice) | Satyananda, *Yoga Nidra* (1976) [@satyananda1976] | The template every other book reacts to |
-| Book (reference) | Dinsmore-Tuli & Tuli, *Nidrā Shakti* (2022) [@dinsmoretuli2022] | The largest encyclopedia; history, 108 practices, critique |
+| Book (reference) | Dinsmore-Tuli (with Nirlipta Tuli), *Nidrā Shakti* (2024) [@dinsmoretuli2022] | The largest encyclopedia; history, 108 practices, critique |
 | Book (depth) | Miller, *Yoga Nidra: The Meditative Heart of Yoga* (2005) [@miller2005] | The philosophical and kośa-based version |
 | Book (other fields) | Mallinson & Singleton, *Roots of Yoga* (2017) [@mallinson2017] | Translated primary passages to check the old texts |
 | Scholarship (history) | Birch & Hargreaves (2015) [@birch2015]; Singleton (2005) [@singleton2005] | The honest history of the word and the relaxation method |
@@ -97,8 +97,10 @@ from `compiler.py check`.
 
 **Known gaps:** fieldwork on how yoga nidra is actually taught and
 experienced; the Royal Commission's findings report itself (site down);
-Satyananda's 1964 talk (second-hand only); German and French books read only
-at publisher-page level; Scandinavian, Spanish and Italian literatures;
+Satyananda's *Yoga Nidra* itself (only its Introduction and one page
+seen; his talks are read in the Bihar School archive instead); many
+German and French books read only from previews or publisher pages (see
+`reading/00-index.md`); Scandinavian, Spanish and Italian literatures;
 community forums.
 
 ## Chapters

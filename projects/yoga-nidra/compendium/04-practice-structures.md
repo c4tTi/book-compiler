@@ -10,11 +10,13 @@ The classic eight stages:
 
 1. **Preparation.** Lying in *śavāsana*; settling; awareness of sounds and
    the body touching the floor. "I am practising yoga nidra," said
-   mentally.
-2. **Sankalpa.** Short, positive resolve, repeated three times.
+   mentally (🔎 the usual quotation; not checked in the book itself).
+2. **Sankalpa.** Short, positive resolve ("I will..."), repeated three
+   times [@yoga1978a].
 3. **Rotation of consciousness.** Rapid naming of body parts in a fixed
-   order. Right side then left: thumb, fingers, palm, wrist... then back,
-   front, whole body.
+   order. Right side then left: thumb, fingers, palm, wrist... then back
+   and front (🔎 the order of back and front varies between practices and
+   sources), whole body.
 4. **Breath awareness.** Natural breath, often counting backwards (e.g.,
    27 → 1 or 54 → 1), at the nostrils, chest or abdomen.
 5. **Opposites (feelings and sensations).** Heaviness/lightness,
@@ -51,7 +53,10 @@ The ten-step protocol:
 - Gradual return.
 
 ## 4.4 Total Yoga Nidra (Dinsmore-Tuli & Tuli) [@dinsmoretuli2020; @dinsmoretuli2022]
-Uses the same elements as a **menu, not a sequence**:
+Uses the same elements with much variation. 🔎 *Yoga Nidra Made Easy*
+describes a **fixed nine-part order whose content varies** from practice
+to practice (pp. 11–13, per `reading/dinsmoretuli2020.md`), so "a menu,
+not a sequence" overstates the freedom:
 - Settling with **choice** of posture (lying, seated, side, curled) and
   permission to move.
 - Arriving, sensing, sometimes a sankalpa (optional).
@@ -100,7 +105,10 @@ variation.
 ---
 
 ## 4.8 Timing
-- **Classic:** 30–45 min [@satyananda1976].
+- **Classic:** Satyananda spoke of series "ranging from fifteen minutes to
+  half an hour" (1964) [@satyananda1965] and recommended a full hour in
+  1969 [@satyanandasaraswati1969]; the often-quoted 30–45 min is a
+  typical class length, not a rule found in his texts.
 - **Clinical protocols:** 20–35 min [@miller2015a].
 - **Modern short forms / NSDR:** 10–20 min.
 - **Short forms keep:** arrive, body, breath, rest, return.

@@ -37,9 +37,10 @@ An umbrella review of these reviews is pre-registered [@giridharan2026].
   not clearly better than other relaxation.
 - A well-run German online RCT (n = 362; 11- or 30-min yoga nidra vs. a
   10-min music control vs. waitlist, two months) found **very small**
-  effects (d = 0.08–0.16 vs. waitlist; only depression beat music,
-  d = 0.13); cortisol changes appeared only in those who practised often
-  [@moszeik2025; @moszeik2023]. This is probably closer to the truth for
+  effects: the 11-min version beat waitlist at d = 0.08–0.16 and beat
+  music only on depression (d = 0.13); the 30-min version did somewhat
+  better than the 11-min one; cortisol changes appeared only in those who
+  practised often [@moszeik2025; @moszeik2023]. This is probably closer to the truth for
   healthy adults using a recording than the pooled estimates are.
 - The meditation-research field as a whole has been criticised for hype,
   weak controls and vague definitions [@vandam2018]. Every criticism
@@ -53,22 +54,33 @@ An umbrella review of these reviews is pre-registered [@giridharan2026].
 - **Kjaer TW, Bertelsen C, Piccini P, Brooks D, Alving J, Lou HC (2002).**
   "Increased dopamine tone during meditation-induced change of
   consciousness." *Cognitive Brain Research* 13(2):255–259. [@kjaer2002]
-- Eight experienced yoga nidra practitioners (men aged 31–50, reportedly
-  meditation teachers). Raclopride binding in the ventral striatum fell by
-  7.9%, which the authors equate to a **~65% increase in endogenous dopamine release** in
-  the ventral striatum during the practice, together with reduced desire
-  for action.
-- **Most-cited finding in the literature.** Limitations: n=8, experienced
-  practitioners, no control condition of ordinary rest.
+- Eight experienced yoga nidra practitioners (yoga teachers, men aged
+  31–50) were scanned twice on separate days: once during a 72-minute
+  taped yoga nidra, once while **attending to recorded speech with eyes
+  closed** (the control) [@kjaer2002; @auntminnie2002]. Raclopride binding
+  in the ventral striatum fell by 7.9%, which the authors equate to a
+  **~65% increase in endogenous dopamine release**, together with reduced
+  desire for action and more EEG theta.
+- **Subjective null result:** "the level of gratification and the depth of
+  relaxation did not differ" between yoga nidra and the speech-listening
+  control (abstract) [@kjaer2002].
+- **Most-cited finding in the literature.** Limitations: n = 8 (the
+  abstract gives no n), experienced practitioners, one study, never
+  replicated. The control was attentive listening, not silent rest.
 
 ### Blood-flow patterns (PET) ✅🔎
 - **Lou HC, Kjaer TW, Friberg L, Wildschiødtz G, Holm S, Nowak M (1999).**
   "A 15O-H2O PET study of meditation and the resting state of normal
   consciousness." *Human Brain Mapping* 7(2):98–105. [@lou1999]
-- Different stages of the practice (body, abstract joy, visual images)
-  showed distinct regional activity, e.g., more posterior/sensory
-  activation during visualization and less executive (prefrontal)
-  activity overall.
+- Nine "highly experienced yoga teachers", compared with the resting
+  state of normal consciousness (eyes closed) [@lou1999]. Different stages
+  of the practice (body, abstract joy, visual images) showed distinct
+  regional activity, e.g., more posterior/sensory activation during
+  visualization and less executive (prefrontal) activity overall.
+- According to Swami Janakananda's Scandinavian school, the subjects
+  practised the "Deep Yoga Nidra" of its CD *Experience Yoga Nidra*; its
+  account speaks of "seven yoga teachers" measured, the abstract of nine
+  [@nilsson1999]. ⚠️ Unresolved (perhaps exclusions; check the methods).
 
 ### EEG ⚠️🔎
 - Studies report more **alpha and theta** during the practice, suggesting a
@@ -76,8 +88,11 @@ An umbrella review of these reviews is pre-registered [@giridharan2026].
   **"local sleep"** (sleep-like EEG patterns in parts of the brain while
   the person stays responsive). 🔎 e.g., Datta K et al. (2022),
   *Frontiers in Neurology* on local sleep during yoga nidra [@datta2022].
-- **Swami Rama / Menninger** [@swamirama] (1970–71): single subject, delta waves with
-  reported awareness. Historically significant; scientifically anecdotal.
+- **Swami Rama / Menninger** (1970): one subject, one 25-minute session.
+  He snored, showed scattered delta in a variable stage 2–4 record, and
+  afterwards repeated most of four sentences spoken in the room
+  [@green1974]. *Beyond Biofeedback* (1977) does not report this session
+  [@green1977]. Historically significant; scientifically anecdotal.
   A Himalayan-tradition psychologist argues it should be followed up with
   modern methods [@parker2019].
 - **Systematic review (2025, preprint):** 12 EEG studies, 326 people; the
@@ -129,12 +144,12 @@ review concluding the evidence is encouraging but methodologically weak.
 
 | Popular claim | Status |
 |---|---|
-| "1 hour of yoga nidra = 4 hours of sleep" | **No evidence.** Traces to lineage lore (already in a 1983 Hindi yoga monthly [@akhandjyoti1983]) and survives in book subtitles ("in 30 minutes completely refreshed" [@kuendig]). No study measures it; a sleep researcher quoted in the press says it cannot be tested, and the same article reports Huberman conceding there is no evidence for it [@worldcrunch] 🔎 (search snippet only). A sleep-physician-reviewed explainer notes that the research is on yoga nidra, not on "NSDR" as such, and that no study compares it with napping [@sleepfoundation]. Don't use, or quote as a claim and say so. |
+| "1 hour of yoga nidra = 4 hours of sleep" | **No evidence.** It is Satyananda's own claim: "One hour of yoga nidra is equal to four hours of sleep" (talk in Japan, 1969 [@satyanandasaraswati1969]), repeated in the Bihar School's *YOGA* magazine as "half an hour of yoga nidra equals two hours of sleep" (1977 [@shankardevanandasara1977]), as shavasana rest "almost twice as deep" as a night's sleep (1976 [@sahastrabudhe1976]) and as "one hour of yoga nidra during the day is equal to four hours of sleep at night" (Aug 1978 editorial [@yoga1978]). Swami Rama told the Menninger researchers in 1970 that with brain and mind quiet "a couple hours of sleep is enough" [@green1974]. Other groups repeated it (a 1983 Hindi monthly [@akhandjyoti1983]), and it survives in book subtitles ("in 30 minutes completely refreshed" [@kuendig]). No study measures it; a sleep researcher quoted in the press says it cannot be tested, and the same article reports Huberman conceding there is no evidence for it [@worldcrunch] 🔎 (search snippet only). A sleep-physician-reviewed explainer notes that the research is on yoga nidra, not on "NSDR" as such, and that no study compares it with napping [@sleepfoundation]. Don't use, or quote as a claim and say so. |
 | "Yoga nidra reaches delta (deep sleep) while aware" | Only in the Swami Rama anecdote and in claims; the EEG literature mostly shows alpha/theta. |
 | "The resolve made in yoga nidra always comes true" | A traditional teaching; not testable as stated. |
 | "Rotation follows the brain's homunculus, so it relaxes the brain systematically" | Plausible metaphor; not tested. |
 | "Reprograms the subconscious" | Metaphor, not a mechanism. |
-| "Increases dopamine by 65%" | Based on one n=8 study. You can cite it, but with context. |
+| "Increases dopamine by 65%" | Based on one n = 8 study, against a speech-listening control in which relaxation felt just as deep. You can cite it, but with context. |
 | "Equivalent to therapy for PTSD" | No. It is studied as a **complement**, not a replacement. |
 
 ## 6.4 Plausible mechanisms (reasonably supported in general relaxation research) ✅
@@ -146,11 +161,14 @@ review concluding the evidence is encouraging but methodologically weak.
 - **Expectancy and the relaxation response:** a supportive voice and a
   ritual matter, which is not a weakness but part of how it works. The
   "relaxation response" is Benson's classic model of what all such
-  practices share [@benson1975].
+  practices share [@benson1975]; treat the single shared mechanism as his
+  hypothesis, since techniques also have specific effects [@lehrer1994].
 
 ## 6.5 Where the research is (and isn't) ✅
 - **Registries:** ClinicalTrials.gov lists 22 studies mentioning yoga
-  nidra (15 completed, 2 withdrawn) and 27 on iRest; half have US sites,
+  nidra (15 completed, 2 withdrawn). A search for "iRest" returns 27
+  records, but only three or four concern iRest yoga nidra; the rest match
+  unrelated terms (checked 4 Oct 2026); half have US sites,
   others are in Iceland, Turkey, the UK, Italy and Taiwan [@ctgov]. Most
   Indian trials are registered in CTRI instead [@ctri]. Registered but
   unpublished European work includes an Austrian-led sleep-lab RCT

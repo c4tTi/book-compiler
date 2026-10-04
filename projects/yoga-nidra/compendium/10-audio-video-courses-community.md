@@ -253,8 +253,9 @@ What the trainings reveal about the field:
   asleep, twitching, not "getting" the visualizations). Not a source for
   claims.
 - The broader **rest movement** (Tricia Hersey's *Rest Is Resistance* and
-  The Nap Ministry) is not a yoga nidra community, but it shapes how
-  Stanley, Brody and others frame rest as justice and reclamation
+  The Nap Ministry) is not a yoga nidra community. Its language of rest as
+  justice and reclamation runs parallel to Stanley's and Brody's, but
+  Brody (2017) predates it and *Radiant Rest* (2021) does not cite it
   [@hersey2022]. 🔎
 
 ---

@@ -21,7 +21,9 @@ note.
   awareness that underlies all three.
 - **Aim of the practice** (varies by author):
   - *Relaxation view:* reach deep rest while staying just aware enough to
-    follow the voice [@lusk2015].
+    follow the voice (common in stress-management books). 🔎 Lusk herself
+    aims higher: yoga nidra is when the brain is "in delta, yet one
+    remains aware" (her site, quoting the book) [@lusk2015].
   - *Hypnagogic view:* stay on the threshold between waking and sleep,
     where the mind is suggestible and imagery arises [@satyananda1976; @desai2017].
   - *Turīya view:* recognize the awareness that stays constant as states
@@ -49,13 +51,17 @@ note.
   voice); then the other senses let go.
 
 ## 3.4 Sankalpa (resolve, intention) ✅
-- **Satyananda:** a short, positive, present-tense resolution, repeated
-  three times near the start and the end. It is planted like a "seed" in the
+- **Satyananda:** a short, positive resolution, repeated three times near
+  the start and the end. His own examples are future tense ("I will
+  develop courage and strength", 1978 compilation [@yoga1978a]); the
+  present-tense form ("I am...") belongs to later teachers. It is planted like a "seed" in the
   receptive mind. Keep the same one until it is fulfilled [Satyananda
   1976].
 - **Miller/iRest:** separates the **heartfelt desire** (deep longing: "I
   want to feel whole") from the **intention** (for this session: "I will
-  stay present") [@miller2015a].
+  stay present") [@miller2015a]. 🔎 The PTSD book and its audio
+  reportedly say heartfelt *mission*; *desire* is the later term. Cite the
+  word your edition uses.
 - **Stanley:** *sankalpa* is not a wish list but the heart's truth, which
   you **discover** in the practice [@stanley2021].
 - **Dinsmore-Tuli:** it may arise on its own, may be optional, and should

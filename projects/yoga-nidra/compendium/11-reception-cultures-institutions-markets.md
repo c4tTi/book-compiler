@@ -25,11 +25,21 @@ progressive muscle relaxation.
   [@marutdeva] ✅. The Scandinavian school of Swami Janakananda, whose
   recording was used in the Copenhagen PET studies, also records in German
   [@janakananda2012].
+- **Early German books:** the earliest German title with "yoga nidra" in
+  the German National Library's catalogue is Ingrid Ramm-Bonwitt's *Yoga
+  Nidra – der Schlaf der Yogis* (1984), by a German teacher trained in
+  Paris [@rammbonwitt1984] ✅ (catalogue). Earlier still, Boyes's French
+  method appeared as *Autogenes Yoga* (1976), "translated from the French",
+  probably from his 1973 book [@boyes1976].
 - **Popular guides** promise quick restoration: "in 30 minutes completely
-  refreshed" [@kuendig] 🔎, a mass-market GU guide by Anna Trökes
-  [@troekes] 🔎, and an "alpha-state" self-development method that reaches
-  "the unconscious" while being "not trance" [@roecker] ✅. ⚠️ These carry
-  the sleep-substitute and brainwave claims that `06` treats as myths.
+  refreshed" [@kuendig] 🔎, and an "alpha-state" self-development method
+  that reaches "the unconscious" while being "not trance" [@roecker] ✅.
+  ⚠️ These carry the sleep-substitute and brainwave claims that `06`
+  treats as myths. Anna Trökes's mass-market GU guide [@troekes] promises
+  deep rest "in only 30 minutes" but, in the pages seen, makes no
+  sleep-equivalence or brainwave claim. Newer: Skuban (2012, Himalayan
+  line) [@skuban2012] and Göttinger (2025) [@goettinger2025] (see `02`
+  §H).
 - **Yoga Vidya**, Europe's largest yoga association, files yoga nidra under
   *Tiefenentspannung* next to PMR and autogenic training and cites research
   loosely [@yogawiki] ✅.
@@ -47,9 +57,11 @@ progressive muscle relaxation.
 
 ## 11.2 French-speaking countries: "sommeil éveillé", sophrology
 
-- The first systematic modern presentation may be French: Dennis Boyes'
-  *Le yoga du sommeil éveillé* (1973), three years before Satyananda's book
-  [@boyes1973] (see `02` §D).
+- The first **book** on yoga nidra as a relaxation method was French:
+  Dennis Boyes' *Le yoga du sommeil éveillé* (1973), three years before
+  Satyananda's book, by a British teacher in Paris who said he had learned
+  the method in India [@boyes1973] (see `02` §D). Satyananda was already
+  teaching it in the 1960s (`01` §1.2).
 - Pierre Bonnasse's *Yoga-nidrâ: la pratique du sommeil conscient* is the
   French original of his English book [@bonnasse2015fr; @bonnasse2017] ✅.
 - **Sophrology** (Caycedo, 1960) is the French-speaking world's secular
@@ -89,7 +101,10 @@ progressive muscle relaxation.
   researchers studying patients' experience [@gunnarsdottir2022].
 - **Italy:** a Pisa group studies "traditional Nidrâ Yoga" with EEG and
   phenomenology [@zaccaro2021].
-- **Spanish:** a 352-page *Yoga-nidra* (Kairós, 2022) [@sesma2022] 🔎.
+- **Spanish:** a 352-page *Yoga-nidra* (Kairós, 2022) [@sesma2022] 🔎 and
+  its companion book of sessions [@sesma2024]; in Barcelona,
+  Satyananda-trained authors openly combine yoga nidra with NLP and
+  Ericksonian language [@jyotirananda2017].
 - **Trial registries** show where research happens now: of 22
   ClinicalTrials.gov records, half are in the US, the rest in Iceland,
   Turkey, the UK, Italy and Taiwan [@ctgov] ✅.

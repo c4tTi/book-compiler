@@ -34,7 +34,9 @@ The sample phrases are written for this compendium. Reuse them freely.
 ## Intention
 
 ### Sankalpa
-- Short, positive, present tense ("I am at ease in my body"). Repeat three
+- Short and positive. Satyananda's lineage words it in the future tense
+  ("I will maintain perfect health") [@yoga1978a]; many later teachers
+  prefer the present tense ("I am at ease in my body"). Repeat three
   times with feeling [@satyananda1976].
 - **iRest version:** heartfelt desire + intention [@miller2015a].
 - **Discovered version:** ask the heart and wait for what arises [Stanley

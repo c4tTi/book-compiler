@@ -10,7 +10,7 @@ If you read only five, for writing your own practical yoga nidra book:
 
 1. [Satyananda, *Yoga Nidra* (1976)](satyananda1976.md): the template every later book reacts to.
 2. [Miller, *Yoga Nidra: The Meditative Heart of Yoga* (2005)](miller2005.md): the clinical/non-dual alternative (iRest).
-3. [Dinsmore-Tuli & Tuli, *Nidrā Shakti* (2022)](dinsmoretuli2022.md): the encyclopedia and the post-lineage critique.
+3. [Dinsmore-Tuli, with Nirlipta Tuli, *Nidrā Shakti* (2024)](dinsmoretuli2022.md): the encyclopedia and the post-lineage critique.
 4. [Stanley, *Radiant Rest* (2021)](stanley2021.md): a contemporary tantric voice; rest as reclamation.
 5. [Wildcroft & Nolan, *Leading Safe and Simple Yoga Nidras* (2026)](wildcroft2026.md): the newest teacher-safety guide.
 
@@ -152,4 +152,4 @@ Suggested order after that: the early sources (Boyes 1973, Satyananda 1974, Jana
 
 - About half of the summaries rest on previews and secondary sources, not the whole book; the **Based on** column shows the first words of each file's basis statement.
 - Page numbers taken from Google Books search snippets often could not be re-checked (Google blocked repeated searches). Files that rely on them say so; Desai 2017 has a warning at the top.
-- Several summaries suggest corrections or additions to the compendium chapters under **Reviewer notes**; those suggestions have not yet been applied to `compendium/`.
+- Several summaries suggest corrections or additions to the compendium chapters under **Reviewer notes**; the verified ones were applied to `compendium/` on 4 Oct 2026 (log: `../compendium-changes.md`).
